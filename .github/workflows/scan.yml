@@ -2,7 +2,7 @@ name: 찐다이버전스 스캔
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "4,19,34,49 * * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -45,4 +45,3 @@ jobs:
           else
             echo "state unchanged, nothing to commit"
           fi
-# scheduled trigger re-register Fri Sep 18 07:37:48 UTC 2026
