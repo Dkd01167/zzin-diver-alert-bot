@@ -14,11 +14,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 43.71606294410454,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.7082759212866983,
-    "avg_loss": 0.9118972452500539,
-    "last_close": 4367.87
+    "prevRsi": 41.59651891072806,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.5855620258990185,
+    "avg_loss": 0.822156795850745,
+    "last_close": 4366.86
   },
   "PAXGUSDT|30m": {
     "inOB": false,
@@ -77,11 +77,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 41.512207737593435,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.5120598568924066,
-    "avg_loss": 0.7214564622810624,
-    "last_close": 4372.21
+    "prevRsi": 39.83481675073781,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.45740725422468564,
+    "avg_loss": 0.6908527141513799,
+    "last_close": 4371.34
   },
   "XAUTUSDT|30m": {
     "inOB": false,
@@ -140,11 +140,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 56.03569267609698,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.1409133404244461,
-    "avg_loss": 0.11055734494562194,
-    "last_close": 364.85
+    "prevRsi": 54.18636408635123,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.12675167963284065,
+    "avg_loss": 0.10716635817986356,
+    "last_close": 364.77
   },
   "TSLAUSDT|30m": {
     "inOB": false,
@@ -203,11 +203,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 60.61296358195795,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.08463151651151889,
-    "avg_loss": 0.05499458244515759,
-    "last_close": 91.98
+    "prevRsi": 66.184057186793,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.10546481114278725,
+    "avg_loss": 0.0538859685247861,
+    "last_close": 92.36
   },
   "CRCLUSDT|30m": {
     "inOB": false,
@@ -266,11 +266,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 65.12962511468996,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.07602606628699023,
-    "avg_loss": 0.040704325071953075,
-    "last_close": 222.67
+    "prevRsi": 57.25343603123193,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.06087072435587373,
+    "avg_loss": 0.04544730400257896,
+    "last_close": 222.49
   },
   "NVDAUSDT|30m": {
     "inOB": false,
@@ -329,11 +329,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 52.641261767802185,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.1292595640139765,
-    "avg_loss": 0.11628843326643365,
-    "last_close": 351.0
+    "prevRsi": 46.23023886403786,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.11211489144996557,
+    "avg_loss": 0.13039930316558265,
+    "last_close": 350.59
   },
   "GOOGLUSDT|30m": {
     "inOB": false,
@@ -392,11 +392,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 51.15518285294634,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.05789634277590404,
-    "avg_loss": 0.05528152024207446,
-    "last_close": 335.34
+    "prevRsi": 52.22730709979802,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.04911379922692239,
+    "avg_loss": 0.044924744887699083,
+    "last_close": 335.37
   },
   "AAPLUSDT|30m": {
     "inOB": false,
@@ -455,11 +455,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 54.92746701797169,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.05344793664867771,
-    "avg_loss": 0.04385845585471245,
-    "last_close": 254.59
+    "prevRsi": 56.1339857594816,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.04493626706164181,
+    "avg_loss": 0.035115534807872904,
+    "last_close": 254.62
   },
   "AMZNUSDT|30m": {
     "inOB": false,
@@ -518,11 +518,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 53.692835966757855,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.25291532797737953,
-    "avg_loss": 0.21812577727167776,
-    "last_close": 670.27
+    "prevRsi": 52.08317124613389,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.22902878118305345,
+    "avg_loss": 0.21070784718143803,
+    "last_close": 670.11
   },
   "METAUSDT|30m": {
     "inOB": false,
@@ -581,11 +581,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 66.86315550694204,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.09036628019455346,
-    "avg_loss": 0.0447848048977007,
-    "last_close": 250.18
+    "prevRsi": 49.78016719729109,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.09026046559308887,
+    "avg_loss": 0.09105765902341624,
+    "last_close": 249.64
   },
   "MCDUSDT|30m": {
     "inOB": false,
@@ -644,11 +644,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 67.97619415468343,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.30517708964661644,
-    "avg_loss": 0.14376991811343826,
-    "last_close": 155.24
+    "prevRsi": 56.83721671835075,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.29342349342333013,
+    "avg_loss": 0.2228289030959279,
+    "last_close": 154.37
   },
   "MSTRUSDT|30m": {
     "inOB": true,
@@ -707,11 +707,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 62.580264207415446,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.2039873513072393,
-    "avg_loss": 0.12197380256572214,
-    "last_close": 195.19
+    "prevRsi": 56.48077540691133,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.19250736545991412,
+    "avg_loss": 0.14832960795804956,
+    "last_close": 194.86
   },
   "COINUSDT|30m": {
     "inOB": false,
@@ -770,11 +770,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 62.818082610559564,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.08455443358535368,
-    "avg_loss": 0.0500476269543615,
-    "last_close": 120.26
+    "prevRsi": 62.00663531239093,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.07846431872704955,
+    "avg_loss": 0.048077491406244115,
+    "last_close": 120.29
   },
   "HOODUSDT|30m": {
     "inOB": false,
@@ -833,11 +833,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 58.41419679676249,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.15565010327995518,
-    "avg_loss": 0.11080927100794367,
-    "last_close": 274.89
+    "prevRsi": 56.09597884963774,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.14001941578209237,
+    "avg_loss": 0.10958745204243903,
+    "last_close": 274.83
   },
   "ARMUSDT|30m": {
     "inOB": false,
@@ -896,11 +896,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 58.686936271871296,
-    "last_ts": 1789778700000,
-    "avg_gain": 1.141656333671076,
-    "avg_loss": 0.8036766589770222,
-    "last_close": 1674.77
+    "prevRsi": 56.73605800410749,
+    "last_ts": 1789779600000,
+    "avg_gain": 1.030145395435625,
+    "avg_loss": 0.7855348468558752,
+    "last_close": 1674.29
   },
   "ASMLUSDT|30m": {
     "inOB": false,
@@ -959,11 +959,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 58.83078265473126,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.03755379661571023,
-    "avg_loss": 0.026279786622690045,
-    "last_close": 114.19
+    "prevRsi": 65.63885757537577,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.042728021561484704,
+    "avg_loss": 0.022367598837481524,
+    "last_close": 114.35
   },
   "BABAUSDT|30m": {
     "inOB": false,
@@ -1022,11 +1022,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 58.38220746472833,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.05375919817331596,
-    "avg_loss": 0.03832227751565081,
-    "last_close": 109.18
+    "prevRsi": 51.851524171589695,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.04304262331879562,
+    "avg_loss": 0.039968674818471835,
+    "last_close": 109.05
   },
   "INTCUSDT|30m": {
     "inOB": false,
@@ -1085,11 +1085,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 52.341531917976546,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.09477299942371174,
-    "avg_loss": 0.0862935378955031,
-    "last_close": 230.75
+    "prevRsi": 49.31689927270832,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.07986016025287723,
+    "avg_loss": 0.0820724864272667,
+    "last_close": 230.62
   },
   "IBMUSDT|30m": {
     "inOB": false,
@@ -1148,11 +1148,11 @@
     "lastLoRSI": 26.567352129878756,
     "lastLoPrice": 308.35,
     "lastLoTs": 1789760700000,
-    "prevRsi": 43.69187882916166,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.1315795908289691,
-    "avg_loss": 0.16957383711917343,
-    "last_close": 309.96
+    "prevRsi": 42.49402256413973,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.13244911117027872,
+    "avg_loss": 0.17923969393251507,
+    "last_close": 309.76
   },
   "APPUSDT|30m": {
     "inOB": false,
@@ -1211,10 +1211,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 57.38892628425985,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.06432034118658594,
-    "avg_loss": 0.047757624635589024,
+    "prevRsi": 57.388926284259846,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.05149846559290427,
+    "avg_loss": 0.038237427596351715,
     "last_close": 314.68
   },
   "GEUSDT|30m": {
@@ -1274,11 +1274,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 49.91212715901268,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.07449664104195407,
-    "avg_loss": 0.0747589513006018,
-    "last_close": 147.69
+    "prevRsi": 47.372076833027734,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.06026207010538321,
+    "avg_loss": 0.06694803790357914,
+    "last_close": 147.6
   },
   "ORCLUSDT|30m": {
     "inOB": false,
@@ -1337,11 +1337,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 54.933778154070346,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.09078657119261338,
-    "avg_loss": 0.07447890706738958,
-    "last_close": 177.39
+    "prevRsi": 49.67582016649466,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.07600513735793313,
+    "avg_loss": 0.07699714242968288,
+    "last_close": 177.19
   },
   "PLTRUSDT|30m": {
     "inOB": false,
@@ -1400,11 +1400,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 46.96516544689957,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.006229117768968384,
-    "avg_loss": 0.0070341545088887835,
-    "last_close": 22.57
+    "prevRsi": 53.00819589267871,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.007742482411961872,
+    "avg_loss": 0.006863716274062896,
+    "last_close": 22.59
   },
   "GMEUSDT|30m": {
     "inOB": false,
@@ -1457,17 +1457,17 @@
     "epLoPrice": 236.26,
     "epLoRSI": 29.213676623878058,
     "epLoTs": 1789751700000,
-    "lastHiRSI": 73.75315463773245,
-    "lastHiPrice": 245.23,
-    "lastHiTs": 1789761600000,
+    "lastHiRSI": null,
+    "lastHiPrice": null,
+    "lastHiTs": null,
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 56.437004559578426,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.1572770787233387,
-    "avg_loss": 0.12140014723982737,
-    "last_close": 243.02
+    "prevRsi": 48.67268744445014,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.13255748613526944,
+    "avg_loss": 0.139787217013815,
+    "last_close": 242.51
   },
   "MRVLUSDT|30m": {
     "inOB": false,
@@ -1526,11 +1526,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 45.63933328068133,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.12246259424894705,
-    "avg_loss": 0.14586427524277762,
-    "last_close": 494.58
+    "prevRsi": 47.4599292553727,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.1162792709784775,
+    "avg_loss": 0.12872587926690368,
+    "last_close": 494.68
   },
   "MSFTUSDT|30m": {
     "inOB": false,
@@ -1589,11 +1589,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 54.755161653673106,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.02722513581543105,
-    "avg_loss": 0.022496452055371482,
-    "last_close": 72.23
+    "prevRsi": 53.674945470497185,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.02312449831869675,
+    "avg_loss": 0.019957982932089606,
+    "last_close": 72.22
   },
   "NFLXUSDT|30m": {
     "inOB": false,
@@ -1652,11 +1652,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 41.78309649419281,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.044248064676901046,
-    "avg_loss": 0.061651374066349664,
-    "last_close": 112.06
+    "prevRsi": 58.12883780266803,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0979930751075617,
+    "avg_loss": 0.07058603091245226,
+    "last_close": 112.66
   },
   "FUTUUSDT|30m": {
     "inOB": false,
@@ -1715,11 +1715,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 48.94675494377944,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.00699564478352046,
-    "avg_loss": 0.007296711863116694,
-    "last_close": 26.93
+    "prevRsi": 57.47785303659191,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.009690026089429376,
+    "avg_loss": 0.007168686575534731,
+    "last_close": 26.97
   },
   "JDUSDT|30m": {
     "inOB": false,
@@ -1778,11 +1778,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 47.72261736065829,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.05999764728761135,
-    "avg_loss": 0.06572397194837042,
-    "last_close": 151.87
+    "prevRsi": 52.76292484595339,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.059466046315918904,
+    "avg_loss": 0.05323818016420127,
+    "last_close": 152.02
   },
   "RDDTUSDT|30m": {
     "inOB": false,
@@ -1841,10 +1841,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 57.834455503622024,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.13757313893188106,
-    "avg_loss": 0.10030087186997598,
+    "prevRsi": 57.39951102661961,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.11445998040573321,
+    "avg_loss": 0.08494934967140147,
     "last_close": 722.94
   },
   "QQQUSDT|30m": {
@@ -1904,11 +1904,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 56.36202736284756,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.028182098011070474,
-    "avg_loss": 0.021819825854513197,
-    "last_close": 109.64
+    "prevRsi": 50.938232342874706,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.023227430513966026,
+    "avg_loss": 0.022371777478996654,
+    "last_close": 109.58
   },
   "CSCOUSDT|30m": {
     "inOB": false,
@@ -1967,10 +1967,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.89347929647341,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.06907320347855753,
-    "avg_loss": 0.05450687124210078,
+    "prevRsi": 54.73715101128986,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0758650976830872,
+    "avg_loss": 0.06273381782758593,
     "last_close": 130.43
   },
   "PEPUSDT|30m": {
@@ -2030,11 +2030,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 53.42145937194165,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.08908145868820476,
-    "avg_loss": 0.07767074114966165,
-    "last_close": 377.18
+    "prevRsi": 52.302190786946625,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.07132360230976162,
+    "avg_loss": 0.06504468597150534,
+    "last_close": 377.14
   },
   "UNHUSDT|30m": {
     "inOB": false,
@@ -2093,11 +2093,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 47.831109337857534,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.5064387705997107,
-    "avg_loss": 0.5523674699632126,
-    "last_close": 1153.88
+    "prevRsi": 46.3406452020351,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.4449001381222823,
+    "avg_loss": 0.515164479412961,
+    "last_close": 1153.44
   },
   "LLYUSDT|30m": {
     "inOB": false,
@@ -2156,11 +2156,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 46.46961844774534,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.837497230684934,
-    "avg_loss": 0.9647496107146613,
-    "last_close": 4382.24
+    "prevRsi": 43.66515305277889,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.6914873964339739,
+    "avg_loss": 0.8921264193659159,
+    "last_close": 4380.88
   },
   "XAUUSDT|30m": {
     "inOB": false,
@@ -2219,11 +2219,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 38.14435924416661,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0177599973565641,
-    "avg_loss": 0.028799959891322092,
-    "last_close": 66.33
+    "prevRsi": 48.10245204351279,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0269055080875997,
+    "avg_loss": 0.029028247770129467,
+    "last_close": 66.43
   },
   "XAGUSDT|30m": {
     "inOB": false,
@@ -2282,11 +2282,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 52.47517072540781,
-    "last_ts": 1789778700000,
-    "avg_gain": 1.0152905715041607,
-    "avg_loss": 0.9195112737665779,
-    "last_close": 1806.59
+    "prevRsi": 48.89535226838619,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.9183576478114526,
+    "avg_loss": 0.9598528675164563,
+    "last_close": 1804.83
   },
   "XPTUSDT|30m": {
     "inOB": false,
@@ -2345,11 +2345,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 44.54954025120467,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.4709880303466902,
-    "avg_loss": 0.5862350693551167,
-    "last_close": 1304.13
+    "prevRsi": 47.96962963035412,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.5220192065129893,
+    "avg_loss": 0.5662093467103341,
+    "last_close": 1304.9
   },
   "XPDUSDT|30m": {
     "inOB": false,
@@ -2408,11 +2408,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 48.590799976359364,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.09247627158479775,
-    "avg_loss": 0.09784014969204842,
-    "last_close": 357.06
+    "prevRsi": 46.747886307912566,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.08081646088622556,
+    "avg_loss": 0.09206079040576821,
+    "last_close": 356.97
   },
   "AVGOUSDT|30m": {
     "inOB": false,
@@ -2471,11 +2471,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 59.60237839432711,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.45571906561408443,
-    "avg_loss": 0.30887972707010025,
-    "last_close": 1017.09
+    "prevRsi": 53.242185954756216,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.3932050973593769,
+    "avg_loss": 0.34531660363447797,
+    "last_close": 1016.16
   },
   "MUUSDT|30m": {
     "inOB": false,
@@ -2534,11 +2534,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 57.99308894997805,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0859626148061503,
-    "avg_loss": 0.06226645241994173,
-    "last_close": 763.14
+    "prevRsi": 58.30785803622862,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.07343289530943904,
+    "avg_loss": 0.05250706850094947,
+    "last_close": 763.17
   },
   "SPYUSDT|30m": {
     "inOB": false,
@@ -2597,11 +2597,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 51.007123043825246,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.218343299639105,
-    "avg_loss": 0.20972103061434755,
-    "last_close": 897.03
+    "prevRsi": 51.90915493477083,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.18124643925186584,
+    "avg_loss": 0.16791439659610846,
+    "last_close": 897.12
   },
   "COSTUSDT|30m": {
     "inOB": false,
@@ -2660,11 +2660,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 46.311632975996865,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.02058971283494243,
-    "avg_loss": 0.023869338837051078,
-    "last_close": 107.02
+    "prevRsi": 55.580375233850404,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.026995480720979216,
+    "avg_loss": 0.02157468565051016,
+    "last_close": 107.13
   },
   "WMTUSDT|30m": {
     "inOB": false,
@@ -2723,11 +2723,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.834817163553936,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.08637749239164567,
-    "avg_loss": 0.06832435276462076,
-    "last_close": 433.7
+    "prevRsi": 50.771058146547155,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.07778110451328109,
+    "avg_loss": 0.07541858710782183,
+    "last_close": 433.54
   },
   "TSMUSDT|30m": {
     "inOB": false,
@@ -2786,11 +2786,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 34.36060082901871,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0010193157642235527,
-    "avg_loss": 0.0019472090916593673,
-    "last_close": 6.687
+    "prevRsi": 48.27677117081903,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0021980454569967074,
+    "avg_loss": 0.0023549629644225765,
+    "last_close": 6.696
   },
   "COPPERUSDT|30m": {
     "inOB": false,
@@ -2849,11 +2849,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 52.36643687665627,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.04995709844116025,
-    "avg_loss": 0.045441980474269936,
-    "last_close": 131.93
+    "prevRsi": 47.36088535635347,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.04663110250554958,
+    "avg_loss": 0.05182799967272929,
+    "last_close": 131.8
   },
   "COPUSDT|30m": {
     "inOB": false,
@@ -2912,11 +2912,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.005879748521274,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.054719201857913,
-    "avg_loss": 0.054706333965264094,
-    "last_close": 163.01
+    "prevRsi": 55.12758743566356,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.05381125600650063,
+    "avg_loss": 0.04380095325134301,
+    "last_close": 163.15
   },
   "XOMUSDT|30m": {
     "inOB": false,
@@ -2975,11 +2975,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 42.13950227094673,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.017334582241147835,
-    "avg_loss": 0.023801599505116507,
-    "last_close": 58.85
+    "prevRsi": 40.38771519841634,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.013879036874563334,
+    "avg_loss": 0.020485464326800866,
+    "last_close": 58.83
   },
   "OXYUSDT|30m": {
     "inOB": false,
@@ -3038,11 +3038,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 56.886901152023604,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.05040809526151454,
-    "avg_loss": 0.03820298082224819,
-    "last_close": 95.961
+    "prevRsi": 56.77169346475774,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.043741831373741616,
+    "avg_loss": 0.03330683267728816,
+    "last_close": 95.973
   },
   "CLUSDT|30m": {
     "inOB": false,
@@ -3101,11 +3101,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 54.318451584670136,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.04069049267605772,
-    "avg_loss": 0.03422050255478106,
-    "last_close": 97.08
+    "prevRsi": 52.399619072964974,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.035232147379481535,
+    "avg_loss": 0.03200526388952364,
+    "last_close": 97.05
   },
   "EWJUSDT|30m": {
     "inOB": false,
@@ -3164,11 +3164,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 48.34028150117882,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.049936214764135935,
-    "avg_loss": 0.05336524152324252,
-    "last_close": 180.87
+    "prevRsi": 44.02051007658592,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.04130825941574655,
+    "avg_loss": 0.052530406569448414,
+    "last_close": 180.75
   },
   "EWYUSDT|30m": {
     "inOB": false,
@@ -3227,11 +3227,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 54.98801220057477,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.04133050926366026,
-    "avg_loss": 0.03383225369075008,
-    "last_close": 111.58
+    "prevRsi": 59.33227117215223,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.039520090689599954,
+    "avg_loss": 0.02708799612193073,
+    "last_close": 111.67
   },
   "EWTUSDT|30m": {
     "inOB": false,
@@ -3284,17 +3284,17 @@
     "epLoPrice": 24.209,
     "epLoRSI": 25.549486401095805,
     "epLoTs": 1789586100000,
-    "lastHiRSI": 70.09846306089393,
-    "lastHiPrice": 25.007,
-    "lastHiTs": 1789764300000,
+    "lastHiRSI": null,
+    "lastHiPrice": null,
+    "lastHiTs": null,
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 54.315641855782985,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.007422394034244779,
-    "avg_loss": 0.006242903439275764,
-    "last_close": 25.004
+    "prevRsi": 49.47113009357018,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.005942784144765225,
+    "avg_loss": 0.006069846521898311,
+    "last_close": 24.989
   },
   "KWEBUSDT|30m": {
     "inOB": false,
@@ -3353,11 +3353,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 58.36694177494572,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.028733542638594036,
-    "avg_loss": 0.020495595919643807,
-    "last_close": 72.83
+    "prevRsi": 51.79639713510639,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.02300568264467606,
+    "avg_loss": 0.021409921368606453,
+    "last_close": 72.76
   },
   "TQQQUSDT|30m": {
     "inOB": false,
@@ -3416,11 +3416,11 @@
     "lastLoRSI": 18.01667962703023,
     "lastLoPrice": 37.63,
     "lastLoTs": 1789761600000,
-    "prevRsi": 41.700057683301125,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.01084659665525117,
-    "avg_loss": 0.01516439051802248,
-    "last_close": 37.78
+    "prevRsi": 45.442488075965116,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.01011296386719608,
+    "avg_loss": 0.0121414599009094,
+    "last_close": 37.8
   },
   "SQQQUSDT|30m": {
     "inOB": false,
@@ -3479,11 +3479,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 63.88244832161129,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.057927145221954406,
-    "avg_loss": 0.03275057102699809,
-    "last_close": 99.48
+    "prevRsi": 62.50843088065678,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.048227382672242726,
+    "avg_loss": 0.02892602206498397,
+    "last_close": 99.47
   },
   "BZUSDT|30m": {
     "inOB": false,
@@ -3542,10 +3542,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 66.32493302609399,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0013445920245347496,
-    "avg_loss": 0.0006826878582896347,
+    "prevRsi": 64.35436800793846,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0012092087018596225,
+    "avg_loss": 0.000669775956509581,
     "last_close": 3.049
   },
   "NATGASUSDT|30m": {
@@ -3602,14 +3602,14 @@
     "lastHiRSI": null,
     "lastHiPrice": null,
     "lastHiTs": null,
-    "lastLoRSI": 29.35456259608638,
-    "lastLoPrice": 63.99,
-    "lastLoTs": 1789757100000,
-    "prevRsi": 48.44231520733593,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.031892523784291714,
-    "avg_loss": 0.03394356115052169,
-    "last_close": 64.54
+    "lastLoRSI": null,
+    "lastLoPrice": null,
+    "lastLoTs": null,
+    "prevRsi": 51.21118337388302,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.03369820508530962,
+    "avg_loss": 0.03210422880747021,
+    "last_close": 64.58
   },
   "RKLBUSDT|30m": {
     "inOB": false,
@@ -3668,11 +3668,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.031134115711176,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0788275863420665,
-    "avg_loss": 0.07872947834440527,
-    "last_close": 198.65
+    "prevRsi": 67.80866726685969,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.13976465276731684,
+    "avg_loss": 0.06635155390767321,
+    "last_close": 199.68
   },
   "BAUSDT|30m": {
     "inOB": false,
@@ -3731,11 +3731,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 47.54104301549683,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.15161580329336394,
-    "avg_loss": 0.16729979820898874,
-    "last_close": 122.13
+    "prevRsi": 43.40070204674156,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.13678932938612268,
+    "avg_loss": 0.17838835884298412,
+    "last_close": 121.74
   },
   "SOXLUSDT|30m": {
     "inOB": false,
@@ -3791,14 +3791,14 @@
     "lastHiRSI": null,
     "lastHiPrice": null,
     "lastHiTs": null,
-    "lastLoRSI": 16.12812743161099,
-    "lastLoPrice": 41.29,
-    "lastLoTs": 1789761600000,
-    "prevRsi": 49.78886750098633,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.055600354014124054,
-    "avg_loss": 0.05607190688440431,
-    "last_close": 41.986
+    "lastLoRSI": null,
+    "lastLoPrice": null,
+    "lastLoTs": null,
+    "prevRsi": 53.642330852984216,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.058077980236527035,
+    "avg_loss": 0.05019095460096066,
+    "last_close": 42.096
   },
   "SOXSUSDT|30m": {
     "inOB": false,
@@ -3857,11 +3857,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 47.85210503817556,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.01950343248670639,
-    "avg_loss": 0.021254299009425076,
-    "last_close": 48.07
+    "prevRsi": 48.969095026724425,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.016329825500471414,
+    "avg_loss": 0.017017381531963156,
+    "last_close": 48.08
   },
   "INDAUSDT|30m": {
     "inOB": false,
@@ -3920,11 +3920,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 53.722450628969874,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.015068798786103274,
-    "avg_loss": 0.012980552294648453,
-    "last_close": 22.492
+    "prevRsi": 47.78251806648089,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.012462882993100926,
+    "avg_loss": 0.01361963316011025,
+    "last_close": 22.452
   },
   "EWHUSDT|30m": {
     "inOB": false,
@@ -3983,11 +3983,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 52.25661265200731,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.013781668159389844,
-    "avg_loss": 0.012591392511737399,
-    "last_close": 21.03
+    "prevRsi": 53.223947631407384,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.012980439120327635,
+    "avg_loss": 0.011407904281445695,
+    "last_close": 21.04
   },
   "FLYUSDT|30m": {
     "inOB": false,
@@ -4046,11 +4046,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 54.461898376393236,
-    "last_ts": 1789778700000,
-    "avg_gain": 1.7551961486845544,
-    "avg_loss": 1.4676003402555966,
-    "last_close": 1788.22
+    "prevRsi": 52.667542988426355,
+    "last_ts": 1789779600000,
+    "avg_gain": 1.409619511173453,
+    "avg_loss": 1.2668286980836514,
+    "last_close": 1787.0
   },
   "SNDKUSDT|30m": {
     "inOB": true,
@@ -4109,10 +4109,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 49.80677888989401,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.6652188980750159,
-    "avg_loss": 0.6703802169482432,
+    "prevRsi": 49.98130636772963,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.584346180419397,
+    "avg_loss": 0.5847832859458109,
     "last_close": 926.71
   },
   "LITEUSDT|30m": {
@@ -4172,11 +4172,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 60.48849078064378,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.2744242436456769,
-    "avg_loss": 0.179255853351374,
-    "last_close": 557.65
+    "prevRsi": 54.39192110963208,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.21971941081980764,
+    "avg_loss": 0.18423655605428438,
+    "last_close": 557.08
   },
   "AMDUSDT|30m": {
     "inOB": false,
@@ -4235,11 +4235,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 57.37938999363932,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.2669334412641803,
-    "avg_loss": 0.19827443440994358,
-    "last_close": 443.89
+    "prevRsi": 52.789051431415274,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.2463639834028459,
+    "avg_loss": 0.22033124358551467,
+    "last_close": 443.52
   },
   "AMATUSDT|30m": {
     "inOB": false,
@@ -4292,17 +4292,17 @@
     "epLoPrice": 772.84,
     "epLoRSI": 16.545138557862202,
     "epLoTs": 1789479000000,
-    "lastHiRSI": 70.83314509289869,
-    "lastHiPrice": 862.8,
-    "lastHiTs": 1789769700000,
+    "lastHiRSI": null,
+    "lastHiPrice": null,
+    "lastHiTs": null,
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.84180042375638,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.7325880390158535,
-    "avg_loss": 0.5793109926353426,
-    "last_close": 860.64
+    "prevRsi": 52.93754763028804,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.7251734408592696,
+    "avg_loss": 0.6446925112317262,
+    "last_close": 859.91
   },
   "STXSTOCKUSDT|30m": {
     "inOB": true,
@@ -4361,11 +4361,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 47.00188684046778,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.12237594870845013,
-    "avg_loss": 0.13798795779558967,
-    "last_close": 103.96
+    "prevRsi": 44.888567239310056,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.09921281316051991,
+    "avg_loss": 0.12180741373065325,
+    "last_close": 103.82
   },
   "AAOIUSDT|30m": {
     "inOB": false,
@@ -4418,17 +4418,17 @@
     "epLoPrice": 266.0,
     "epLoRSI": 28.420789764985656,
     "epLoTs": 1789448400000,
-    "lastHiRSI": 75.41697613876345,
-    "lastHiPrice": 317.88,
-    "lastHiTs": 1789761600000,
+    "lastHiRSI": null,
+    "lastHiPrice": null,
+    "lastHiTs": null,
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.58030276222669,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.2459367206438572,
-    "avg_loss": 0.2402935057744838,
-    "last_close": 315.82
+    "prevRsi": 47.467354056465254,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.20306959739597596,
+    "avg_loss": 0.22473937033037455,
+    "last_close": 315.46
   },
   "COHRUSDT|30m": {
     "inOB": false,
@@ -4487,10 +4487,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 43.66711060515946,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.19581519786809126,
-    "avg_loss": 0.252611994026201,
+    "prevRsi": 44.029412557024294,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.16540305747674772,
+    "avg_loss": 0.21026186256398063,
     "last_close": 266.99
   },
   "BEUSDT|30m": {
@@ -4550,11 +4550,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 49.75422868819409,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.21449228724943215,
-    "avg_loss": 0.2166113453556249,
-    "last_close": 222.26
+    "prevRsi": 44.89417928866781,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.17974109150400935,
+    "avg_loss": 0.22062504582591308,
+    "last_close": 221.72
   },
   "NBISUSDT|30m": {
     "inOB": false,
@@ -4613,10 +4613,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 56.80943577644885,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.034259115096163646,
-    "avg_loss": 0.026046210291993516,
+    "prevRsi": 56.17174280588829,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.02927743289587162,
+    "avg_loss": 0.022843849858421996,
     "last_close": 39.16
   },
   "IONQUSDT|30m": {
@@ -4676,11 +4676,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.13894622041958,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.029748425972993705,
-    "avg_loss": 0.029583546905364015,
-    "last_close": 38.07
+    "prevRsi": 51.01134246967405,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.02851213260301283,
+    "avg_loss": 0.027381578918033934,
+    "last_close": 38.08
   },
   "OKLOUSDT|30m": {
     "inOB": false,
@@ -4739,10 +4739,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 61.56819866122975,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.03821480460889827,
-    "avg_loss": 0.02385425935571403,
+    "prevRsi": 59.740696918617616,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.03656629946273645,
+    "avg_loss": 0.024642058237792676,
     "last_close": 48.19
   },
   "MPUSDT|30m": {
@@ -4802,11 +4802,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 60.655980760214995,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.15936068677089493,
-    "avg_loss": 0.10336804133405324,
-    "last_close": 175.91
+    "prevRsi": 57.138319597520926,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.15213390263690124,
+    "avg_loss": 0.11412156953750605,
+    "last_close": 175.79
   },
   "CRDOUSDT|30m": {
     "inOB": false,
@@ -4865,11 +4865,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.46183526603437,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.05220926664919454,
-    "avg_loss": 0.05125361054095863,
-    "last_close": 81.36
+    "prevRsi": 49.065174480166746,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.047344664296020765,
+    "avg_loss": 0.04914875450382177,
+    "last_close": 81.33
   },
   "CRWVUSDT|30m": {
     "inOB": false,
@@ -4928,11 +4928,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 52.004469799383415,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.02364447243079804,
-    "avg_loss": 0.02182175868743245,
-    "last_close": 27.88
+    "prevRsi": 56.18469542671472,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.02240412023704934,
+    "avg_loss": 0.017471721514682615,
+    "last_close": 27.93
   },
   "APLDUSDT|30m": {
     "inOB": false,
@@ -4991,11 +4991,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 59.431284898320236,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.09749627913346452,
-    "avg_loss": 0.066552469434346,
-    "last_close": 176.86
+    "prevRsi": 55.44080571149304,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.07867686780474491,
+    "avg_loss": 0.06323461200701938,
+    "last_close": 176.73
   },
   "KLACUSDT|30m": {
     "inOB": false,
@@ -5054,11 +5054,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 47.78883866296969,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.060613370377948166,
-    "avg_loss": 0.06622246006652731,
-    "last_close": 69.79
+    "prevRsi": 45.54175351614228,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.05383657970858397,
+    "avg_loss": 0.06437709357367466,
+    "last_close": 69.7
   },
   "AXTIUSDT|30m": {
     "inOB": false,
@@ -5117,11 +5117,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 43.736599963345256,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.006718062222021755,
-    "avg_loss": 0.008642213216974472,
-    "last_close": 5.072
+    "prevRsi": 45.70491365458884,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.005992194862165401,
+    "avg_loss": 0.007118419255719001,
+    "last_close": 5.078
   },
   "LWLGUSDT|30m": {
     "inOB": false,
@@ -5180,11 +5180,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 46.63300352803619,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0033084572216543554,
-    "avg_loss": 0.0037862117281277025,
-    "last_close": 4.699
+    "prevRsi": 58.19733496322302,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0042203646195242955,
+    "avg_loss": 0.0030314530490876688,
+    "last_close": 4.721
   },
   "KOPNUSDT|30m": {
     "inOB": false,
@@ -5237,17 +5237,17 @@
     "epLoPrice": 54.94,
     "epLoRSI": 25.526210183072507,
     "epLoTs": 1789585200000,
-    "lastHiRSI": 74.16899747777983,
-    "lastHiPrice": 59.89,
-    "lastHiTs": 1789767000000,
+    "lastHiRSI": null,
+    "lastHiPrice": null,
+    "lastHiTs": null,
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.38714592469952,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.02932139215995743,
-    "avg_loss": 0.02361759155265477,
-    "last_close": 59.67
+    "prevRsi": 49.542883190291384,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.023476347877342006,
+    "avg_loss": 0.023909565831334766,
+    "last_close": 59.6
   },
   "DRAMUSDT|30m": {
     "inOB": false,
@@ -5306,11 +5306,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 56.193216554932505,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.01273237057727048,
-    "avg_loss": 0.009925827970277985,
-    "last_close": 15.61
+    "prevRsi": 57.236167515359995,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.011524423527063832,
+    "avg_loss": 0.008610438793987134,
+    "last_close": 15.62
   },
   "USARUSDT|30m": {
     "inOB": false,
@@ -5369,11 +5369,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 56.37903746491868,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0031805552794691417,
-    "avg_loss": 0.002460823897052295,
-    "last_close": 3.687
+    "prevRsi": 44.26035730194301,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0033424489610035376,
+    "avg_loss": 0.004209340416116573,
+    "last_close": 3.666
   },
   "NIOUSDT|30m": {
     "inOB": false,
@@ -5432,11 +5432,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 42.47077642037863,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.07085964756632243,
-    "avg_loss": 0.09598365867547742,
-    "last_close": 198.17
+    "prevRsi": 43.18984635594234,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.07397909828834204,
+    "avg_loss": 0.09730907365525532,
+    "last_close": 198.15
   },
   "CBRSUSDT|30m": {
     "inOB": false,
@@ -5495,11 +5495,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 47.97534848093955,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.012362337244100614,
-    "avg_loss": 0.013405765824524579,
-    "last_close": 13.136
+    "prevRsi": 48.20905275679332,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.01211226491446398,
+    "avg_loss": 0.013012196616793124,
+    "last_close": 13.13
   },
   "INFQUSDT|30m": {
     "inOB": false,
@@ -5558,10 +5558,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.189184520849516,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.13245713500442585,
-    "avg_loss": 0.13145855971940598,
+    "prevRsi": 50.21884117285454,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.10804239271309177,
+    "avg_loss": 0.10710074916309587,
     "last_close": 249.21
   },
   "VRTUSDT|30m": {
@@ -5608,24 +5608,24 @@
   },
   "ETNUSDT|15m": {
     "inOB": true,
-    "epHiPrice": 429.36,
-    "epHiRSI": 72.71170155943688,
-    "epHiTs": 1789778700000,
+    "epHiPrice": 431.65,
+    "epHiRSI": 72.7504611219614,
+    "epHiTs": 1789779600000,
     "inOS": false,
     "epLoPrice": 392.06,
     "epLoRSI": 29.961258289839222,
     "epLoTs": 1789416000000,
-    "lastHiRSI": 82.19075452984987,
-    "lastHiPrice": 430.43,
-    "lastHiTs": 1789777800000,
+    "lastHiRSI": 72.71170155943688,
+    "lastHiPrice": 429.36,
+    "lastHiTs": 1789778700000,
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 72.71170155943688,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.5208004431834597,
-    "avg_loss": 0.19545351871528746,
-    "last_close": 429.29
+    "prevRsi": 72.7504611219614,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.6989717834089137,
+    "avg_loss": 0.2618080833154128,
+    "last_close": 431.65
   },
   "ETNUSDT|30m": {
     "inOB": true,
@@ -5684,11 +5684,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.03409512391121,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.005084413110881142,
-    "avg_loss": 0.0050774836882703425,
-    "last_close": 10.687
+    "prevRsi": 45.040291819841414,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.00425563250896716,
+    "avg_loss": 0.0051928686818986675,
+    "last_close": 10.674
   },
   "NOKSTOCKUSDT|30m": {
     "inOB": false,
@@ -5747,11 +5747,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.598307437377535,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.036221168322367825,
-    "avg_loss": 0.028926801088688607,
-    "last_close": 35.27
+    "prevRsi": 52.03548067662912,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.02900069489950514,
+    "avg_loss": 0.026731844749216364,
+    "last_close": 35.22
   },
   "OUSTUSDT|30m": {
     "inOB": false,
@@ -5810,11 +5810,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 61.87221341850202,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.007487867514043406,
-    "avg_loss": 0.004614281577335738,
-    "last_close": 7.793
+    "prevRsi": 51.2864095540762,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.005995205877679798,
+    "avg_loss": 0.005694452122961629,
+    "last_close": 7.765
   },
   "POETUSDT|30m": {
     "inOB": false,
@@ -5873,11 +5873,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 58.02791573322334,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.005497262534016589,
-    "avg_loss": 0.0039762166777642044,
-    "last_close": 7.412
+    "prevRsi": 51.36332036011607,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.005263661001178727,
+    "avg_loss": 0.004984237624288625,
+    "last_close": 7.398
   },
   "ONDSUSDT|30m": {
     "inOB": false,
@@ -5936,11 +5936,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 47.42055033277538,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.014183086077405368,
-    "avg_loss": 0.015726069294843714,
-    "last_close": 10.805
+    "prevRsi": 46.450683704028755,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.011355772635590232,
+    "avg_loss": 0.013091171370543579,
+    "last_close": 10.798
   },
   "RDWUSDT|30m": {
     "inOB": false,
@@ -5999,11 +5999,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 52.10918477173861,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.08208398820105277,
-    "avg_loss": 0.07543908294392317,
-    "last_close": 178.77
+    "prevRsi": 49.74229900696916,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.07003226023240225,
+    "avg_loss": 0.07075789549118092,
+    "last_close": 178.69
   },
   "QCOMUSDT|30m": {
     "inOB": false,
@@ -6056,17 +6056,17 @@
     "epLoPrice": 409.2,
     "epLoRSI": 25.413221680158586,
     "epLoTs": 1789496100000,
-    "lastHiRSI": 75.95559089364735,
-    "lastHiPrice": 440.0,
-    "lastHiTs": 1789738200000,
+    "lastHiRSI": null,
+    "lastHiPrice": null,
+    "lastHiTs": null,
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.395541716572694,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.2400263269459669,
-    "avg_loss": 0.23625851645523746,
-    "last_close": 441.79
+    "prevRsi": 46.73327785712455,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.19402618086745074,
+    "avg_loss": 0.22115158915894856,
+    "last_close": 441.37
   },
   "WDCUSDT|30m": {
     "inOB": false,
@@ -6125,11 +6125,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 42.64065659745744,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.016655061906435984,
-    "avg_loss": 0.022404050301111693,
-    "last_close": 38.98
+    "prevRsi": 50.39137150109835,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.024082423836894747,
+    "avg_loss": 0.02370834493860849,
+    "last_close": 39.056
   },
   "SMCIUSDT|30m": {
     "inOB": false,
@@ -6188,11 +6188,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 47.12314027202113,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.02204670833563595,
-    "avg_loss": 0.024738603951215084,
-    "last_close": 58.79
+    "prevRsi": 43.78359102972753,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.017651828794968,
+    "avg_loss": 0.022664253965313182,
+    "last_close": 58.75
   },
   "ASTSUSDT|30m": {
     "inOB": false,
@@ -6251,11 +6251,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.630604519444816,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.06287593785067422,
-    "avg_loss": 0.06130969739396629,
-    "last_close": 152.58
+    "prevRsi": 49.71811118906701,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.052995056653764507,
+    "avg_loss": 0.05359599313941046,
+    "last_close": 152.55
   },
   "SPCXUSDT|30m": {
     "inOB": false,
@@ -6314,11 +6314,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 60.51982832914729,
-    "last_ts": 1789778700000,
-    "avg_gain": 4.86695494507308,
-    "avg_loss": 3.1749630170918577,
-    "last_close": 29679.0
+    "prevRsi": 55.20059271852754,
+    "last_ts": 1789779600000,
+    "avg_gain": 4.081523328835845,
+    "avg_loss": 3.3124612786263894,
+    "last_close": 29671.0
   },
   "NDX100USDT|30m": {
     "inOB": false,
@@ -6377,11 +6377,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 57.40823427620327,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.9439416015462433,
-    "avg_loss": 0.7003200857314715,
-    "last_close": 7653.6
+    "prevRsi": 55.495717446244626,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.888425546135968,
+    "avg_loss": 0.7124647333644861,
+    "last_close": 7653.2
   },
   "SP500USDT|30m": {
     "inOB": false,
@@ -6440,11 +6440,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.55006078645531,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.003739457583590961,
-    "avg_loss": 0.0029922318702984355,
-    "last_close": 6.177
+    "prevRsi": 59.15379868643105,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.004334033641089439,
+    "avg_loss": 0.002992687106066226,
+    "last_close": 6.188
   },
   "JOBYUSDT|30m": {
     "inOB": false,
@@ -6503,11 +6503,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.93350858778274,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.004587311964296103,
-    "avg_loss": 0.00441915959340147,
-    "last_close": 5.29
+    "prevRsi": 50.39448470248204,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.003734447662375581,
+    "avg_loss": 0.0036759816423845323,
+    "last_close": 5.289
   },
   "ACHRUSDT|30m": {
     "inOB": false,
@@ -6566,11 +6566,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.595382341996235,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.016333939816891917,
-    "avg_loss": 0.013046089834515677,
-    "last_close": 15.775
+    "prevRsi": 52.86638973379609,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.013077866537066888,
+    "avg_loss": 0.011659715512547807,
+    "last_close": 15.758
   },
   "RGTIUSDT|30m": {
     "inOB": false,
@@ -6629,11 +6629,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 58.972345451751664,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.010042286847160246,
-    "avg_loss": 0.006986520079598943,
-    "last_close": 17.121
+    "prevRsi": 58.03066531662734,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.008770008820412142,
+    "avg_loss": 0.006342705763439612,
+    "last_close": 17.12
   },
   "QBTSUSDT|30m": {
     "inOB": false,
@@ -6692,11 +6692,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 57.34345865207089,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.009566375184941819,
-    "avg_loss": 0.007116216709253844,
-    "last_close": 8.687
+    "prevRsi": 53.55509647388718,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.007924681589401274,
+    "avg_loss": 0.006872568553291035,
+    "last_close": 8.674
   },
   "QUBTUSDT|30m": {
     "inOB": false,
@@ -6755,11 +6755,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 60.77789392951929,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.02803328013732362,
-    "avg_loss": 0.018090858632328784,
-    "last_close": 20.19
+    "prevRsi": 58.25110153228619,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.025960319410240577,
+    "avg_loss": 0.018605909772312888,
+    "last_close": 20.178
   },
   "ARQQUSDT|30m": {
     "inOB": false,
@@ -6818,11 +6818,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 52.73792817353009,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.07350640326378187,
-    "avg_loss": 0.06587412572081289,
-    "last_close": 511.15
+    "prevRsi": 53.3904498867289,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.06725348686972964,
+    "avg_loss": 0.05871190022180455,
+    "last_close": 511.19
   },
   "BRKBUSDT|30m": {
     "inOB": false,
@@ -6882,9 +6882,9 @@
     "lastLoPrice": null,
     "lastLoTs": null,
     "prevRsi": 45.3138523265393,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.14700725362817918,
-    "avg_loss": 0.177412865342991,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.11770223623218282,
+    "avg_loss": 0.14204667097614845,
     "last_close": 363.72
   },
   "PANWUSDT|30m": {
@@ -6944,11 +6944,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 46.010991804098836,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.9472414147789516,
-    "avg_loss": 1.1114871142908516,
-    "last_close": 1493.05
+    "prevRsi": 50.492323938487125,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.9189247041798099,
+    "avg_loss": 0.9010048068866661,
+    "last_close": 1495.13
   },
   "OPENAIUSDT|30m": {
     "inOB": false,
@@ -7007,11 +7007,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 46.47768637446487,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.13766838940026063,
-    "avg_loss": 0.1585347999992369,
-    "last_close": 332.92
+    "prevRsi": 42.94507651550188,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.12069513539080383,
+    "avg_loss": 0.1603502024775232,
+    "last_close": 332.59
   },
   "SNOWUSDT|30m": {
     "inOB": false,
@@ -7070,11 +7070,11 @@
     "lastLoRSI": 22.241891340691282,
     "lastLoPrice": 568.4,
     "lastLoTs": 1789760700000,
-    "prevRsi": 44.1664878092057,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.2004932093203055,
-    "avg_loss": 0.2534555180188794,
-    "last_close": 571.36
+    "prevRsi": 43.753335945951946,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.1851616548384502,
+    "avg_loss": 0.23803271613975024,
+    "last_close": 571.24
   },
   "DELLUSDT|30m": {
     "inOB": false,
@@ -7133,11 +7133,11 @@
     "lastLoRSI": 28.426989853348744,
     "lastLoPrice": 51.333,
     "lastLoTs": 1789760700000,
-    "prevRsi": 45.887285659158906,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.05892282102836879,
-    "avg_loss": 0.06948490712978615,
-    "last_close": 51.998
+    "prevRsi": 46.40991654973339,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.05387588841083311,
+    "avg_loss": 0.06221113008897199,
+    "last_close": 51.993
   },
   "QNTSTOCKUSDT|30m": {
     "inOB": false,
@@ -7196,11 +7196,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 43.022203235261046,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.001795550081447837,
-    "avg_loss": 0.002377992755559176,
-    "last_close": 2.039
+    "prevRsi": 42.90747635387325,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.001683973589264176,
+    "avg_loss": 0.002240688806109175,
+    "last_close": 2.038
   },
   "EVEXUSDT|30m": {
     "inOB": false,
@@ -7260,9 +7260,9 @@
     "lastLoPrice": null,
     "lastLoTs": null,
     "prevRsi": 57.98518655027322,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.006091875831112352,
-    "avg_loss": 0.004414041617011556,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.004877496793350525,
+    "avg_loss": 0.0035341288019585973,
     "last_close": 6.845
   },
   "RCATUSDT|30m": {
@@ -7322,11 +7322,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 52.66539372521402,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.08317296463058095,
-    "avg_loss": 0.07475420299782924,
-    "last_close": 47.61
+    "prevRsi": 45.798805036668114,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0673072169436543,
+    "avg_loss": 0.07965560640897641,
+    "last_close": 47.31
   },
   "KTOSUSDT|30m": {
     "inOB": false,
@@ -7385,11 +7385,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.32212098086668,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.05846718024834007,
-    "avg_loss": 0.04721781376799767,
-    "last_close": 52.38
+    "prevRsi": 55.331026867479586,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.052169240162391696,
+    "avg_loss": 0.04211644928873576,
+    "last_close": 52.39
   },
   "DFENUSDT|30m": {
     "inOB": false,
@@ -7448,11 +7448,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 48.76660668580367,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.09295122751576423,
-    "avg_loss": 0.09765302779901663,
-    "last_close": 160.37
+    "prevRsi": 46.78284328256541,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.08105460891112717,
+    "avg_loss": 0.09220251533325119,
+    "last_close": 160.26
   },
   "AVAVUSDT|30m": {
     "inOB": false,
@@ -7511,11 +7511,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 44.98863127236838,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.203148538187786,
-    "avg_loss": 0.24840673798385882,
-    "last_close": 449.65
+    "prevRsi": 46.4976723057538,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.17573153731726537,
+    "avg_loss": 0.20220466594407432,
+    "last_close": 449.79
   },
   "AXONUSDT|30m": {
     "inOB": false,
@@ -7574,11 +7574,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 51.028955068516126,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.36824565202745724,
-    "avg_loss": 0.35339493718903175,
-    "last_close": 535.0
+    "prevRsi": 48.55111347952749,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.3076952250380233,
+    "avg_loss": 0.32606001348553587,
+    "last_close": 534.48
   },
   "LMTUSDT|30m": {
     "inOB": false,
@@ -7637,10 +7637,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.50867278395457,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.10629896261173287,
-    "avg_loss": 0.08520077478148365,
+    "prevRsi": 54.49450995644407,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.11561910381121668,
+    "avg_loss": 0.09654741333634144,
     "last_close": 193.85
   },
   "RTXSTOCKUSDT|30m": {
@@ -7700,11 +7700,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 44.78551886048621,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.2970715070166218,
-    "avg_loss": 0.36624894694986077,
-    "last_close": 525.97
+    "prevRsi": 42.29108808583831,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.2704942058730006,
+    "avg_loss": 0.3691067552656154,
+    "last_close": 525.4
   },
   "NOCUSDT|30m": {
     "inOB": false,
@@ -7763,11 +7763,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.80923770915454,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.07222480814123518,
-    "avg_loss": 0.06992416200208601,
-    "last_close": 136.3
+    "prevRsi": 46.50304816599884,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.06090667036672406,
+    "avg_loss": 0.07006683087411839,
+    "last_close": 136.15
   },
   "NOWUSDT|30m": {
     "inOB": false,
@@ -7826,11 +7826,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 52.77549727711778,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.18086466530042272,
-    "avg_loss": 0.16184108761882335,
-    "last_close": 197.32
+    "prevRsi": 48.24555755869673,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.15651227028608902,
+    "avg_loss": 0.16789536060442842,
+    "last_close": 196.96
   },
   "NTAPUSDT|30m": {
     "inOB": false,
@@ -7883,17 +7883,17 @@
     "epLoPrice": 1251.54,
     "epLoRSI": 27.950229504163346,
     "epLoTs": 1789585200000,
-    "lastHiRSI": 79.66449918175931,
-    "lastHiPrice": 1355.95,
-    "lastHiTs": 1789759800000,
+    "lastHiRSI": null,
+    "lastHiPrice": null,
+    "lastHiTs": null,
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 52.05973470326044,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.7695267394081762,
-    "avg_loss": 0.7086343457269383,
-    "last_close": 1349.8
+    "prevRsi": 46.29944776957086,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.6321393026529741,
+    "avg_loss": 0.7331886507150392,
+    "last_close": 1347.72
   },
   "SKHYNIXUSDT|30m": {
     "inOB": false,
@@ -7952,11 +7952,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 48.94013492633593,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.06880583771398169,
-    "avg_loss": 0.07178600539709137,
-    "last_close": 188.72
+    "prevRsi": 44.40519226648788,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.05878514047289291,
+    "avg_loss": 0.07359834324249552,
+    "last_close": 188.55
   },
   "SAMSUNGUSDT|30m": {
     "inOB": false,
@@ -8015,11 +8015,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 54.01981451003768,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0780890880894305,
-    "avg_loss": 0.06646729144963733,
-    "last_close": 265.98
+    "prevRsi": 53.170994857686125,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.06252249509201123,
+    "avg_loss": 0.05506510179112908,
+    "last_close": 265.95
   },
   "HYUNDAIUSDT|30m": {
     "inOB": false,
@@ -8078,11 +8078,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.57579817652217,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.8353761139677592,
-    "avg_loss": 0.8163548405336171,
-    "last_close": 2091.42
+    "prevRsi": 52.0527590074865,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.7958386743393389,
+    "avg_loss": 0.7330690906167459,
+    "last_close": 2092.0
   },
   "ANTHROPICUSDT|30m": {
     "inOB": false,
@@ -8141,11 +8141,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 46.70152661772819,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.42420392528854606,
-    "avg_loss": 0.48412596456887796,
-    "last_close": 613.92
+    "prevRsi": 50.061347366895106,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.42248032939465724,
+    "avg_loss": 0.42144487760853616,
+    "last_close": 614.64
   },
   "SITMUSDT|30m": {
     "inOB": false,
@@ -8204,11 +8204,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 49.06280502675465,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.00885919975212588,
-    "avg_loss": 0.009197655634138381,
-    "last_close": 8.341
+    "prevRsi": 48.79319865210436,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.007401115836523574,
+    "avg_loss": 0.007767219179373929,
+    "last_close": 8.34
   },
   "SMRUSDT|30m": {
     "inOB": false,
@@ -8267,11 +8267,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 58.803271707546976,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.004993368310585687,
-    "avg_loss": 0.003498282180257366,
-    "last_close": 8.024
+    "prevRsi": 49.83464302293883,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.004793888548963745,
+    "avg_loss": 0.004825701876831266,
+    "last_close": 8.006
   },
   "BBSTOCKUSDT|30m": {
     "inOB": false,
@@ -8330,11 +8330,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 62.25794765949992,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.3584814509743727,
-    "avg_loss": 0.2173188515588447,
-    "last_close": 364.63
+    "prevRsi": 53.74192053416315,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.3215101121686201,
+    "avg_loss": 0.27673816212637775,
+    "last_close": 363.64
   },
   "KIOXIAUSDT|30m": {
     "inOB": true,
@@ -8393,11 +8393,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 62.573151499218106,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.6213353715471872,
-    "avg_loss": 0.371639021879283,
-    "last_close": 336.36
+    "prevRsi": 62.614404834711216,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.5027965784581476,
+    "avg_loss": 0.30020806525830107,
+    "last_close": 336.4
   },
   "TOKYOELUSDT|30m": {
     "inOB": false,
@@ -8456,11 +8456,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 47.56488065007957,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0012225841438309865,
-    "avg_loss": 0.0013477663482162196,
-    "last_close": 13.233
+    "prevRsi": 44.679038227085954,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0010404582230308247,
+    "avg_loss": 0.0012882808553320202,
+    "last_close": 13.231
   },
   "SUMIELECUSDT|30m": {
     "inOB": false,
@@ -8519,11 +8519,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 65.36131702590976,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.3440250638346426,
-    "avg_loss": 0.1823184670006804,
-    "last_close": 202.22
+    "prevRsi": 57.38516179651754,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.4598334785877222,
+    "avg_loss": 0.34147728571446645,
+    "last_close": 201.88
   },
   "ADVANTESTUSDT|30m": {
     "inOB": false,
@@ -8582,11 +8582,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 51.07647597691104,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.04849604280203629,
-    "avg_loss": 0.0464518600719967,
-    "last_close": 249.79
+    "prevRsi": 44.02561500995036,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.04081844243297155,
+    "avg_loss": 0.051896769890004635,
+    "last_close": 249.61
   },
   "LASERTECUSDT|30m": {
     "inOB": false,
@@ -8645,11 +8645,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 44.157361342826604,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.028966269200364488,
-    "avg_loss": 0.03663155711782896,
-    "last_close": 60.92
+    "prevRsi": 46.326945813318815,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.03447481539110766,
+    "avg_loss": 0.039941520039311076,
+    "last_close": 60.94
   },
   "DOOSENERUSDT|30m": {
     "inOB": false,
@@ -8708,10 +8708,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 35.36438396359017,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.03565480109531436,
-    "avg_loss": 0.06516641250768009,
+    "prevRsi": 38.77906456940995,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.042712681489215136,
+    "avg_loss": 0.06743097969364936,
     "last_close": 49.19
   },
   "DOOSBOTUSDT|30m": {
@@ -8765,17 +8765,17 @@
     "epLoPrice": 16.218,
     "epLoRSI": 17.796291258671815,
     "epLoTs": 1789742700000,
-    "lastHiRSI": 73.06431918049336,
-    "lastHiPrice": 16.76,
-    "lastHiTs": 1789776900000,
+    "lastHiRSI": null,
+    "lastHiPrice": null,
+    "lastHiTs": null,
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 60.70254235134583,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.019387217602334774,
-    "avg_loss": 0.012550847676911217,
-    "last_close": 16.641
+    "prevRsi": 49.8511220040294,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.01558881817504704,
+    "avg_loss": 0.015681928697585067,
+    "last_close": 16.563
   },
   "PLUSDT|30m": {
     "inOB": false,
@@ -8834,11 +8834,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 51.80105359874786,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.31946976643755,
-    "avg_loss": 0.2972546903894675,
-    "last_close": 348.6
+    "prevRsi": 59.03121168945404,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.3429282350084882,
+    "avg_loss": 0.2379987444554155,
+    "last_close": 349.82
   },
   "CIENUSDT|30m": {
     "inOB": false,
@@ -8897,11 +8897,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.42904953335128,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0020169319467002434,
-    "avg_loss": 0.0019826118982939882,
-    "last_close": 2.6965
+    "prevRsi": 50.51181057625691,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.001877477947121148,
+    "avg_loss": 0.0018394308821253272,
+    "last_close": 2.6969
   },
   "AMCUSDT|30m": {
     "inOB": false,
@@ -8960,11 +8960,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.03992531104389,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.3703664938633757,
-    "avg_loss": 0.30253865956905607,
-    "last_close": 386.21
+    "prevRsi": 52.9595377657941,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.4139341060560617,
+    "avg_loss": 0.3676703480587484,
+    "last_close": 385.98
   },
   "MDBUSDT|30m": {
     "inOB": false,
@@ -9023,11 +9023,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 45.63752530374631,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.20518691597760913,
-    "avg_loss": 0.24441440357677455,
-    "last_close": 243.47
+    "prevRsi": 42.22567945141114,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.17968136093396767,
+    "avg_loss": 0.2458449142340282,
+    "last_close": 243.0
   },
   "TWLOUSDT|30m": {
     "inOB": false,
@@ -9086,11 +9086,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 47.0254386391261,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.07010802013570265,
-    "avg_loss": 0.07897728808164886,
-    "last_close": 31.084
+    "prevRsi": 47.188552266797416,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.07097533536375315,
+    "avg_loss": 0.07943261731610152,
+    "last_close": 31.081
   },
   "DXYZUSDT|30m": {
     "inOB": false,
@@ -9149,10 +9149,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 44.64241953863261,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.08280189969292741,
-    "avg_loss": 0.10267617373737219,
+    "prevRsi": 44.824024138391536,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.06828563178766826,
+    "avg_loss": 0.08405595980357394,
     "last_close": 249.07
   },
   "ADBEUSDT|30m": {
@@ -9212,11 +9212,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 62.25291234447689,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.039362987891900174,
-    "avg_loss": 0.023867769368233826,
-    "last_close": 46.574
+    "prevRsi": 50.401442020768265,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.03324070131140817,
+    "avg_loss": 0.03271118414796244,
+    "last_close": 46.406
   },
   "IRENUSDT|30m": {
     "inOB": false,
@@ -9275,11 +9275,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 49.606527271946256,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.013676696676791248,
-    "avg_loss": 0.013893660348635454,
-    "last_close": 11.501
+    "prevRsi": 55.76969828389995,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.015364323104559176,
+    "avg_loss": 0.012185266685842602,
+    "last_close": 11.549
   },
   "SPIRUSDT|30m": {
     "inOB": false,
@@ -9338,11 +9338,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 48.552782580651915,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.007310204989184881,
-    "avg_loss": 0.007745996943303264,
-    "last_close": 5.142
+    "prevRsi": 49.134632607057014,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.006118994300743114,
+    "avg_loss": 0.006334531809197242,
+    "last_close": 5.144
   },
   "SATLUSDT|30m": {
     "inOB": false,
@@ -9401,11 +9401,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 40.9505395380339,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.06456960649600665,
-    "avg_loss": 0.09310745276724412,
-    "last_close": 124.63
+    "prevRsi": 44.473680778303184,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.08308288100281584,
+    "avg_loss": 0.10373071200059582,
+    "last_close": 124.69
   },
   "BXUSDT|30m": {
     "inOB": false,
@@ -9464,11 +9464,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 58.89415084990249,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.040461030827780506,
-    "avg_loss": 0.02824024127460434,
-    "last_close": 61.04
+    "prevRsi": 52.731419861673686,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.032395366154749916,
+    "avg_loss": 0.029039289387866256,
+    "last_close": 60.95
   },
   "HPEUSDT|30m": {
     "inOB": false,
@@ -9527,11 +9527,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 42.85518794556923,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.12480620854398286,
-    "avg_loss": 0.16642156229790533,
-    "last_close": 237.14
+    "prevRsi": 43.85873419028387,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.13749607877956727,
+    "avg_loss": 0.17600152054245582,
+    "last_close": 237.13
   },
   "CRWDUSDT|30m": {
     "inOB": false,
@@ -9590,11 +9590,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 49.67370837305715,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.11676759027787172,
-    "avg_loss": 0.11830161253044136,
-    "last_close": 284.17
+    "prevRsi": 53.66853470414387,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.11257230169113715,
+    "avg_loss": 0.09718244997426498,
+    "last_close": 284.4
   },
   "IWMUSDT|30m": {
     "inOB": false,
@@ -9653,11 +9653,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 54.54958516948013,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.5069038290365163,
-    "avg_loss": 0.422349486935762,
-    "last_close": 271.91
+    "prevRsi": 55.36491295127139,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.43014129460394684,
+    "avg_loss": 0.34677908994091705,
+    "last_close": 272.12
   },
   "SIMOUSDT|30m": {
     "inOB": false,
@@ -9716,10 +9716,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 49.74568638057134,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.09021077657419803,
-    "avg_loss": 0.0911331411356815,
+    "prevRsi": 49.94706010915847,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.08018698109821934,
+    "avg_loss": 0.08035696467751204,
     "last_close": 150.12
   },
   "GLWUSDT|30m": {
@@ -9779,11 +9779,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 48.24821584536555,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.1534967471977831,
-    "avg_loss": 0.16464299021704012,
-    "last_close": 223.48
+    "prevRsi": 42.639960528476806,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.14445421049327017,
+    "avg_loss": 0.19432239413514504,
+    "last_close": 222.93
   },
   "TSEMUSDT|30m": {
     "inOB": false,
@@ -9842,11 +9842,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 42.00558731033882,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.012400507621974083,
-    "avg_loss": 0.01712058329947567,
-    "last_close": 9.007
+    "prevRsi": 48.856020826206205,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.019937286897039823,
+    "avg_loss": 0.020870962649033587,
+    "last_close": 9.054
   },
   "OSSUSDT|30m": {
     "inOB": false,
@@ -9905,11 +9905,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 59.7727158541968,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.10494302695731846,
-    "avg_loss": 0.07062708970478086,
-    "last_close": 93.81
+    "prevRsi": 53.99329014092038,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0939722413357251,
+    "avg_loss": 0.08007205396552664,
+    "last_close": 93.61
   },
   "AEHRUSDT|30m": {
     "inOB": false,
@@ -9968,11 +9968,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 47.944459052540054,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.18472256473835974,
-    "avg_loss": 0.20056192566736383,
-    "last_close": 368.8
+    "prevRsi": 49.837105441542704,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.1749983508491895,
+    "avg_loss": 0.1761423289690974,
+    "last_close": 369.02
   },
   "VUSDT|30m": {
     "inOB": false,
@@ -10031,11 +10031,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 47.62245344031783,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.11320842247948334,
-    "avg_loss": 0.1245122624099674,
-    "last_close": 166.3
+    "prevRsi": 58.147448907292556,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.1385054315551833,
+    "avg_loss": 0.09969148706803878,
+    "last_close": 167.0
   },
   "ABNBUSDT|30m": {
     "inOB": false,
@@ -10094,11 +10094,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 48.51120067278844,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.03574737398885018,
-    "avg_loss": 0.037941533919178747,
-    "last_close": 22.801
+    "prevRsi": 46.51412413985257,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.03404117370754519,
+    "avg_loss": 0.03914342201910905,
+    "last_close": 22.76
   },
   "CMCSAUSDT|30m": {
     "inOB": false,
@@ -10157,11 +10157,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 47.20185813856261,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.033024232628269645,
-    "avg_loss": 0.03693960763269195,
-    "last_close": 88.18
+    "prevRsi": 56.6079900270611,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.03858390637183162,
+    "avg_loss": 0.029575917627195414,
+    "last_close": 88.35
   },
   "KOUSDT|30m": {
     "inOB": false,
@@ -10210,21 +10210,21 @@
     "epHiPrice": 68.19,
     "epHiRSI": 84.3757168029313,
     "epHiTs": 1789368300000,
-    "inOS": true,
+    "inOS": false,
     "epLoPrice": 62.94,
     "epLoRSI": 28.38904435778761,
     "epLoTs": 1789778700000,
     "lastHiRSI": null,
     "lastHiPrice": null,
     "lastHiTs": null,
-    "lastLoRSI": null,
-    "lastLoPrice": null,
-    "lastLoTs": null,
-    "prevRsi": 28.38904435778761,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.03780760907545387,
-    "avg_loss": 0.0953691495324229,
-    "last_close": 63.31
+    "lastLoRSI": 28.38904435778761,
+    "lastLoPrice": 62.94,
+    "lastLoTs": 1789778700000,
+    "prevRsi": 34.742220690699284,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.07153546542958135,
+    "avg_loss": 0.1343680836453109,
+    "last_close": 63.12
   },
   "FOXAUSDT|30m": {
     "inOB": false,
@@ -10283,11 +10283,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 53.18623346901257,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.3766159068111188,
-    "avg_loss": 0.33149196668690445,
-    "last_close": 339.21
+    "prevRsi": 53.79200897143003,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.38138671547522873,
+    "avg_loss": 0.3276158348437054,
+    "last_close": 339.39
   },
   "MARUSDT|30m": {
     "inOB": false,
@@ -10346,10 +10346,10 @@
     "lastLoRSI": 28.15175010743556,
     "lastLoPrice": 35.557,
     "lastLoTs": 1789758000000,
-    "prevRsi": 46.00440133797761,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.011569726232433578,
-    "avg_loss": 0.013579446229207658,
+    "prevRsi": 46.004401337977605,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.009263370456507495,
+    "avg_loss": 0.010872464783370709,
     "last_close": 35.68
   },
   "NKEUSDT|30m": {
@@ -10409,11 +10409,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 53.38783312769884,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.05401655356893172,
-    "avg_loss": 0.04716109385445973,
-    "last_close": 77.84
+    "prevRsi": 50.86765422053959,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.05054459482177219,
+    "avg_loss": 0.0488203072879914,
+    "last_close": 77.78
   },
   "BUDUSDT|30m": {
     "inOB": false,
@@ -10472,11 +10472,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 45.13764358791558,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0175987704147352,
-    "avg_loss": 0.021390350451660243,
-    "last_close": 21.88
+    "prevRsi": 53.29054247772597,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.021733782289057344,
+    "avg_loss": 0.01904978132007928,
+    "last_close": 21.962
   },
   "CCLUSDT|30m": {
     "inOB": false,
@@ -10535,11 +10535,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 51.08379105700839,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.01840799107888368,
-    "avg_loss": 0.017626905114197927,
-    "last_close": 21.955
+    "prevRsi": 50.774031217745915,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.017977535131307416,
+    "avg_loss": 0.01742941346060216,
+    "last_close": 21.952
   },
   "DKNGUSDT|30m": {
     "inOB": false,
@@ -10598,11 +10598,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 54.957079693682424,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.00786675801756761,
-    "avg_loss": 0.006447608869128395,
-    "last_close": 17.567
+    "prevRsi": 47.82102772587957,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.006762852538118187,
+    "avg_loss": 0.007379153311033182,
+    "last_close": 17.542
   },
   "UVXYUSDT|30m": {
     "inOB": false,
@@ -10661,11 +10661,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.17593881870592,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.024475297186140565,
-    "avg_loss": 0.019883344841791495,
-    "last_close": 25.965
+    "prevRsi": 48.86237063674508,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.020657517462809947,
+    "avg_loss": 0.021619427338708242,
+    "last_close": 25.899
   },
   "BMNRUSDT|30m": {
     "inOB": false,
@@ -10724,11 +10724,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 49.96628946263208,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.32703607880512464,
-    "avg_loss": 0.3274773587990478,
-    "last_close": 393.09
+    "prevRsi": 48.65898723610588,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.3178893094514806,
+    "avg_loss": 0.33541099026293836,
+    "last_close": 392.91
   },
   "ISRGUSDT|30m": {
     "inOB": false,
@@ -10787,11 +10787,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.1182173062356,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.03734029559535572,
-    "avg_loss": 0.03040553767042983,
-    "last_close": 100.8
+    "prevRsi": 48.0600687304685,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.03387632267601929,
+    "avg_loss": 0.03661113930828456,
+    "last_close": 100.68
   },
   "SGOVUSDT|30m": {
     "inOB": false,
@@ -10850,11 +10850,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 42.339483589750465,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.023351554381842835,
-    "avg_loss": 0.03180158496229356,
-    "last_close": 41.172
+    "prevRsi": 48.415633941201776,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.031804068869136344,
+    "avg_loss": 0.033885598455597445,
+    "last_close": 41.246
   },
   "XLUUSDT|30m": {
     "inOB": false,
@@ -10913,11 +10913,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 51.97259028882607,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.12201770911327751,
-    "avg_loss": 0.11275548274649193,
-    "last_close": 189.6
+    "prevRsi": 51.42942259657279,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.10764318765374334,
+    "avg_loss": 0.10165954649928717,
+    "last_close": 189.57
   },
   "XLKUSDT|30m": {
     "inOB": false,
@@ -10976,11 +10976,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 48.61963291214431,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.768526583697085,
-    "avg_loss": 0.8121652843098429,
-    "last_close": 414.77
+    "prevRsi": 47.91017477164817,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.8758465394979952,
+    "avg_loss": 0.9522547848501165,
+    "last_close": 414.47
   },
   "ROKUSDT|30m": {
     "inOB": false,
@@ -11039,11 +11039,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 57.534461811813436,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.21525813082067538,
-    "avg_loss": 0.15887960166520815,
-    "last_close": 572.45
+    "prevRsi": 57.93626485882712,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.198113015092209,
+    "avg_loss": 0.14383691139157379,
+    "last_close": 572.56
   },
   "SMHUSDT|30m": {
     "inOB": false,
@@ -11102,11 +11102,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 47.06699927669278,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.15125910219087008,
-    "avg_loss": 0.17011065690862792,
-    "last_close": 61.31
+    "prevRsi": 47.089649980439276,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.12906568786929387,
+    "avg_loss": 0.1450193561327467,
+    "last_close": 61.29
   },
   "CGNXUSDT|30m": {
     "inOB": false,
@@ -11165,11 +11165,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 38.36329816168412,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0044211473740428135,
-    "avg_loss": 0.007103272021311718,
-    "last_close": 7.253
+    "prevRsi": 45.228223769804956,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.004805853054217211,
+    "avg_loss": 0.005819930259045847,
+    "last_close": 7.269
   },
   "FLNCUSDT|30m": {
     "inOB": false,
@@ -11228,11 +11228,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 43.91316061318469,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0053005961821324405,
-    "avg_loss": 0.006770036193486101,
-    "last_close": 7.45
+    "prevRsi": 51.26120544360879,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.006677627482560152,
+    "avg_loss": 0.0063490413692015345,
+    "last_close": 7.472
   },
   "XNDUUSDT|30m": {
     "inOB": false,
@@ -11291,11 +11291,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 54.14374482911901,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.19153377954292003,
-    "avg_loss": 0.16221674168056097,
-    "last_close": 287.73
+    "prevRsi": 54.00265051252251,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.18986141168214002,
+    "avg_loss": 0.16171653843738912,
+    "last_close": 287.83
   },
   "LRCXUSDT|30m": {
     "inOB": false,
@@ -11354,11 +11354,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 48.01018818433509,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.29363477344923844,
-    "avg_loss": 0.31797452148172056,
-    "last_close": 301.7
+    "prevRsi": 48.566647598616434,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.2654502905495552,
+    "avg_loss": 0.2811188133000533,
+    "last_close": 301.78
   },
   "ALABUSDT|30m": {
     "inOB": false,
@@ -11417,11 +11417,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 59.15063411056281,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.029512057201995363,
-    "avg_loss": 0.02038099575637563,
-    "last_close": 33.745
+    "prevRsi": 54.1207805238323,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.024244894195621237,
+    "avg_loss": 0.020552859940509344,
+    "last_close": 33.695
   },
   "MUUUSDT|30m": {
     "inOB": false,
@@ -11480,11 +11480,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 51.95546829278296,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.4304447128830916,
-    "avg_loss": 0.3980430806585248,
-    "last_close": 368.48
+    "prevRsi": 48.297240808119895,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.3479544585292107,
+    "avg_loss": 0.3724893032823572,
+    "last_close": 367.77
   },
   "TERUSDT|30m": {
     "inOB": false,
@@ -11543,11 +11543,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 46.617701974445275,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.020188094295389127,
-    "avg_loss": 0.023117545923546944,
-    "last_close": 19.811
+    "prevRsi": 44.40015414317434,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.016471662961723667,
+    "avg_loss": 0.020626548248554002,
+    "last_close": 19.786
   },
   "KORUUSDT|30m": {
     "inOB": false,
@@ -11607,9 +11607,9 @@
     "lastLoPrice": null,
     "lastLoTs": null,
     "prevRsi": 57.25692058726128,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.13951029659242115,
-    "avg_loss": 0.10414635689421414,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.11169975277461706,
+    "avg_loss": 0.08338540309642438,
     "last_close": 285.89
   },
   "APDUSDT|30m": {
@@ -11669,11 +11669,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 63.60719753300492,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.982458303326535,
-    "avg_loss": 0.5621126594434418,
-    "last_close": 466.83
+    "prevRsi": 63.86228874942007,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.7965127158922722,
+    "avg_loss": 0.4507221256549709,
+    "last_close": 466.96
   },
   "LINUSDT|30m": {
     "inOB": false,
@@ -11732,11 +11732,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 52.20701445274369,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.06603413388615802,
-    "avg_loss": 0.0604510416757011,
-    "last_close": 108.91
+    "prevRsi": 52.7112608075862,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.06424817498100933,
+    "avg_loss": 0.057638826006382614,
+    "last_close": 108.93
   },
   "FLEXUSDT|30m": {
     "inOB": false,
@@ -11795,11 +11795,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 43.81301918681294,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.2563119771804563,
-    "avg_loss": 0.32870129498774514,
-    "last_close": 372.18
+    "prevRsi": 41.45766188625956,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.2643430808547591,
+    "avg_loss": 0.3732786971895332,
+    "last_close": 371.53
   },
   "ADIUSDT|30m": {
     "inOB": false,
@@ -11858,11 +11858,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 44.70600310961533,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.5407367370632422,
-    "avg_loss": 0.6688026971317619,
-    "last_close": 943.25
+    "prevRsi": 52.30031511224403,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.8023901644781158,
+    "avg_loss": 0.7318074072880785,
+    "last_close": 945.87
   },
   "GSUSDT|30m": {
     "inOB": false,
@@ -11921,11 +11921,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 54.78131110203606,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.5892034950005671,
-    "avg_loss": 0.4863521701479222,
-    "last_close": 810.02
+    "prevRsi": 56.82268972465216,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.5124635854651077,
+    "avg_loss": 0.38940077179846394,
+    "last_close": 810.59
   },
   "CATUSDT|30m": {
     "inOB": false,
@@ -11984,11 +11984,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.84083224343356,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.16994099503469823,
-    "avg_loss": 0.13439006202020795,
-    "last_close": 349.71
+    "prevRsi": 54.61871476435985,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.14800304886706753,
+    "avg_loss": 0.1229719264790082,
+    "last_close": 349.65
   },
   "JPMUSDT|30m": {
     "inOB": false,
@@ -12047,11 +12047,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 54.76692139832502,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.6191488370631337,
-    "avg_loss": 0.5113672139670229,
-    "last_close": 941.33
+    "prevRsi": 52.520855529426655,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.5006523305494507,
+    "avg_loss": 0.45259248144517233,
+    "last_close": 940.8
   },
   "GEVUSDT|30m": {
     "inOB": false,
@@ -12110,11 +12110,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 57.793062647293155,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.021481202414999324,
-    "avg_loss": 0.015687968815979617,
-    "last_close": 98.58
+    "prevRsi": 58.24560009865902,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.019239869426295114,
+    "avg_loss": 0.013792444420082562,
+    "last_close": 98.59
   },
   "STRCUSDT|30m": {
     "inOB": false,
@@ -12173,11 +12173,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 57.13208215085231,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.04080018450596893,
-    "avg_loss": 0.03061360433204257,
-    "last_close": 37.964
+    "prevRsi": 57.35311562506963,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.03470262585991762,
+    "avg_loss": 0.025804332622994777,
+    "last_close": 37.973
   },
   "MINIMAXUSDT|30m": {
     "inOB": false,
@@ -12236,11 +12236,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 58.595368127389335,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.09610489378022993,
-    "avg_loss": 0.0679095955072048,
-    "last_close": 95.53
+    "prevRsi": 56.44617064650352,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.07694695759299022,
+    "avg_loss": 0.05937222351651982,
+    "last_close": 95.46
   },
   "ZHIPUUSDT|30m": {
     "inOB": false,
@@ -12293,17 +12293,17 @@
     "epLoPrice": 28.95,
     "epLoRSI": 28.907871597534424,
     "epLoTs": 1789751700000,
-    "lastHiRSI": 73.34521134504182,
-    "lastHiPrice": 31.11,
-    "lastHiTs": 1789761600000,
+    "lastHiRSI": null,
+    "lastHiPrice": null,
+    "lastHiTs": null,
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 56.01171439952261,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.043355042268437664,
-    "avg_loss": 0.0340484843567127,
-    "last_close": 30.62
+    "prevRsi": 49.38504310187879,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.037365534935771876,
+    "avg_loss": 0.038296107919715175,
+    "last_close": 30.5
   },
   "MVLLUSDT|30m": {
     "inOB": false,
@@ -12362,11 +12362,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 52.487953427901815,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.017467228709296314,
-    "avg_loss": 0.01581131916414963,
-    "last_close": 23.581
+    "prevRsi": 54.28957372833367,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.018327077796765318,
+    "avg_loss": 0.015430928645640095,
+    "last_close": 23.6
   },
   "SONYUSDT|30m": {
     "inOB": false,
@@ -12425,10 +12425,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 53.709327001873895,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.013708064981321376,
-    "avg_loss": 0.011814624924741135,
+    "prevRsi": 53.64056568953816,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.011098621998528851,
+    "avg_loss": 0.009592103119408306,
     "last_close": 13.498
   },
   "RAMUSDT|30m": {
@@ -12488,10 +12488,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 46.43647559630098,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.005605002312587926,
-    "avg_loss": 0.006465255476386928,
+    "prevRsi": 46.43647559630099,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.004487678600858482,
+    "avg_loss": 0.00517644543790892,
     "last_close": 6.755
   },
   "WENUSDT|30m": {
@@ -12551,11 +12551,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 53.900006691353184,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.012356862803800953,
-    "avg_loss": 0.01056866830894988,
-    "last_close": 13.033
+    "prevRsi": 51.304595181850516,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.009893596056833343,
+    "avg_loss": 0.009390438875642445,
+    "last_close": 13.02
   },
   "AALUSDT|30m": {
     "inOB": false,
@@ -12614,11 +12614,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 56.64253118955982,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.5454342579772243,
-    "avg_loss": 0.41750692159661007,
-    "last_close": 704.48
+    "prevRsi": 48.77052572280978,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.5819603005743338,
+    "avg_loss": 0.6113020068322753,
+    "last_close": 702.49
   },
   "VOOUSDT|30m": {
     "inOB": false,
@@ -12671,17 +12671,17 @@
     "epLoPrice": 515.79,
     "epLoRSI": 28.49488097452962,
     "epLoTs": 1789695900000,
-    "lastHiRSI": 80.37757445688777,
-    "lastHiPrice": 534.0,
-    "lastHiTs": 1789761600000,
+    "lastHiRSI": null,
+    "lastHiPrice": null,
+    "lastHiTs": null,
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 54.3145999926021,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.21942538328562863,
-    "avg_loss": 0.18456430515084218,
-    "last_close": 532.25
+    "prevRsi": 48.2422332371699,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.17568424456214513,
+    "avg_loss": 0.1884867997144352,
+    "last_close": 531.68
   },
   "SOXXUSDT|30m": {
     "inOB": false,
@@ -12740,11 +12740,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 53.72275320930658,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.13089208204996045,
-    "avg_loss": 0.11275157772301926,
-    "last_close": 266.67
+    "prevRsi": 53.791617487769294,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.12130462983373246,
+    "avg_loss": 0.10420379601219738,
+    "last_close": 266.72
   },
   "TXNUSDT|30m": {
     "inOB": false,
@@ -12789,7 +12789,7 @@
     "last_close": 266.67
   },
   "BACUSDT|15m": {
-    "inOB": true,
+    "inOB": false,
     "epHiPrice": 58.65,
     "epHiRSI": 70.30865769696705,
     "epHiTs": 1789778700000,
@@ -12797,17 +12797,17 @@
     "epLoPrice": 57.48,
     "epLoRSI": 29.208724068559434,
     "epLoTs": 1789653600000,
-    "lastHiRSI": null,
-    "lastHiPrice": null,
-    "lastHiTs": null,
+    "lastHiRSI": 70.30865769696705,
+    "lastHiPrice": 58.65,
+    "lastHiTs": 1789778700000,
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 70.30865769696705,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0860042739038898,
-    "avg_loss": 0.03631960016944474,
-    "last_close": 58.65
+    "prevRsi": 57.62586208441359,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.09539044816576005,
+    "avg_loss": 0.07014364488785323,
+    "last_close": 58.42
   },
   "BACUSDT|30m": {
     "inOB": false,
@@ -12866,11 +12866,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 59.55374886995574,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.13014657514431024,
-    "avg_loss": 0.08838975147469774,
-    "last_close": 239.3
+    "prevRsi": 60.87652076088611,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.11874344955978336,
+    "avg_loss": 0.07631278571060916,
+    "last_close": 239.42
   },
   "CRMUSDT|30m": {
     "inOB": false,
@@ -12929,11 +12929,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 60.530379542608095,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.049015638937237774,
-    "avg_loss": 0.0319612842336058,
-    "last_close": 50.54
+    "prevRsi": 51.93603599761811,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.04388752140856831,
+    "avg_loss": 0.04061550344797075,
+    "last_close": 50.39
   },
   "AMKRUSDT|30m": {
     "inOB": false,
@@ -12992,11 +12992,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 49.625359178594636,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.08245192999470016,
-    "avg_loss": 0.08369685232034031,
-    "last_close": 79.1
+    "prevRsi": 45.95711834409768,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.07795440604896316,
+    "avg_loss": 0.09166981944161294,
+    "last_close": 78.91
   },
   "PDDUSDT|30m": {
     "inOB": false,
@@ -13055,11 +13055,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 54.565606982629475,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.035868854149831,
-    "avg_loss": 0.0298664251466122,
-    "last_close": 41.55
+    "prevRsi": 60.40039727387953,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0413206532679226,
+    "avg_loss": 0.027090574361190913,
+    "last_close": 41.69
   },
   "ASXUSDT|30m": {
     "inOB": false,
@@ -13118,11 +13118,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 61.08526838423991,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.017088911913869163,
-    "avg_loss": 0.010886592435847548,
-    "last_close": 54.05
+    "prevRsi": 49.43787259676016,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.018325196601592784,
+    "avg_loss": 0.018741925503482793,
+    "last_close": 53.97
   },
   "TENCENTUSDT|30m": {
     "inOB": false,
@@ -13175,17 +13175,17 @@
     "epLoPrice": 55.67,
     "epLoRSI": 18.282027895901805,
     "epLoTs": 1789586100000,
-    "lastHiRSI": 70.01460331210119,
-    "lastHiPrice": 65.82,
-    "lastHiTs": 1789771500000,
+    "lastHiRSI": null,
+    "lastHiPrice": null,
+    "lastHiTs": null,
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 53.73550968863027,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.06976811021040438,
-    "avg_loss": 0.060068027223993854,
-    "last_close": 65.38
+    "prevRsi": 49.30577104532188,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.06249290748260108,
+    "avg_loss": 0.06425271713233005,
+    "last_close": 65.24
   },
   "GIGADEVICEUSDT|30m": {
     "inOB": false,
@@ -13244,11 +13244,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 51.38874695769539,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.005383352573691697,
-    "avg_loss": 0.005092389475678407,
-    "last_close": 8.333
+    "prevRsi": 51.802231417844595,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0046469481065599385,
+    "avg_loss": 0.004323607754397006,
+    "last_close": 8.334
   },
   "SMICUSDT|30m": {
     "inOB": false,
@@ -13307,11 +13307,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 49.0068855994684,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.004816470035766922,
-    "avg_loss": 0.005011679573926228,
-    "last_close": 19.865
+    "prevRsi": 48.76495263235239,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0041216416430683404,
+    "avg_loss": 0.004330415460610457,
+    "last_close": 19.864
   },
   "POPMARTUSDT|30m": {
     "inOB": false,
@@ -13370,11 +13370,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 49.013262181860654,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0023856556202931606,
-    "avg_loss": 0.002481711933087258,
-    "last_close": 3.3646
+    "prevRsi": 51.99205868252829,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.002209360567705608,
+    "avg_loss": 0.002040058716105237,
+    "last_close": 3.3681
   },
   "XIAOMIUSDT|30m": {
     "inOB": false,
@@ -13433,11 +13433,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 47.296980982903065,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0031888564340150703,
-    "avg_loss": 0.003553342259740414,
-    "last_close": 9.399
+    "prevRsi": 44.77954451314869,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0033538329393335976,
+    "avg_loss": 0.004135821043968546,
+    "last_close": 9.393
   },
   "MEITUANUSDT|30m": {
     "inOB": false,
@@ -13496,11 +13496,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 43.432518791201446,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.011147887130551048,
-    "avg_loss": 0.01451925684547225,
-    "last_close": 23.34
+    "prevRsi": 47.704318082702436,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.012600914003579008,
+    "avg_loss": 0.013813705280431037,
+    "last_close": 23.363
   },
   "NETEASEUSDT|30m": {
     "inOB": false,
@@ -13559,11 +13559,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 49.89099508867411,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.10317550648514162,
-    "avg_loss": 0.10362635485629264,
-    "last_close": 187.61
+    "prevRsi": 46.40944662098995,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.09738942702181227,
+    "avg_loss": 0.11245885627524654,
+    "last_close": 187.42
   },
   "SKHYUSDT|30m": {
     "inOB": false,
@@ -13622,11 +13622,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 56.262688936862844,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.3208755011154882,
-    "avg_loss": 0.2494411815364375,
-    "last_close": 517.21
+    "prevRsi": 51.21689143757511,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.3471149693697996,
+    "avg_loss": 0.33062036291383806,
+    "last_close": 516.55
   },
   "DIASTOCKUSDT|30m": {
     "inOB": false,
@@ -13685,11 +13685,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 56.88340349541377,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.1273031905360495,
-    "avg_loss": 0.09649352821393409,
-    "last_close": 207.41
+    "prevRsi": 51.355930076860936,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.10192606035266062,
+    "avg_loss": 0.09654383436079271,
+    "last_close": 207.14
   },
   "TTWOUSDT|30m": {
     "inOB": false,
@@ -13748,11 +13748,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 47.963258005345075,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.07197326617498274,
-    "avg_loss": 0.0780859023805853,
-    "last_close": 93.49
+    "prevRsi": 55.18875251227089,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.09987072368310458,
+    "avg_loss": 0.081091373006613,
+    "last_close": 93.84
   },
   "ECHOUSDT|30m": {
     "inOB": false,
@@ -13811,11 +13811,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 61.729700223943134,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0403595426231839,
-    "avg_loss": 0.02502153403321888,
-    "last_close": 39.35
+    "prevRsi": 60.685778709173746,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0329773743232998,
+    "avg_loss": 0.021363815696421703,
+    "last_close": 39.34
   },
   "DISKUSDT|30m": {
     "inOB": false,
@@ -13874,11 +13874,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 58.57456681926095,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.009114658580360665,
-    "avg_loss": 0.0064461198859745075,
-    "last_close": 6.278
+    "prevRsi": 59.97347418386383,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.009486481377934548,
+    "avg_loss": 0.006331313917451116,
+    "last_close": 6.291
   },
   "CONLUSDT|30m": {
     "inOB": false,
@@ -13937,10 +13937,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 45.522194952182446,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.014296959976883485,
-    "avg_loss": 0.017109609921385566,
+    "prevRsi": 45.86987766025042,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.013294614092278865,
+    "avg_loss": 0.015688707360526348,
     "last_close": 24.093
   },
   "KSTRUSDT|30m": {
@@ -14000,11 +14000,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 52.20738751867899,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.024572740201239205,
-    "avg_loss": 0.02249481358594745,
-    "last_close": 38.445
+    "prevRsi": 57.272703363833344,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.024306964366663058,
+    "avg_loss": 0.018133784784375717,
+    "last_close": 38.508
   },
   "BSPUSDT|30m": {
     "inOB": false,
@@ -14063,11 +14063,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 53.706949653321765,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.01720767165093682,
-    "avg_loss": 0.014832263147096401,
-    "last_close": 23.534
+    "prevRsi": 52.11086700984063,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.013777425152007357,
+    "avg_loss": 0.012661254422073847,
+    "last_close": 23.523
   },
   "EUVUSDT|30m": {
     "inOB": false,
@@ -14126,11 +14126,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 60.26060510675632,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.014076650522856551,
-    "avg_loss": 0.009282973061935996,
-    "last_close": 7.754
+    "prevRsi": 56.785748070894755,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.012132799270669032,
+    "avg_loss": 0.009233123840041269,
+    "last_close": 7.74
   },
   "FWDIUSDT|30m": {
     "inOB": false,
@@ -14189,11 +14189,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 63.622325623792946,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.1320589396722927,
-    "avg_loss": 0.07550803996497223,
-    "last_close": 40.918
+    "prevRsi": 59.37876613332034,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.11604092217931017,
+    "avg_loss": 0.07938402470956415,
+    "last_close": 40.787
   },
   "MSTUUSDT|30m": {
     "inOB": true,
@@ -14252,11 +14252,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 58.627239776533315,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.013340888257813863,
-    "avg_loss": 0.009414554960500176,
-    "last_close": 6.1766
+    "prevRsi": 57.73872970088184,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.012208502734116984,
+    "avg_loss": 0.008935888209992275,
+    "last_close": 6.1769
   },
   "BNCUSDT|30m": {
     "inOB": false,
@@ -14315,11 +14315,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 45.59384424063489,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0019759507025413074,
-    "avg_loss": 0.0023578595638460756,
-    "last_close": 3.919
+    "prevRsi": 48.95918123200569,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0019289955151178264,
+    "avg_loss": 0.002011012194522546,
+    "last_close": 3.922
   },
   "KUAISHOUUSDT|30m": {
     "inOB": false,
@@ -14378,11 +14378,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 59.009192649389185,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.025274453630222772,
-    "avg_loss": 0.017556929914361943,
-    "last_close": 26.438
+    "prevRsi": 51.877498656494446,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.020302468886880105,
+    "avg_loss": 0.01883293550359059,
+    "last_close": 26.372
   },
   "INTWUSDT|30m": {
     "inOB": false,
@@ -14441,11 +14441,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 57.173386703812255,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.031403725253959354,
-    "avg_loss": 0.023523448146921914,
-    "last_close": 17.965
+    "prevRsi": 54.807341745521185,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.025541539498159165,
+    "avg_loss": 0.021060865735709706,
+    "last_close": 17.939
   },
   "SNXXUSDT|30m": {
     "inOB": true,
@@ -14504,11 +14504,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.66544004967872,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.02662659401212492,
-    "avg_loss": 0.02120666480764183,
-    "last_close": 29.36
+    "prevRsi": 51.690826019543906,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.021934630847171545,
+    "avg_loss": 0.020499651086876538,
+    "last_close": 29.32
   },
   "BOTUSDT|30m": {
     "inOB": false,
@@ -14567,11 +14567,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.37646634576448,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.08939884858671855,
-    "avg_loss": 0.08806268270275223,
-    "last_close": 156.58
+    "prevRsi": 50.940392110948956,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.07803180406159613,
+    "avg_loss": 0.07515077037097136,
+    "last_close": 156.61
   },
   "XBIUSDT|30m": {
     "inOB": false,
@@ -14630,11 +14630,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 53.65987260335274,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.329493876672006,
-    "avg_loss": 0.28454760476717805,
-    "last_close": 193.84
+    "prevRsi": 46.947760038086535,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.27181780140247686,
+    "avg_loss": 0.3071614750996688,
+    "last_close": 192.85
   },
   "TMUSDT|30m": {
     "inOB": false,
@@ -14693,11 +14693,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 48.017329951630906,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.01503161808839378,
-    "avg_loss": 0.016272950706946395,
-    "last_close": 23.088
+    "prevRsi": 39.94640277889112,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.012219921625437738,
+    "avg_loss": 0.01837087197637091,
+    "last_close": 23.016
   },
   "MUFGUSDT|30m": {
     "inOB": false,
@@ -14756,11 +14756,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.99718840233059,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.008038179747180048,
-    "avg_loss": 0.00772382596137917,
-    "last_close": 14.388
+    "prevRsi": 46.34822743286938,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.006682172341309946,
+    "avg_loss": 0.007735147826949741,
+    "last_close": 14.37
   },
   "CPNGUSDT|30m": {
     "inOB": false,
@@ -14819,11 +14819,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 64.61883991222166,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.02510340544199104,
-    "avg_loss": 0.013745025566816211,
-    "last_close": 34.957
+    "prevRsi": 54.37066251215001,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.020961436500019668,
+    "avg_loss": 0.01759140713203189,
+    "last_close": 34.876
   },
   "NVDLUSDT|30m": {
     "inOB": false,
@@ -14882,11 +14882,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 45.844011099925424,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.006106408335587986,
-    "avg_loss": 0.007213561250576607,
-    "last_close": 9.598
+    "prevRsi": 53.107842973627015,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.008869817461110274,
+    "avg_loss": 0.007831703377374849,
+    "last_close": 9.627
   },
   "TSLLUSDT|30m": {
     "inOB": false,
@@ -14945,11 +14945,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 51.07768378444564,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.07382768342890425,
-    "avg_loss": 0.07071231517492148,
-    "last_close": 104.76
+    "prevRsi": 50.42357513372389,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.06972646519435176,
+    "avg_loss": 0.06855501327962871,
+    "last_close": 104.73
   },
   "GGLLUSDT|30m": {
     "inOB": false,
@@ -15008,11 +15008,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 51.84379272595359,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.03532982832883217,
-    "avg_loss": 0.032816860929775364,
-    "last_close": 35.783
+    "prevRsi": 51.65304965155584,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.030011528002348718,
+    "avg_loss": 0.02809061350682109,
+    "last_close": 35.78
   },
   "AMZUUSDT|30m": {
     "inOB": false,
@@ -15071,10 +15071,10 @@
     "lastLoRSI": 21.13433843260252,
     "lastLoPrice": 26.586,
     "lastLoTs": 1789738200000,
-    "prevRsi": 49.11516653851339,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.02354523973851454,
-    "avg_loss": 0.02439359748410114,
+    "prevRsi": 49.177554009046496,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0193159226332058,
+    "avg_loss": 0.019962002067263285,
     "last_close": 26.719
   },
   "METUUSDT|30m": {
@@ -15134,11 +15134,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 45.95611090763964,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.03520115080847103,
-    "avg_loss": 0.04139617240544625,
-    "last_close": 45.089
+    "prevRsi": 48.91808436332669,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.03459837038127242,
+    "avg_loss": 0.03612878672549771,
+    "last_close": 45.14
   },
   "AAPUUSDT|30m": {
     "inOB": false,
@@ -15197,11 +15197,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 49.794853286585216,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0540387248922671,
-    "avg_loss": 0.05448398644349497,
-    "last_close": 37.029
+    "prevRsi": 43.638887835398656,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.05645119482081271,
+    "avg_loss": 0.07290864366485342,
+    "last_close": 36.822
   },
   "MSFUUSDT|30m": {
     "inOB": false,
@@ -15260,11 +15260,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.7072656603569,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.02653501568843677,
-    "avg_loss": 0.02579479413836666,
-    "last_close": 44.945
+    "prevRsi": 48.137846579315024,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.021577051555209937,
+    "avg_loss": 0.023246414986148937,
+    "last_close": 44.913
   },
   "TZAUSDT|30m": {
     "inOB": false,
@@ -15323,11 +15323,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 58.804974862072896,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.6010354850405706,
-    "avg_loss": 0.4210472323660769,
-    "last_close": 298.77
+    "prevRsi": 49.3956291293805,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.598620612475995,
+    "avg_loss": 0.6132692308703582,
+    "last_close": 296.43
   },
   "MINIMAXHKDUSDT|30m": {
     "inOB": false,
@@ -15386,11 +15386,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 57.78335208087459,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.011153810476236824,
-    "avg_loss": 0.008148999199161993,
-    "last_close": 26.393
+    "prevRsi": 50.41831360318061,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.012047711959290237,
+    "avg_loss": 0.011847795641603057,
+    "last_close": 26.359
   },
   "XIAOMIHKDUSDT|30m": {
     "inOB": false,
@@ -15449,11 +15449,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 58.119911912316226,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.07022717405959092,
-    "avg_loss": 0.05060434778707078,
-    "last_close": 423.19
+    "prevRsi": 51.30811186111067,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.07612576581957846,
+    "avg_loss": 0.0722440787493434,
+    "last_close": 423.01
   },
   "TENCENTHKDUSDT|30m": {
     "inOB": false,
@@ -15512,11 +15512,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 67.88379392118591,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.5922405174955931,
-    "avg_loss": 0.28019233176912695,
-    "last_close": 751.29
+    "prevRsi": 63.291614884547634,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.6214768283301029,
+    "avg_loss": 0.36044918108482465,
+    "last_close": 751.3
   },
   "ZHIPUHKDUSDT|30m": {
     "inOB": false,
@@ -15575,11 +15575,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 44.11408902567813,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.05432051347127955,
-    "avg_loss": 0.06881591452944467,
-    "last_close": 57.5
+    "prevRsi": 39.65366046717093,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.05950516330043761,
+    "avg_loss": 0.09055705693192063,
+    "last_close": 57.23
   },
   "SHAZUSDT|30m": {
     "inOB": false,
@@ -15638,10 +15638,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.21093074400676,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.010700850451791626,
-    "avg_loss": 0.008680910202466538,
+    "prevRsi": 54.49259960617177,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.010756475379951324,
+    "avg_loss": 0.008982857038928278,
     "last_close": 17.003
   },
   "SOFIUSDT|30m": {
@@ -15701,11 +15701,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.65524620644183,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.043419800416932275,
-    "avg_loss": 0.03459584658222994,
-    "last_close": 53.16
+    "prevRsi": 52.058126304699435,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.03874391454664699,
+    "avg_loss": 0.035680420896923255,
+    "last_close": 53.1
   },
   "PENGUSDT|30m": {
     "inOB": false,
@@ -15764,11 +15764,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 49.59252341528897,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.010670920379352073,
-    "avg_loss": 0.010846275448723727,
-    "last_close": 29.716
+    "prevRsi": 48.721928602848536,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.00894169536203956,
+    "avg_loss": 0.009410811647538837,
+    "last_close": 29.711
   },
   "TMFUSDT|30m": {
     "inOB": false,
@@ -15827,11 +15827,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 46.60084967896661,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.03863353047110103,
-    "avg_loss": 0.044269529746142934,
-    "last_close": 38.946
+    "prevRsi": 51.66346562376122,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.04114645278608221,
+    "avg_loss": 0.03849677727852656,
+    "last_close": 39.053
   },
   "TBTUSDT|30m": {
     "inOB": false,
@@ -15890,11 +15890,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 61.246119113230584,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.006525145853894494,
-    "avg_loss": 0.004128828550313772,
-    "last_close": 10.916
+    "prevRsi": 55.310637285607136,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.00807643784293236,
+    "avg_loss": 0.006525523442069864,
+    "last_close": 10.908
   },
   "BITOUSDT|30m": {
     "inOB": false,
@@ -15953,11 +15953,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.513634853311224,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.10929714685288536,
-    "avg_loss": 0.10707442721870576,
-    "last_close": 168.62
+    "prevRsi": 49.62949439749861,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.09120474913840726,
+    "avg_loss": 0.09256651479573448,
+    "last_close": 168.58
   },
   "XLVUSDT|30m": {
     "inOB": false,
@@ -16016,11 +16016,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.411576206976726,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.16829460341855437,
-    "avg_loss": 0.16554658164493347,
-    "last_close": 205.28
+    "prevRsi": 51.7247518387482,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.16709301884495703,
+    "avg_loss": 0.15594965009982434,
+    "last_close": 205.38
   },
   "IBBUSDT|30m": {
     "inOB": false,
@@ -16079,11 +16079,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 46.760526271402256,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.13321063425731774,
-    "avg_loss": 0.1516677554428994,
-    "last_close": 150.14
+    "prevRsi": 50.091286265858386,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.17994670680150568,
+    "avg_loss": 0.1792908377215927,
+    "last_close": 150.52
   },
   "GILDUSDT|30m": {
     "inOB": false,
@@ -16142,11 +16142,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 52.062195006730924,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.02096200112557991,
-    "avg_loss": 0.01930138216601932,
-    "last_close": 35.095
+    "prevRsi": 56.98487343367333,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.021370086178170072,
+    "avg_loss": 0.01613124512344887,
+    "last_close": 35.149
   },
   "BOTZUSDT|30m": {
     "inOB": false,
@@ -16202,14 +16202,14 @@
     "lastHiRSI": null,
     "lastHiPrice": null,
     "lastHiTs": null,
-    "lastLoRSI": 23.972069008649086,
-    "lastLoPrice": 6.811,
-    "lastLoTs": 1789759800000,
-    "prevRsi": 46.03115975944363,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.008917400137333798,
-    "avg_loss": 0.01045512965321602,
-    "last_close": 6.953
+    "lastLoRSI": null,
+    "lastLoPrice": null,
+    "lastLoTs": null,
+    "prevRsi": 53.95097492931732,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.01038466767555475,
+    "avg_loss": 0.008863673414036297,
+    "last_close": 6.991
   },
   "SKDDUSDT|30m": {
     "inOB": false,
@@ -16262,17 +16262,17 @@
     "epLoPrice": 28.317,
     "epLoRSI": 28.486944164940923,
     "epLoTs": 1789735500000,
-    "lastHiRSI": 76.16272847916412,
-    "lastHiPrice": 30.262,
-    "lastHiTs": 1789759800000,
+    "lastHiRSI": null,
+    "lastHiPrice": null,
+    "lastHiTs": null,
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.804729333118054,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.04332621692795558,
-    "avg_loss": 0.041953672359265844,
-    "last_close": 29.61
+    "prevRsi": 48.67550805006798,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.03727612922402285,
+    "avg_loss": 0.03930474423225489,
+    "last_close": 29.569
   },
   "SKUUUSDT|30m": {
     "inOB": false,
@@ -16325,17 +16325,17 @@
     "epLoPrice": 1081.37,
     "epLoRSI": 26.321683441353173,
     "epLoTs": 1789695900000,
-    "lastHiRSI": 72.3837691969847,
-    "lastHiPrice": 1095.12,
-    "lastHiTs": 1789762500000,
+    "lastHiRSI": null,
+    "lastHiPrice": null,
+    "lastHiTs": null,
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 57.0104718751594,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.5388674065467411,
-    "avg_loss": 0.406340357610595,
-    "last_close": 1090.56
+    "prevRsi": 37.16931962930564,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.4314474096877516,
+    "avg_loss": 0.7293147834076066,
+    "last_close": 1084.79
   },
   "KR200USDT|30m": {
     "inOB": false,
@@ -16394,11 +16394,11 @@
     "lastLoRSI": 28.44340597902668,
     "lastLoPrice": 19.531,
     "lastLoTs": 1789760700000,
-    "prevRsi": 40.945147903209445,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.00439826700716501,
-    "avg_loss": 0.006343584548877986,
-    "last_close": 19.662
+    "prevRsi": 42.17231691781507,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.003849122673010942,
+    "avg_loss": 0.0052780084744478714,
+    "last_close": 19.664
   },
   "JMKEUSDT|30m": {
     "inOB": false,
@@ -16458,9 +16458,9 @@
     "lastLoPrice": null,
     "lastLoTs": null,
     "prevRsi": 54.495846105456906,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.04562957960442952,
-    "avg_loss": 0.03810080145274327,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.03653359562351737,
+    "avg_loss": 0.03050563439929918,
     "last_close": 48.074
   },
   "GFSUSDT|30m": {
@@ -16520,11 +16520,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.30820743364011,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.01033679560848866,
-    "avg_loss": 0.010210141235014628,
-    "last_close": 10.344
+    "prevRsi": 46.984874060223866,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.009261639924143436,
+    "avg_loss": 0.010450320806606062,
+    "last_close": 10.327
   },
   "SPCHUSDT|30m": {
     "inOB": false,
@@ -16583,11 +16583,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 43.57545399500039,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.008803471905637173,
-    "avg_loss": 0.011399351240272531,
-    "last_close": 8.724
+    "prevRsi": 52.08283851049026,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.011290170472552749,
+    "avg_loss": 0.010387162782390222,
+    "last_close": 8.767
   },
   "SSPCUSDT|30m": {
     "inOB": false,
@@ -16646,11 +16646,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 45.93139740942712,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.2043748600474982,
-    "avg_loss": 0.24058190498563264,
-    "last_close": 167.67
+    "prevRsi": 48.200186107552504,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.23231471119692262,
+    "avg_loss": 0.24966415643346843,
+    "last_close": 167.89
   },
   "BKNGUSDT|30m": {
     "inOB": false,
@@ -16709,11 +16709,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 65.65138416268377,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.06816581314815166,
-    "avg_loss": 0.035664157868509835,
-    "last_close": 89.66
+    "prevRsi": 60.13271468122554,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.08580185549799164,
+    "avg_loss": 0.056885624940639604,
+    "last_close": 89.67
   },
   "ZMUSDT|30m": {
     "inOB": false,
@@ -16772,11 +16772,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 47.637316943499414,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.2678545917357553,
-    "avg_loss": 0.2944243293324615,
-    "last_close": 385.14
+    "prevRsi": 53.612143022131505,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.3299367850012609,
+    "avg_loss": 0.28547749691815516,
+    "last_close": 386.11
   },
   "AMGNUSDT|30m": {
     "inOB": false,
@@ -16835,11 +16835,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 45.39968287826399,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.01334064181209559,
-    "avg_loss": 0.016044237037978252,
-    "last_close": 52.51
+    "prevRsi": 49.871668452418064,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.01344001095523874,
+    "avg_loss": 0.013509179581792694,
+    "last_close": 52.54
   },
   "PYPLUSDT|30m": {
     "inOB": false,
@@ -16898,11 +16898,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 52.28356601211673,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.06381207614394939,
-    "avg_loss": 0.058237892921207575,
-    "last_close": 128.48
+    "prevRsi": 47.7969034348278,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.05848219070271778,
+    "avg_loss": 0.06387341499558781,
+    "last_close": 128.35
   },
   "SHOPUSDT|30m": {
     "inOB": false,
@@ -16961,11 +16961,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 57.69456380765182,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.017191323869086884,
-    "avg_loss": 0.012605805590806636,
-    "last_close": 37.595
+    "prevRsi": 51.612285565011,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.01394910296661221,
+    "avg_loss": 0.013077607464651054,
+    "last_close": 37.556
   },
   "EWZUSDT|30m": {
     "inOB": false,
@@ -17024,11 +17024,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.01328278597994,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.13455284589319122,
-    "avg_loss": 0.13448137541353328,
-    "last_close": 141.85
+    "prevRsi": 54.641518239082195,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.1584739804764375,
+    "avg_loss": 0.13155086799691512,
+    "last_close": 142.25
   },
   "VSTUSDT|30m": {
     "inOB": false,
@@ -17087,11 +17087,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.67252520824889,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0349273391365936,
-    "avg_loss": 0.027809781204084748,
-    "last_close": 64.39
+    "prevRsi": 54.276467337860176,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.03042833968042901,
+    "avg_loss": 0.025633414469889336,
+    "last_close": 64.38
   },
   "XLEUSDT|30m": {
     "inOB": false,
@@ -17150,11 +17150,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 41.1130392718241,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.016394522637106453,
-    "avg_loss": 0.023482175674375643,
-    "last_close": 66.33
+    "prevRsi": 40.21338133841135,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.013126372534155568,
+    "avg_loss": 0.019515430013339757,
+    "last_close": 66.32
   },
   "MOONSHOTUSDT|30m": {
     "inOB": false,
@@ -17213,11 +17213,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 48.65817056104071,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.2125704548173417,
-    "avg_loss": 0.22429441775462694,
-    "last_close": 230.43
+    "prevRsi": 51.688792728810526,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.2098787497207363,
+    "avg_loss": 0.19616429876345312,
+    "last_close": 230.77
   },
   "DDOGUSDT|30m": {
     "inOB": false,
@@ -17276,11 +17276,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.46753127835673,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.017913704976978657,
-    "avg_loss": 0.014382134704583905,
-    "last_close": 70.71
+    "prevRsi": 50.172887481260354,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.01633251087260194,
+    "avg_loss": 0.016219952604215403,
+    "last_close": 70.67
   },
   "UBERUSDT|30m": {
     "inOB": false,
@@ -17339,11 +17339,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 47.49917215312413,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.6198989431950028,
-    "avg_loss": 0.6851742088098806,
-    "last_close": 1793.1
+    "prevRsi": 42.789104920363236,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.520961362317579,
+    "avg_loss": 0.6965480090216066,
+    "last_close": 1791.4
   },
   "MELIUSDT|30m": {
     "inOB": false,
@@ -17396,17 +17396,17 @@
     "epLoPrice": 35.787,
     "epLoRSI": 25.712180118778562,
     "epLoTs": 1789488000000,
-    "lastHiRSI": 73.17749756525663,
-    "lastHiPrice": 44.358,
-    "lastHiTs": 1789761600000,
+    "lastHiRSI": null,
+    "lastHiPrice": null,
+    "lastHiTs": null,
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 51.60821010470738,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.04001382023051969,
-    "avg_loss": 0.037520006556605943,
-    "last_close": 43.935
+    "prevRsi": 48.26998878016632,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.03345384950672416,
+    "avg_loss": 0.03585184198427952,
+    "last_close": 43.875
   },
   "CSOPSK2LHKDUSDT|30m": {
     "inOB": false,
@@ -17465,11 +17465,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 48.18146871632981,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.044988002252346435,
-    "avg_loss": 0.0483840004095379,
-    "last_close": 72.32
+    "prevRsi": 41.763596803398286,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.040331137371868206,
+    "avg_loss": 0.056238939103409144,
+    "last_close": 72.14
   },
   "CSOPSS2LHKDUSDT|30m": {
     "inOB": false,
@@ -17528,11 +17528,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 54.74077783576078,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.10257920468600602,
-    "avg_loss": 0.08481163764688023,
-    "last_close": 200.15
+    "prevRsi": 54.123549127829065,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.08336243174021578,
+    "avg_loss": 0.07066004661450238,
+    "last_close": 200.13
   },
   "ANETUSDT|30m": {
     "inOB": false,
@@ -17591,10 +17591,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 52.67718270654308,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.005418359235429979,
-    "avg_loss": 0.004867610812768821,
+    "prevRsi": 51.965653536885284,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.005077308761020314,
+    "avg_loss": 0.00469320005672492,
     "last_close": 37.0
   },
   "LENOVOHKDUSDT|30m": {
@@ -17654,11 +17654,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 45.91803336731655,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.19592957039815606,
-    "avg_loss": 0.2307645975136919,
-    "last_close": 140.26
+    "prevRsi": 48.261400003623415,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.2255529395644136,
+    "avg_loss": 0.24180387053118935,
+    "last_close": 140.48
   },
   "NAVERUSDT|30m": {
     "inOB": false,
@@ -17717,11 +17717,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 45.80703007190673,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.26739992716797384,
-    "avg_loss": 0.31635310538667144,
-    "last_close": 142.08
+    "prevRsi": 53.30071760893344,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.3144014722988483,
+    "avg_loss": 0.2754620162297811,
+    "last_close": 143.15
   },
   "LGELECTRONICSUSDT|30m": {
     "inOB": false,
@@ -17780,11 +17780,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 48.99599256109232,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.30311495781945824,
-    "avg_loss": 0.3155375930835754,
-    "last_close": 167.55
+    "prevRsi": 50.863686637104145,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.3006536305864968,
+    "avg_loss": 0.2904431822174248,
+    "last_close": 167.87
   },
   "HANMIUSDT|30m": {
     "inOB": false,
@@ -17843,11 +17843,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 56.409860671015714,
-    "last_ts": 1789778700000,
-    "avg_gain": 2.717524061133323,
-    "avg_loss": 2.099938752650279,
-    "last_close": 1016.8
+    "prevRsi": 53.5540184807176,
+    "last_ts": 1789779600000,
+    "avg_gain": 2.305138616002155,
+    "avg_loss": 1.9991856558209427,
+    "last_close": 1014.3
   },
   "SAMSUNGEMUSDT|30m": {
     "inOB": false,
@@ -17893,24 +17893,24 @@
   },
   "ZHONGJIUSDT|15m": {
     "inOB": false,
-    "epHiPrice": 153.49,
-    "epHiRSI": 80.60889344360926,
+    "epHiPrice": 153.52,
+    "epHiRSI": 71.22205190003588,
     "epHiTs": 1789777800000,
     "inOS": false,
     "epLoPrice": 149.68,
     "epLoRSI": 23.534133315462327,
     "epLoTs": 1789748100000,
-    "lastHiRSI": 80.60889344360926,
-    "lastHiPrice": 153.49,
+    "lastHiRSI": 71.22205190003588,
+    "lastHiPrice": 153.52,
     "lastHiTs": 1789777800000,
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 68.85702951285634,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.09023136672496154,
-    "avg_loss": 0.04081025293729006,
-    "last_close": 153.38
+    "prevRsi": 63.61792034216657,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.08086673203161189,
+    "avg_loss": 0.04624640149534599,
+    "last_close": 153.32
   },
   "ZHONGJIUSDT|30m": {
     "inOB": false,
@@ -17969,10 +17969,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 57.119345265055905,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.003505260276716973,
-    "avg_loss": 0.002631470213541987,
+    "prevRsi": 56.08606831776409,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0031144521967738053,
+    "avg_loss": 0.002438535006979551,
     "last_close": 8.299
   },
   "CXMTUSDT|30m": {
@@ -18032,10 +18032,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 46.86173128597599,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0517724171983704,
-    "avg_loss": 0.05870667902286543,
+    "prevRsi": 47.091034388782326,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.05069023344927869,
+    "avg_loss": 0.05695283302231646,
     "last_close": 95.61
   },
   "GDXUSDT|30m": {
@@ -18095,11 +18095,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 67.61577771630292,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.03943869138320971,
-    "avg_loss": 0.018888954493590737,
-    "last_close": 26.572
+    "prevRsi": 61.02939642462749,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.032808602393918244,
+    "avg_loss": 0.020950084920706467,
+    "last_close": 26.509
   },
   "LYTEUSDT|30m": {
     "inOB": false,
@@ -18158,11 +18158,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.369832523682994,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.13972890351040532,
-    "avg_loss": 0.11262675144058257,
-    "last_close": 324.02
+    "prevRsi": 56.627049947993996,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.12465903826981416,
+    "avg_loss": 0.09548140412353037,
+    "last_close": 324.13
   },
   "NETUSDT|30m": {
     "inOB": false,
@@ -18221,11 +18221,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 44.154160667213496,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.02260963928217057,
-    "avg_loss": 0.02859649608653834,
-    "last_close": 76.65
+    "prevRsi": 37.43123416809097,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.027340881014186334,
+    "avg_loss": 0.04570207795266929,
+    "last_close": 76.47
   },
   "UNITREEUSDT|30m": {
     "inOB": false,
@@ -18284,11 +18284,11 @@
     "lastLoRSI": 23.381980262339567,
     "lastLoPrice": 154.28,
     "lastLoTs": 1789740900000,
-    "prevRsi": 42.17065656861656,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.05880904790479556,
-    "avg_loss": 0.08064585436618617,
-    "last_close": 154.06
+    "prevRsi": 46.271196952150284,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.05825928507537719,
+    "avg_loss": 0.06764903135660091,
+    "last_close": 154.17
   },
   "MRNAUSDT|30m": {
     "inOB": false,
@@ -18347,10 +18347,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 48.11257371632348,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.06384183272591563,
-    "avg_loss": 0.06885078335056663,
+    "prevRsi": 48.112996940581496,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.05173123414680667,
+    "avg_loss": 0.055789056494604874,
     "last_close": 77.8
   },
   "TEMUSDT|30m": {
@@ -18410,11 +18410,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 52.975147018080214,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.06582950793053356,
-    "avg_loss": 0.058435381618647295,
-    "last_close": 146.69
+    "prevRsi": 43.77257348802346,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.055170345817558634,
+    "avg_loss": 0.07086827019539682,
+    "last_close": 146.39
   },
   "MRKUSDT|30m": {
     "inOB": false,
@@ -18473,11 +18473,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 54.19916118990566,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.41245939865885173,
-    "avg_loss": 0.34854757931569,
-    "last_close": 681.85
+    "prevRsi": 53.87334098546144,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.4086564500194926,
+    "avg_loss": 0.3498939620104108,
+    "last_close": 681.88
   },
   "DEUSDT|30m": {
     "inOB": false,
@@ -18536,11 +18536,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 46.42783029993656,
-    "last_ts": 1789778700000,
-    "avg_gain": 2.7579325213631667,
-    "avg_loss": 3.1823246553047144,
-    "last_close": 24734.0
+    "prevRsi": 50.237571704714675,
+    "last_ts": 1789779600000,
+    "avg_gain": 3.375793640464605,
+    "avg_loss": 3.343865622341274,
+    "last_close": 24740.0
   },
   "HSIUSDT|30m": {
     "inOB": false,
@@ -18599,11 +18599,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 54.84067098944277,
-    "last_ts": 1789778700000,
-    "avg_gain": 18.049919993316866,
-    "avg_loss": 14.86346284401495,
-    "last_close": 65159.0
+    "prevRsi": 46.95051572155839,
+    "last_ts": 1789779600000,
+    "avg_gain": 14.45177632117972,
+    "avg_loss": 16.329091788739376,
+    "last_close": 65097.0
   },
   "JP225USDT|30m": {
     "inOB": false,
@@ -18662,11 +18662,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 54.49414661084852,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.00908386871645152,
-    "avg_loss": 0.007585570629614196,
-    "last_close": 8.855
+    "prevRsi": 53.581782406659705,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.007334642700453315,
+    "avg_loss": 0.0063540447059993845,
+    "last_close": 8.852
   },
   "DJTUSDT|30m": {
     "inOB": false,
@@ -18725,11 +18725,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 63.534436302622915,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.00946089376993865,
-    "avg_loss": 0.005430076104847306,
-    "last_close": 13.256
+    "prevRsi": 60.97721307380794,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.007574921141601756,
+    "avg_loss": 0.004847622887153596,
+    "last_close": 13.249
   },
   "MARAUSDT|30m": {
     "inOB": true,
@@ -18788,11 +18788,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 52.66770495778349,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.022646829240735872,
-    "avg_loss": 0.020352631736135513,
-    "last_close": 14.057
+    "prevRsi": 51.51227357145074,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.019193543674160613,
+    "avg_loss": 0.018066593266869508,
+    "last_close": 14.046
   },
   "PURRUSDT|30m": {
     "inOB": false,
@@ -18851,11 +18851,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 53.99655409860961,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.013015339639666246,
-    "avg_loss": 0.011088679324020523,
-    "last_close": 34.464
+    "prevRsi": 50.53836822186372,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.011150401307706254,
+    "avg_loss": 0.010912838365478147,
+    "last_close": 34.445
   },
   "HPQUSDT|30m": {
     "inOB": false,
@@ -18914,11 +18914,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.726261774444204,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.003946063971956726,
-    "avg_loss": 0.0031350928225339675,
-    "last_close": 4.921
+    "prevRsi": 54.77261420576474,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.003424745825943516,
+    "avg_loss": 0.0028279150623568756,
+    "last_close": 4.92
   },
   "SHEINUSDT|30m": {
     "inOB": false,
@@ -18977,11 +18977,11 @@
     "lastLoRSI": 23.03220515246933,
     "lastLoPrice": 183.42,
     "lastLoTs": 1789740900000,
-    "prevRsi": 48.28615353355883,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.13922787310922843,
-    "avg_loss": 0.14911125295610456,
-    "last_close": 182.9
+    "prevRsi": 48.87837721046403,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.12048966371026688,
+    "avg_loss": 0.12601946893023347,
+    "last_close": 182.94
   },
   "OKTAUSDT|30m": {
     "inOB": false,
@@ -19040,11 +19040,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 45.43078739509734,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.22188068147019346,
-    "avg_loss": 0.26651208958298384,
-    "last_close": 260.11
+    "prevRsi": 53.826367734000904,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.2530582569934459,
+    "avg_loss": 0.2170798326580962,
+    "last_close": 261.11
   },
   "VEEVUSDT|30m": {
     "inOB": false,
@@ -19103,11 +19103,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 59.00988187316702,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.03907412688502811,
-    "avg_loss": 0.027142116301176102,
-    "last_close": 38.57
+    "prevRsi": 50.25002872073633,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.045213504652480654,
+    "avg_loss": 0.044763567607027745,
+    "last_close": 38.43
   },
   "SHEINHKDUSDT|30m": {
     "inOB": false,
@@ -19166,11 +19166,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 43.98790281599885,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.07187300711165892,
-    "avg_loss": 0.09151965884994262,
-    "last_close": 140.35
+    "prevRsi": 47.986046911334284,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.07616800168524784,
+    "avg_loss": 0.0825614761273056,
+    "last_close": 140.49
   },
   "NVSUSDT|30m": {
     "inOB": false,
@@ -19229,11 +19229,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 52.669127997330946,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.13357629078110864,
-    "avg_loss": 0.12003772536109468,
-    "last_close": 49.42
+    "prevRsi": 51.190245424421,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.10818043398181303,
+    "avg_loss": 0.10314973856352914,
+    "last_close": 49.34
   },
   "GTLBUSDT|30m": {
     "inOB": false,
@@ -19292,11 +19292,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 57.57934408659466,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.2741602647699967,
-    "avg_loss": 0.20198316673155345,
-    "last_close": 198.11
+    "prevRsi": 47.07934350897309,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.2997631565960948,
+    "avg_loss": 0.33695591009811565,
+    "last_close": 196.7
   },
   "ZSUSDT|30m": {
     "inOB": false,
@@ -19355,11 +19355,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 44.6688246822435,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.4311312367213066,
-    "avg_loss": 0.5340413188321584,
-    "last_close": 190.39
+    "prevRsi": 46.27334131227924,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.5447832824623601,
+    "avg_loss": 0.6325323533069434,
+    "last_close": 190.52
   },
   "TEAMUSDT|30m": {
     "inOB": false,
@@ -19418,11 +19418,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 40.36065813305905,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0009212079405125871,
-    "avg_loss": 0.001361232394022082,
-    "last_close": 1.2889
+    "prevRsi": 36.58109291380063,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0007437295354614257,
+    "avg_loss": 0.001289368647837645,
+    "last_close": 1.2862
   },
   "GPROUSDT|30m": {
     "inOB": false,
@@ -19481,11 +19481,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 56.9965389055209,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.006993662633161537,
-    "avg_loss": 0.005276665999870783,
-    "last_close": 10.38
+    "prevRsi": 54.15726436965376,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.007522987173854184,
+    "avg_loss": 0.006368015744065689,
+    "last_close": 10.375
   },
   "BYDUSDT|30m": {
     "inOB": false,
@@ -19544,11 +19544,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 53.198223790529575,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.11387337877865185,
-    "avg_loss": 0.10018147242659413,
-    "last_close": 40.986
+    "prevRsi": 50.17630744282624,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.09283156456876744,
+    "avg_loss": 0.0921791891112339,
+    "last_close": 40.84
   },
   "SOFTBANKUSDT|30m": {
     "inOB": false,
@@ -19608,9 +19608,9 @@
     "lastLoPrice": null,
     "lastLoTs": null,
     "prevRsi": 46.70853324806988,
-    "last_ts": 1789778700000,
-    "avg_gain": 6.73675667893069e-05,
-    "avg_loss": 7.686211054077864e-05,
+    "last_ts": 1789779600000,
+    "avg_gain": 5.393824498400411e-05,
+    "avg_loss": 6.154010818443538e-05,
     "last_close": 2.653
   },
   "H100USDT|30m": {
@@ -19670,11 +19670,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 43.720234970353275,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.00038715735396237314,
-    "avg_loss": 0.0004983762078423721,
-    "last_close": 5.741
+    "prevRsi": 48.8711783127943,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.000381408420792784,
+    "avg_loss": 0.00039902788944230744,
+    "last_close": 5.742
   },
   "B200USDT|30m": {
     "inOB": false,
@@ -19733,10 +19733,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 51.29982140798887,
-    "last_ts": 1789778700000,
-    "avg_gain": 6.926837826263373e-05,
-    "avg_loss": 6.575817029343322e-05,
+    "prevRsi": 50.96636964621904,
+    "last_ts": 1789779600000,
+    "avg_gain": 6.161903317893747e-05,
+    "avg_loss": 5.928232512196458e-05,
     "last_close": 1.1487
   },
   "EURUSDUSDT|30m": {
@@ -19796,11 +19796,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 57.274064605574324,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.01599585812389037,
-    "avg_loss": 0.011932765824921424,
-    "last_close": 156.89
+    "prevRsi": 53.29252494682309,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.017450036551817018,
+    "avg_loss": 0.015293836194368677,
+    "last_close": 156.87
   },
   "USDJPYUSDT|30m": {
     "inOB": false,
@@ -19859,11 +19859,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 53.36296565849847,
-    "last_ts": 1789778700000,
-    "avg_gain": 9.298749599032899e-05,
-    "avg_loss": 8.126724199670792e-05,
-    "last_close": 1.3396
+    "prevRsi": 50.37548827878098,
+    "last_ts": 1789779600000,
+    "avg_gain": 8.676877867740036e-05,
+    "avg_loss": 8.54752662779889e-05,
+    "last_close": 1.3395
   },
   "GBPUSDUSDT|30m": {
     "inOB": false,
@@ -19922,11 +19922,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 43.50661571752068,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.04444916371042107,
-    "avg_loss": 0.057717283799585586,
-    "last_close": 70.95
+    "prevRsi": 44.47629069633166,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.03701706001158685,
+    "avg_loss": 0.046211688231665285,
+    "last_close": 70.97
   },
   "FCXUSDT|30m": {
     "inOB": false,
@@ -19985,11 +19985,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.930724497893216,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.18227941291367442,
-    "avg_loss": 0.14362270001271987,
-    "last_close": 86.86
+    "prevRsi": 57.9425383377286,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.2288512646397021,
+    "avg_loss": 0.1661111778163066,
+    "last_close": 87.25
   },
   "BHPUSDT|30m": {
     "inOB": false,
@@ -20048,11 +20048,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 46.315983745036725,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0684917762102343,
-    "avg_loss": 0.07938757487355644,
-    "last_close": 96.9
+    "prevRsi": 43.978220731505864,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.059149574465701016,
+    "avg_loss": 0.07534785058207141,
+    "last_close": 96.8
   },
   "RIOUSDT|30m": {
     "inOB": false,
@@ -20111,11 +20111,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 55.227840101903176,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.010880607109139835,
-    "avg_loss": 0.008820701305354697,
-    "last_close": 14.251
+    "prevRsi": 53.26453256245366,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.010303459846494192,
+    "avg_loss": 0.009040481329396523,
+    "last_close": 14.244
   },
   "VALEUSDT|30m": {
     "inOB": false,
@@ -20174,11 +20174,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 46.493999230169614,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.09341468814970175,
-    "avg_loss": 0.10750304251754025,
-    "last_close": 209.17
+    "prevRsi": 46.33216347197172,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.07545629368254121,
+    "avg_loss": 0.08740312842967661,
+    "last_close": 209.16
   },
   "CVXSTOCKUSDT|30m": {
     "inOB": false,
@@ -20237,11 +20237,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 63.080646780182796,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.03670927745346727,
-    "avg_loss": 0.021484922078741288,
-    "last_close": 91.39
+    "prevRsi": 62.128212162908916,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.029391502392590228,
+    "avg_loss": 0.01791631698505671,
+    "last_close": 91.38
   },
   "QLDUSDT|30m": {
     "inOB": false,
@@ -20300,11 +20300,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 43.96940575100053,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.014590840653039356,
-    "avg_loss": 0.018593234509739803,
-    "last_close": 45.81
+    "prevRsi": 53.49377930858857,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0200226227823346,
+    "avg_loss": 0.01740719249923387,
+    "last_close": 45.894
   },
   "IBITUSDT|30m": {
     "inOB": false,
@@ -20363,11 +20363,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 52.64277359121898,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.025611114695343513,
-    "avg_loss": 0.02303965529299073,
-    "last_close": 14.4
+    "prevRsi": 47.705185625604756,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.021168957356293604,
+    "avg_loss": 0.023205584066581842,
+    "last_close": 14.342
   },
   "CLSKUSDT|30m": {
     "inOB": false,
@@ -20426,11 +20426,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 58.929803889416604,
-    "last_ts": 1789778700000,
-    "avg_gain": 2.4418311653196385,
-    "avg_loss": 1.7017956655142152,
-    "last_close": 2625.86
+    "prevRsi": 46.48357561556521,
+    "last_ts": 1789779600000,
+    "avg_gain": 2.360321818588655,
+    "avg_loss": 2.717432608285279,
+    "last_close": 2612.16
   },
   "ETHUSDT|30m": {
     "inOB": false,
@@ -20489,11 +20489,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 54.950830686124114,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0026622358896700453,
-    "avg_loss": 0.0021825241556813688,
-    "last_close": 1.4085
+    "prevRsi": 49.26381594601116,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0026919942600601566,
+    "avg_loss": 0.002772451009486862,
+    "last_close": 1.4026
   },
   "XRPUSDT|30m": {
     "inOB": false,
@@ -20552,11 +20552,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 67.01159718026082,
-    "last_ts": 1789778700000,
-    "avg_gain": 88.59246026880491,
-    "avg_loss": 43.612208768543496,
-    "last_close": 81648.5
+    "prevRsi": 52.673727640533954,
+    "last_ts": 1789779600000,
+    "avg_gain": 95.32698076186766,
+    "avg_loss": 85.64935228297803,
+    "last_close": 81255.4
   },
   "BTCUSDT|30m": {
     "inOB": false,
@@ -20615,11 +20615,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 50.74893388598553,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0001083259367273763,
-    "avg_loss": 0.00010512866898068731,
-    "last_close": 0.08785
+    "prevRsi": 45.08192322881856,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.00010151314977771371,
+    "avg_loss": 0.00012366169305778798,
+    "last_close": 0.08752
   },
   "DOGEUSDT|30m": {
     "inOB": false,
@@ -20678,11 +20678,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 59.334610443871306,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.15428895602509826,
-    "avg_loss": 0.10574301329414218,
-    "last_close": 113.621
+    "prevRsi": 54.001983567362714,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.139185436001144,
+    "avg_loss": 0.11855590386560819,
+    "last_close": 113.35
   },
   "SOLUSDT|30m": {
     "inOB": false,
@@ -20741,11 +20741,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 54.63777794055923,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.568424469413803,
-    "avg_loss": 0.47192616496264517,
-    "last_close": 763.58
+    "prevRsi": 45.124833035149805,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.46619845455616504,
+    "avg_loss": 0.5669321371803665,
+    "last_close": 761.1
   },
   "BNBUSDT|30m": {
     "inOB": false,
@@ -20804,10 +20804,10 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 46.07145745211646,
-    "last_ts": 1789778700000,
-    "avg_gain": 8.492655569210951e-05,
-    "avg_loss": 9.941003878262876e-05,
+    "prevRsi": 46.49999142781273,
+    "last_ts": 1789779600000,
+    "avg_gain": 8.647363077827178e-05,
+    "avg_loss": 9.949120087662157e-05,
     "last_close": 0.9993
   },
   "USDCUSDT|30m": {
@@ -20867,11 +20867,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 48.81057511307848,
-    "last_ts": 1789778700000,
-    "avg_gain": 6.542578849452213e-05,
-    "avg_loss": 6.861440329373588e-05,
-    "last_close": 0.3381
+    "prevRsi": 46.54285761103527,
+    "last_ts": 1789779600000,
+    "avg_gain": 5.915832992801201e-05,
+    "avg_loss": 6.794673616484781e-05,
+    "last_close": 0.33802
   },
   "TRXUSDT|30m": {
     "inOB": false,
@@ -20930,11 +20930,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 61.488761506601826,
-    "last_ts": 1789778700000,
-    "avg_gain": 8.12658497845709,
-    "avg_loss": 5.089789492810425,
-    "last_close": 1575.59
+    "prevRsi": 59.939263106154826,
+    "last_ts": 1789779600000,
+    "avg_gain": 7.162568220725293,
+    "avg_loss": 4.787141951787336,
+    "last_close": 1574.15
   },
   "ZECUSDT|30m": {
     "inOB": false,
@@ -20993,11 +20993,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 59.35695929384465,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.1632787593481219,
-    "avg_loss": 0.11180062694559949,
-    "last_close": 93.132
+    "prevRsi": 58.28667619882577,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.15003623698535826,
+    "avg_loss": 0.10737462733217316,
+    "last_close": 93.133
   },
   "HYPEUSDT|30m": {
     "inOB": false,
@@ -21056,11 +21056,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 56.57948013564332,
-    "last_ts": 1789778700000,
-    "avg_gain": 1.8070580547681157,
-    "avg_loss": 1.3867819212017678,
-    "last_close": 574.48
+    "prevRsi": 56.25913699093489,
+    "last_ts": 1789779600000,
+    "avg_gain": 1.45810734195538,
+    "avg_loss": 1.1336624930321826,
+    "last_close": 574.3
   },
   "XMRUSDT|30m": {
     "inOB": false,
@@ -21119,11 +21119,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 58.51660090822371,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.018792548286838597,
-    "avg_loss": 0.013322352433920048,
-    "last_close": 12.372
+    "prevRsi": 51.762016138433765,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.01557697834773478,
+    "avg_loss": 0.014516475327012507,
+    "last_close": 12.325
   },
   "LINKUSDT|30m": {
     "inOB": false,
@@ -21182,11 +21182,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 58.50825894782546,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.0005058094657671967,
-    "avg_loss": 0.0003587000494078328,
-    "last_close": 0.2273
+    "prevRsi": 53.49842216145861,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.000441932724595674,
+    "avg_loss": 0.00038413411390269886,
+    "last_close": 0.2265
   },
   "ADAUSDT|30m": {
     "inOB": false,
@@ -21239,17 +21239,17 @@
     "epLoPrice": 0.17435,
     "epLoRSI": 29.421740126194265,
     "epLoTs": 1789508700000,
-    "lastHiRSI": 70.10953565044902,
-    "lastHiPrice": 0.19631,
-    "lastHiTs": 1789777800000,
+    "lastHiRSI": null,
+    "lastHiPrice": null,
+    "lastHiTs": null,
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 51.847647530893425,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.00039302013894678995,
-    "avg_loss": 0.0003650087353866287,
-    "last_close": 0.19402
+    "prevRsi": 48.42727146339256,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.0004347723197033888,
+    "avg_loss": 0.00046301173164884263,
+    "last_close": 0.19344
   },
   "XLMUSDT|30m": {
     "inOB": false,
@@ -21308,11 +21308,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 47.61048593826507,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.05030226347873246,
-    "avg_loss": 0.055351485873789845,
-    "last_close": 29.063
+    "prevRsi": 43.869189778590865,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.04027480789459738,
+    "avg_loss": 0.05153178369705398,
+    "last_close": 28.962
   },
   "GNRCUSDT|15m": {
     "inOB": false,
@@ -21330,9 +21330,9 @@
     "lastLoPrice": null,
     "lastLoTs": null,
     "prevRsi": 67.86398473814486,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.14989939033510433,
-    "avg_loss": 0.07098270333136017,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.12001784277194759,
+    "avg_loss": 0.056832725662900256,
     "last_close": 209.03
   },
   "PATHUSDT|15m": {
@@ -21350,11 +21350,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 46.434406198117195,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.019057690912331567,
-    "avg_loss": 0.02198448550965165,
-    "last_close": 13.346
+    "prevRsi": 53.58409442575599,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.021529062293874707,
+    "avg_loss": 0.018649021379265517,
+    "last_close": 13.418
   },
   "CYPHUSDT|15m": {
     "inOB": false,
@@ -21371,11 +21371,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 53.741843481024205,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.021367431945186862,
-    "avg_loss": 0.018391963269328845,
-    "last_close": 3.7844
+    "prevRsi": 52.76195443607007,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.020205884833664554,
+    "avg_loss": 0.018090431232768052,
+    "last_close": 3.784
   },
   "HUTUSDT|15m": {
     "inOB": false,
@@ -21392,11 +21392,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 59.370789082117064,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.22679154202830196,
-    "avg_loss": 0.15520025146903818,
-    "last_close": 99.1
+    "prevRsi": 57.448502851981694,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.20943914644175554,
+    "avg_loss": 0.15512935585913756,
+    "last_close": 99.03
   },
   "AGPUUSDT|15m": {
     "inOB": false,
@@ -21413,11 +21413,11 @@
     "lastLoRSI": null,
     "lastLoPrice": null,
     "lastLoTs": null,
-    "prevRsi": 43.26650238388033,
-    "last_ts": 1789778700000,
-    "avg_gain": 0.013557329892781926,
-    "avg_loss": 0.017777141686397397,
-    "last_close": 12.13
+    "prevRsi": 42.18554198985826,
+    "last_ts": 1789779600000,
+    "avg_gain": 0.01085475720642926,
+    "avg_loss": 0.01487623188229415,
+    "last_close": 12.121
   },
   "SDGRUSDT|30m": {
     "inOB": false,
