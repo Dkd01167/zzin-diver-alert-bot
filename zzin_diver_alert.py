@@ -137,7 +137,9 @@ def api_get(url, retries=5):
                     continue
                 return None
             return d.get("data", [])
-        except urllib.error.HTTPError:
+        except urllib.error.HTTPError as e:
+            if e.code != 429 and e.code < 500:
+                return None  # 400 등 요청 자체가 잘못된 경우는 재시도해도 소용없음
             time.sleep(1.5 * (attempt + 1))
         except Exception:
             time.sleep(1.0 * (attempt + 1))
@@ -147,7 +149,8 @@ def api_get(url, retries=5):
 def fetch_bitget(symbol, granularity, start_ms, end_ms):
     out = []
     cur = start_ms
-    step_ms = GRAN_MS[granularity] * 200
+    # Bitget은 한 요청의 시작~종료 간격이 90일을 넘으면 거부함(일봉/주봉)
+    step_ms = min(GRAN_MS[granularity] * 200, 89 * 86_400_000)
     base = "https://api.bitget.com/api/v2/mix/market/history-candles"
     while cur < end_ms:
         win_end = min(end_ms, cur + step_ms - 1)
@@ -402,19 +405,26 @@ def main():
     state = load_state()
     all_alerts = []
 
-    for symbol, base_coin, is_rwa, fee in universe:
+    def work(item):
+        symbol, base_coin, is_rwa, fee = item
         label = classify(base_coin, is_rwa)
+        found = []
         for tf_name, gran, warm_days in TIMEFRAMES:
             key = f"{symbol}|{gran}"
             if gran not in due_grans and key in state:
                 continue
             ctx = {"symbol": symbol, "base_coin": base_coin, "label": label, "tf_name": tf_name}
             try:
-                alerts = run_symbol_tf(symbol, gran, warm_days, state, key, now_ms,
-                                        emit_alerts=True, ctx_base=ctx)
-                all_alerts.extend(alerts)
+                found.extend(run_symbol_tf(symbol, gran, warm_days, state, key, now_ms,
+                                           emit_alerts=True, ctx_base=ctx))
             except Exception as e:
                 print(f"[에러] {symbol} {tf_name}: {type(e).__name__}: {e}")
+        return found
+
+    from concurrent.futures import ThreadPoolExecutor
+    with ThreadPoolExecutor(max_workers=3) as ex:
+        for found in ex.map(work, universe):
+            all_alerts.extend(found)
 
     for a in all_alerts:
         arrow = "숏 🔻" if a["dir"] == "short" else "롱 🔺"
