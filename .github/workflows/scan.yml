@@ -1,12 +1,16 @@
 name: 찐다이버전스 스캔
 
+# GitHub cron은 이 계정에서 3~5시간에 한 번씩만 돌아서 15분봉 알림에 못 씀.
+# 그래서 한 번 실행되면 5시간 반 동안 15분마다(매시 4/19/34/49분) 직접 반복 스캔하고,
+# 끝나기 전에 workflow_dispatch로 다음 실행을 스스로 호출함. cron은 체인이 끊겼을 때 복구용.
 on:
   schedule:
-    - cron: "4,19,34,49 * * * *"
+    - cron: "7 * * * *"
   workflow_dispatch: {}
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: zzin-diver-scan
@@ -25,23 +29,34 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Run scanner
+      - name: Scan loop (5.5h)
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python zzin_diver_alert.py
-
-      - name: Commit updated state
         run: |
           git config user.name "zzin-diver-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add zzin_alert_state.json
-          if ! git diff --cached --quiet; then
-            git commit -m "update state [skip ci]"
-            git push
-          else
-            echo "state unchanged, nothing to commit"
-          fi
+          END=$(( $(date +%s) + 19800 ))
+          while true; do
+            python zzin_diver_alert.py || echo "scanner error, continuing"
+            git add zzin_alert_state.json
+            if ! git diff --cached --quiet; then
+              git commit -q -m "update state [skip ci]"
+              git pull -q --rebase --autostash origin main || true
+              git push -q || echo "push failed, will retry next loop"
+            fi
+            s=$(date +%s); m=$(( (s/60) % 60 )); sec=$(( s % 60 ))
+            wait=0
+            for slot in 4 19 34 49 64; do
+              if [ "$m" -lt "$slot" ]; then wait=$(( (slot - m) * 60 - sec )); break; fi
+            done
+            if [ $(( s + wait )) -ge "$END" ]; then break; fi
+            echo "next scan in ${wait}s"
+            sleep "$wait"
+          done
+
+      - name: Chain next run
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run scan.yml --ref main

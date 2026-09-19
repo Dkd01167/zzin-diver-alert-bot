@@ -103,12 +103,26 @@ def send_telegram(text):
     import urllib.parse as _up
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
     data = _up.urlencode({"chat_id": TELEGRAM_CHAT_ID, "text": text}).encode("utf-8")
-    try:
-        req = urllib.request.Request(url, data=data)
-        with urllib.request.urlopen(req, timeout=10) as r:
-            r.read()
-    except Exception as e:
-        print(f"[실패] 텔레그램 전송: {type(e).__name__}: {e}")
+    for attempt in range(4):
+        try:
+            req = urllib.request.Request(url, data=data)
+            with urllib.request.urlopen(req, timeout=10) as r:
+                r.read()
+            time.sleep(1.1)
+            return
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                try:
+                    wait = json.loads(e.read().decode()).get("parameters", {}).get("retry_after", 5)
+                except Exception:
+                    wait = 5
+                time.sleep(wait + 1)
+                continue
+            print(f"[실패] 텔레그램 전송: HTTP {e.code}")
+            return
+        except Exception as e:
+            print(f"[실패] 텔레그램 전송: {type(e).__name__}: {e}")
+            return
 
 
 def api_get(url, retries=5):
@@ -333,7 +347,8 @@ def run_symbol_tf(symbol, tf_gran, warm_days, state, key, now_ms, emit_alerts, c
             prev_close = close
             continue
         ctx = dict(ctx_base)
-        process_bar(st, ts, high, low, close, rsi, prev_close, ag, al, emit_alerts, alerts, ctx)
+        fresh = (now_ms - ts) <= max(3 * GRAN_MS[tf_gran], 1_800_000)
+        process_bar(st, ts, high, low, close, rsi, prev_close, ag, al, emit_alerts and fresh, alerts, ctx)
         prev_close = close
     state[key] = {**st, "last_ts": int(raw[-1][0]), "avg_gain": ag, "avg_loss": al, "last_close": prev_close}
     return alerts
