@@ -30,7 +30,7 @@ import json
 import time
 import urllib.request
 import urllib.error
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 sys.stdout.reconfigure(encoding="utf-8")
 
@@ -254,7 +254,7 @@ def process_bar(st, ts, high, low, close, rsi, prev_close, prev_ag, prev_al, emi
                 if cp <= st["epHiPrice"]:
                     if emit_alerts:
                         alerts.append({
-                            "dir": "short", "entry": cp, "stop": st["epHiPrice"],
+                            "dir": "short", "ts": ts, "close": close, "entry": cp, "stop": st["epHiPrice"],
                             "pivot_rsi": st["epHiRSI"], "prev_pivot_rsi": st["lastHiRSI"], **ctx,
                         })
             st["lastHiRSI"], st["lastHiPrice"], st["lastHiTs"] = st["epHiRSI"], st["epHiPrice"], st["epHiTs"]
@@ -276,7 +276,7 @@ def process_bar(st, ts, high, low, close, rsi, prev_close, prev_ag, prev_al, emi
                 if cp >= st["epLoPrice"]:
                     if emit_alerts:
                         alerts.append({
-                            "dir": "long", "entry": cp, "stop": st["epLoPrice"],
+                            "dir": "long", "ts": ts, "close": close, "entry": cp, "stop": st["epLoPrice"],
                             "pivot_rsi": st["epLoRSI"], "prev_pivot_rsi": st["lastLoRSI"], **ctx,
                         })
             st["lastLoRSI"], st["lastLoPrice"], st["lastLoTs"] = st["epLoRSI"], st["epLoPrice"], st["epLoTs"]
@@ -428,13 +428,13 @@ def main():
 
     for a in all_alerts:
         arrow = "숏 🔻" if a["dir"] == "short" else "롱 🔺"
+        kst = datetime.fromtimestamp(a["ts"] / 1000, timezone.utc) + timedelta(hours=9)
         msg = (
             f"[찐다이버전스] {a['label']} · {a['symbol']}\n"
             f"방향: {arrow}\n"
             f"타임프레임: {a['tf_name']}\n"
-            f"진입가: {a['entry']:.6g}\n"
-            f"손절가: {a['stop']:.6g}\n"
-            f"RSI: {a['pivot_rsi']:.1f} (직전 피벗 {a['prev_pivot_rsi']:.1f})"
+            f"신호 캔들(UTC+9): {kst.strftime('%m-%d %H:%M')}\n"
+            f"지표가 뜬 시점 가격: {a['close']:.6g}"
         )
         print(msg)
         send_telegram(msg)
