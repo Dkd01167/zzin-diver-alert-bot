@@ -335,6 +335,8 @@ def run_symbol_tf(symbol, tf_gran, warm_days, state, key, now_ms, emit_alerts, c
     # 증분 처리
     last_ts = st_entry["last_ts"]
     raw = fetch_bitget(symbol, tf_gran, last_ts + 1, now_ms)
+    # Bitget은 시작 시각이 캔들 중간이면 그 캔들과 바로 앞 캔들까지 돌려줘서, 이미 처리한 캔들이 섞임
+    raw = [k for k in raw if int(k[0]) > last_ts]
     if not raw:
         return alerts
     st = {k: v for k, v in st_entry.items() if k not in ("last_ts", "avg_gain", "avg_loss", "last_close")}
@@ -394,6 +396,7 @@ def main():
     print(f"감시 대상 종목: {len(universe)}개")
 
     due_tfs = [(tf_name, gran, warm) for tf_name, gran, warm in TIMEFRAMES if is_due(gran, now)]
+    due_grans = {t[1] for t in due_tfs}
     print(f"이번 실행에 해당하는 타임프레임: {[t[0] for t in due_tfs]}")
 
     state = load_state()
@@ -401,8 +404,10 @@ def main():
 
     for symbol, base_coin, is_rwa, fee in universe:
         label = classify(base_coin, is_rwa)
-        for tf_name, gran, warm_days in due_tfs:
+        for tf_name, gran, warm_days in TIMEFRAMES:
             key = f"{symbol}|{gran}"
+            if gran not in due_grans and key in state:
+                continue
             ctx = {"symbol": symbol, "base_coin": base_coin, "label": label, "tf_name": tf_name}
             try:
                 alerts = run_symbol_tf(symbol, gran, warm_days, state, key, now_ms,
