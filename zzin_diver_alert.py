@@ -35,6 +35,7 @@ from datetime import datetime, timezone, timedelta
 sys.stdout.reconfigure(encoding="utf-8")
 
 STATE_PATH = os.path.join(os.path.dirname(__file__), "zzin_alert_state.json")
+SIGNALS_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "signals.jsonl")
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "")
 
@@ -413,7 +414,7 @@ def main():
             key = f"{symbol}|{gran}"
             if gran not in due_grans and key in state:
                 continue
-            ctx = {"symbol": symbol, "base_coin": base_coin, "label": label, "tf_name": tf_name}
+            ctx = {"symbol": symbol, "base_coin": base_coin, "label": label, "tf_name": tf_name, "gran": gran}
             try:
                 found.extend(run_symbol_tf(symbol, gran, warm_days, state, key, now_ms,
                                            emit_alerts=True, ctx_base=ctx))
@@ -438,6 +439,16 @@ def main():
         )
         print(msg)
         send_telegram(msg)
+        try:  # 주문 봇(zzin_trader.py)이 읽는 신호 파일
+            with open(SIGNALS_PATH, "a", encoding="utf-8") as sf:
+                sf.write(json.dumps({
+                    "id": f"{a['symbol']}|{a['gran']}|{a['ts']}", "symbol": a["symbol"], "dir": a["dir"],
+                    "gran": a["gran"], "tf_name": a["tf_name"], "label": a["label"], "ts": a["ts"],
+                    "close": a["close"], "entry": a["entry"], "stop": a["stop"],
+                    "detected_ms": int(time.time() * 1000),
+                }, ensure_ascii=False) + "\n")
+        except Exception as e:
+            print(f"[경고] 신호 파일 기록 실패: {e}")
 
     save_state(state)
     print(f"\n완료. 신규 알림 {len(all_alerts)}건, 저장된 상태 키 {len(state)}개")
