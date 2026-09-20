@@ -55,6 +55,7 @@ DRY_BALANCE = _f("DRY_BALANCE", "300")
 MIN_FREE = _f("MIN_FREE_MARGIN_BUFFER", "3")
 DAILY_LOSS_LIMIT = _f("DAILY_LOSS_LIMIT_USDT", "0")  # 0 = 사용 안 함
 FEE = 0.0006
+ALLOW = set(x.strip() for x in os.getenv("ALLOW_SYMBOLS", "").split(",") if x.strip())  # 비우면 전 종목
 
 TG_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
 TG_CHAT = os.getenv("TELEGRAM_CHAT_ID", "")
@@ -446,6 +447,8 @@ class Trader:
             return
         self.state["seen"].append(s["id"])
         if s["gran"] not in TFS:
+            return
+        if ALLOW and sym not in ALLOW:
             return
         if os.path.exists(STOP_FILE):
             log(f"신규 진입 중지 파일 있음 — 건너뜀 {sym}")
