@@ -26,6 +26,10 @@ import urllib.error
 import urllib.parse
 from datetime import datetime, timezone
 from math import floor
+from concurrent.futures import ThreadPoolExecutor
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import zzin_diver_alert as za
 
 try:
     sys.stdout.reconfigure(encoding="utf-8")
@@ -49,7 +53,7 @@ MARGIN = _f("MARGIN_USDT", "10")
 LEV = int(_f("LEVERAGE", "10"))
 MAX_POS = int(_f("MAX_POSITIONS", "200"))
 MAX_LOSS_PCT_MARGIN = _f("MAX_LOSS_PCT_OF_MARGIN", "30")
-TFS = set(t.strip() for t in os.getenv("TIMEFRAMES", "30m,1H,4H,6H,1D,1W").split(","))
+TFS = set(t.strip() for t in os.getenv("TIMEFRAMES", "15m,30m,1H,4H,6H,1D,1W").split(","))
 POLL = int(_f("POLL_SECONDS", "15"))
 DRY_BALANCE = _f("DRY_BALANCE", "300")
 MIN_FREE = _f("MIN_FREE_MARGIN_BUFFER", "3")
@@ -221,12 +225,15 @@ class BaseEx:
         data = self.c.call("GET", "/api/v2/mix/market/tickers",
                            {"productType": self.product.lower() if DEMO else self.product}, signed=False)
         rev = {v: k for k, v in DEMO_MAP.items()} if DEMO else {}
-        out = {}
+        out, last = {}, {}
         for t in data or []:
             try:
-                out[rev.get(t["symbol"], t["symbol"])] = float(t.get("markPrice") or t["lastPr"])
+                name = rev.get(t["symbol"], t["symbol"])
+                out[name] = float(t.get("markPrice") or t["lastPr"])
+                last[name] = float(t.get("lastPr") or t["markPrice"])
             except Exception:
                 pass
+        self.lastpx = last
         return out
 
 
@@ -402,11 +409,139 @@ class DryEx(BaseEx):
         return hit
 
 
+# ---------------------------------------------------------------- 실시간 진입 감시
+TF_NAMES = {"15m": "15분봉", "30m": "30분봉", "1H": "1시간봉", "4H": "4시간봉", "6H": "6시간봉",
+            "1D": "일봉", "1W": "주봉"}
+META = ("last_ts", "avg_gain", "avg_loss", "last_close")
+
+
+class LiveWatcher:
+    """봉이 진행되는 동안 현재가로 RSI를 계산해서, 찐다이버 조건이 성립된 종목이 RSI 30(숏은 70)을
+    되돌아 터치하는 순간 바로 진입한다. 상태는 알림봇 상태 파일에서 읽고 직접 최신 캔들로 갱신한다."""
+    BATCH = 45
+
+    def __init__(self, trader, now_ms=None):
+        self.t = trader
+        self.keys = {}
+        self.mtime = 0
+        self.fired = {}
+        self.now_ms = now_ms or (lambda: int(time.time() * 1000))
+        self.pool = ThreadPoolExecutor(max_workers=3)
+
+    def _load(self):
+        try:
+            m = os.path.getmtime(za.STATE_PATH)
+        except OSError:
+            return
+        if m == self.mtime:
+            return
+        try:
+            with open(za.STATE_PATH, encoding="utf-8") as f:
+                data = json.load(f)
+        except Exception:
+            return  # 알림봇이 쓰는 도중이면 다음 회차에 다시
+        self.mtime = m
+        for key, v in data.items():
+            if key.split("|")[1] not in TFS:
+                continue
+            cur = self.keys.get(key)
+            if cur is None or cur["last_ts"] < v["last_ts"]:
+                self.keys[key] = dict(v)
+
+    @staticmethod
+    def side(e):
+        if e["inOS"] and e["lastLoRSI"] is not None and e["epLoPrice"] < e["lastLoPrice"] \
+                and e["epLoRSI"] > e["lastLoRSI"]:
+            return "long"
+        if e["inOB"] and e["lastHiRSI"] is not None and e["epHiPrice"] > e["lastHiPrice"] \
+                and e["epHiRSI"] < e["lastHiRSI"]:
+            return "short"
+        return None
+
+    def _priority(self, e):
+        if self.side(e):
+            return 0
+        return 1 if (e["inOB"] or e["inOS"]) else 2
+
+    @staticmethod
+    def _pre(e):
+        r = e.get("prevRsi")
+        return e["inOB"] or e["inOS"] or (r is not None and (r <= 36 or r >= 64))
+
+    def _apply(self, key, raw):
+        e = self.keys[key]
+        raw = [k for k in raw if int(k[0]) > e["last_ts"]]
+        if not raw:
+            return
+        st = {k: v for k, v in e.items() if k not in META}
+        ag, al, pc = e["avg_gain"], e["avg_loss"], e["last_close"]
+        for k in raw:
+            ts, h, lo, c = int(k[0]), float(k[2]), float(k[3]), float(k[4])
+            ag, al, rsi = za.rsi_step(ag, al, pc, c)
+            if rsi is not None:
+                za.process_bar(st, ts, h, lo, c, rsi, pc, ag, al, False, [], {})
+            pc = c
+        e.update(st)
+        e.update({"last_ts": int(raw[-1][0]), "avg_gain": ag, "avg_loss": al, "last_close": pc})
+
+    def step(self, prices):
+        self._load()
+        now = self.now_ms()
+        need = []
+        for key, e in self.keys.items():
+            G = za.GRAN_MS[key.split("|")[1]]
+            if e["last_ts"] < now - now % G - G and self._pre(e):
+                need.append((self._priority(e), key))
+        need.sort()
+        batch = [k for _, k in need[:self.BATCH]]
+        if batch:
+            def fetch(key):
+                sym, gran = key.split("|")
+                try:
+                    return key, za.fetch_bitget(sym, gran, self.keys[key]["last_ts"] + 1, now)
+                except Exception:
+                    return key, None
+            for key, raw in self.pool.map(fetch, batch):
+                if raw:
+                    self._apply(key, raw)
+        lastpx = getattr(self.t.ex, "lastpx", {})
+        for key, e in list(self.keys.items()):
+            side = self.side(e)
+            if not side:
+                continue
+            sym, gran = key.split("|")
+            G = za.GRAN_MS[gran]
+            B = now - now % G
+            if e["last_ts"] != B - G or self.fired.get(key) == B:
+                continue
+            px = lastpx.get(sym) or prices.get(sym)
+            if not px:
+                continue
+            _, _, r = za.rsi_step(e["avg_gain"], e["avg_loss"], e["last_close"], px)
+            if r is None:
+                continue
+            if (side == "long" and r > za.OS) or (side == "short" and r < za.OB):
+                self.fired[key] = B
+                self._fire(sym, gran, side, B, px, r, e, prices)
+
+    def _fire(self, sym, gran, side, B, px, r, e, prices):
+        if not self.t.ex.tradable(sym):
+            return
+        info = self.t.ex.info(sym)
+        stop = e["epLoPrice"] if side == "long" else e["epHiPrice"]
+        sig = {"id": f"{sym}|{gran}|{B}", "symbol": sym, "dir": side, "gran": gran, "tf_name": TF_NAMES[gran],
+               "label": za.classify(info.get("baseCoin", sym), info.get("isRwa") == "YES"),
+               "ts": B, "close": px, "entry": px, "stop": stop, "detected_ms": self.now_ms()}
+        log(f"실시간 트리거 {sym} {gran} {side} RSI {r:.1f} 가격 {px}")
+        self.t.try_enter(sig, prices)
+
+
 # ---------------------------------------------------------------- 트레이더
 class Trader:
     def __init__(self, ex):
         self.ex = ex
         self.exch_pos = {}
+        self.watcher = LiveWatcher(self)
         self.state = {"positions": {}, "seen": [], "sig_offset": None, "stats": {"closed": 0, "R": 0.0},
                       "day": "", "day_pnl_R": 0.0}
         if os.path.exists(STATE_PATH):
@@ -610,6 +745,10 @@ class Trader:
         self.manage(prices)
         for s in self.new_signals():
             self.try_enter(s, prices)
+        try:
+            self.watcher.step(prices)
+        except Exception as e:
+            log(f"[실시간 감시 오류] {type(e).__name__}: {e}")
         if n % 4 == 0 and LIVE:
             self.protect()
         self.save()
