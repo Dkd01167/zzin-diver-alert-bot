@@ -406,6 +406,7 @@ class DryEx(BaseEx):
 class Trader:
     def __init__(self, ex):
         self.ex = ex
+        self.exch_pos = {}
         self.state = {"positions": {}, "seen": [], "sig_offset": None, "stats": {"closed": 0, "R": 0.0},
                       "day": "", "day_pnl_R": 0.0}
         if os.path.exists(STATE_PATH):
@@ -455,6 +456,9 @@ class Trader:
             return
         if sym in self.state["positions"]:
             log(f"이미 포지션 있음 — 건너뜀 {sym} {s['tf_name']}")
+            return
+        if sym in self.exch_pos:
+            log(f"거래소에 봇이 만들지 않은 포지션이 열려 있음 — 건드리지 않고 건너뜀 {sym}")
             return
         if len(self.state["positions"]) >= MAX_POS:
             log(f"동시 포지션 상한 — 건너뜀 {sym}")
@@ -510,6 +514,7 @@ class Trader:
     # ---- 관리
     def manage(self, prices):
         exch = self.ex.positions()
+        self.exch_pos = {s: p for s, p in exch.items() if s not in self.state["positions"]}
         for sym, pos in list(self.state["positions"].items()):
             if sym not in exch:
                 self.finalize(sym, pos, prices)
