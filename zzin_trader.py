@@ -262,6 +262,14 @@ class LiveEx(BaseEx):
                     "side": p["holdSide"], "size": size, "avg": float(p.get("openPriceAvg") or 0)}
         return out
 
+    def is_hedge(self, s):
+        """재시작 직후엔 캐시가 비어 있으므로 없으면 계정에서 다시 읽는다."""
+        if s not in self.posmode:
+            acct = self.c.call("GET", "/api/v2/mix/account/account",
+                               {"symbol": s, "productType": self.product, "marginCoin": self.coin})
+            self.posmode[s] = (acct or {}).get("posMode", "one_way_mode")
+        return self.posmode[s] == "hedge_mode"
+
     def prep(self, sym):
         s = self.api_sym(sym)
         if s in self.prepared:
@@ -283,7 +291,7 @@ class LiveEx(BaseEx):
         p = {"symbol": s, "productType": self.product, "marginMode": "isolated", "marginCoin": self.coin,
              "size": fmt(size, int(info["volumePlace"])), "orderType": "market",
              "clientOid": f"zz{int(time.time() * 1000)}{abs(hash((s, side, size))) % 1000}"}
-        hedge = self.posmode.get(s) == "hedge_mode"
+        hedge = self.is_hedge(s)
         if hedge:
             p["side"] = "buy" if side == "long" else "sell"
             p["tradeSide"] = "open" if opening else "close"
@@ -332,7 +340,7 @@ class LiveEx(BaseEx):
         s = self.api_sym(sym)
         info = self.contracts[s]
         old = self._pending_stops(s)
-        hedge = self.posmode.get(s) == "hedge_mode"
+        hedge = self.is_hedge(s)
         hold = side if hedge else ("buy" if side == "long" else "sell")
         self.c.call("POST", "/api/v2/mix/order/place-tpsl-order",
                     body={"marginCoin": self.coin, "productType": self.product, "symbol": s,
@@ -657,6 +665,31 @@ class Trader:
             px = prices.get(sym)
             if px is None:
                 continue
+            ws = pos.get("want_stop")
+            if ws is None and pos["next_level"] >= 2:
+                # 재시작 버그로 이미 레벨만 올라가고 손절이 안 따라간 포지션 보정
+                k = pos["next_level"] - 1
+                exp = round_price(self.ex.info(sym), pos["entry"] if k == 1 else level_price(pos, k - 1))
+                if (exp > pos["stop"]) if pos["dir"] == "long" else (exp < pos["stop"]):
+                    ws = pos["want_stop"] = exp
+            if ws is not None:
+                # 이전에 손절 이동이 실패한 포지션: 다시 시도. 이미 그 손절선을 지난 가격이면 손절이 났어야 하므로 청산.
+                if (pos["dir"] == "long" and px <= ws) or (pos["dir"] == "short" and px >= ws):
+                    try:
+                        self.ex.close_market(sym, pos["dir"], exch[sym]["size"])
+                        pos["stop"] = px
+                        pos.pop("want_stop", None)
+                        tg(f"[{MODE_TAG}] {sym} 손절선 {ws:.6g}을 이미 지나서 시장가 청산 (현재가 {px:.6g})")
+                    except BitgetError as e:
+                        log(f"[재청산 실패] {sym}: {e}")
+                    continue
+                try:
+                    self.ex.set_stop(sym, pos["dir"], ws)
+                    pos["stop"] = ws
+                    pos.pop("want_stop", None)
+                    tg(f"[{MODE_TAG}] {sym} 손절선 이동 재시도 성공 → {ws:.6g}")
+                except BitgetError as e:
+                    log(f"[손절 이동 재시도 실패] {sym}: {e}")
             actions = advance(pos, px)
             if not actions:
                 continue
@@ -689,7 +722,9 @@ class Trader:
                 try:
                     self.ex.set_stop(sym, pos["dir"], new_stop)
                     pos["stop"] = new_stop
+                    pos.pop("want_stop", None)
                 except BitgetError as e:
+                    pos["want_stop"] = new_stop
                     log(f"[손절 이동 실패] {sym}: {e}")
                     tg(f"[{MODE_TAG}] 손절선 이동 실패 {sym} → {new_stop}: {e} (이전 손절은 유지됨)")
             tg(f"[{MODE_TAG}] {sym} " + " / ".join(lines) + f"\n현재 손절가 {pos['stop']:.6g}")
