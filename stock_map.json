@@ -1,0 +1,3062 @@
+{
+ "TSLAUSDT": {
+  "base": "TSLA",
+  "yahoo": "TSLA",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Tesla, Inc.",
+  "kind": "same",
+  "err": 0.0176,
+  "label": "주식"
+ },
+ "CRCLUSDT": {
+  "base": "CRCL",
+  "yahoo": "CRCL",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Circle Internet Group",
+  "kind": "same",
+  "err": 0.0562,
+  "label": "주식"
+ },
+ "NVDAUSDT": {
+  "base": "NVDA",
+  "yahoo": "NVDA",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "NVIDIA Corporation",
+  "kind": "same",
+  "err": 0.0117,
+  "label": "주식"
+ },
+ "GOOGLUSDT": {
+  "base": "GOOGL",
+  "yahoo": "GOOGL",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Alphabet Inc.",
+  "kind": "same",
+  "err": 0.0102,
+  "label": "주식"
+ },
+ "AAPLUSDT": {
+  "base": "AAPL",
+  "yahoo": "AAPL",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Apple Inc.",
+  "kind": "same",
+  "err": 0.0021,
+  "label": "주식"
+ },
+ "AMZNUSDT": {
+  "base": "AMZN",
+  "yahoo": "AMZN",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Amazon.com, Inc.",
+  "kind": "same",
+  "err": 0.0101,
+  "label": "주식"
+ },
+ "METAUSDT": {
+  "base": "META",
+  "yahoo": "META",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Meta Platforms, Inc.",
+  "kind": "same",
+  "err": 0.0257,
+  "label": "주식"
+ },
+ "MCDUSDT": {
+  "base": "MCD",
+  "yahoo": "MCD",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "McDonald's Corporation",
+  "kind": "same",
+  "err": 0.0085,
+  "label": "주식"
+ },
+ "MSTRUSDT": {
+  "base": "MSTR",
+  "yahoo": "MSTR",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Strategy Inc",
+  "kind": "same",
+  "err": 0.0745,
+  "label": "주식"
+ },
+ "COINUSDT": {
+  "base": "COIN",
+  "yahoo": "COIN",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Coinbase Global, Inc.",
+  "kind": "same",
+  "err": 0.0517,
+  "label": "주식"
+ },
+ "HOODUSDT": {
+  "base": "HOOD",
+  "yahoo": "HOOD",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Robinhood Markets, Inc.",
+  "kind": "same",
+  "err": 0.0423,
+  "label": "주식"
+ },
+ "ARMUSDT": {
+  "base": "ARM",
+  "yahoo": "ARM",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Arm Holdings plc",
+  "kind": "same",
+  "err": 0.0518,
+  "label": "주식"
+ },
+ "ASMLUSDT": {
+  "base": "ASML",
+  "yahoo": "ASML",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "ASML Holding N.V.",
+  "kind": "same",
+  "err": 0.0225,
+  "label": "주식"
+ },
+ "BABAUSDT": {
+  "base": "BABA",
+  "yahoo": "BABA",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Alibaba Group Holding Limited",
+  "kind": "same",
+  "err": 0.0175,
+  "label": "주식"
+ },
+ "INTCUSDT": {
+  "base": "INTC",
+  "yahoo": "INTC",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Intel Corporation",
+  "kind": "same",
+  "err": 0.0629,
+  "label": "주식"
+ },
+ "IBMUSDT": {
+  "base": "IBM",
+  "yahoo": "IBM",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "International Business Machines Corporation",
+  "kind": "same",
+  "err": 0.0069,
+  "label": "주식"
+ },
+ "APPUSDT": {
+  "base": "APP",
+  "yahoo": "APP",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "AppLovin Corporation",
+  "kind": "same",
+  "err": 0.012,
+  "label": "주식"
+ },
+ "GEUSDT": {
+  "base": "GE",
+  "yahoo": "GE",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "GE Aerospace",
+  "kind": "same",
+  "err": 0.006,
+  "label": "주식"
+ },
+ "ORCLUSDT": {
+  "base": "ORCL",
+  "yahoo": "ORCL",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Oracle Corporation",
+  "kind": "same",
+  "err": 0.006,
+  "label": "주식"
+ },
+ "PLTRUSDT": {
+  "base": "PLTR",
+  "yahoo": "PLTR",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Palantir Technologies Inc.",
+  "kind": "same",
+  "err": 0.0058,
+  "label": "주식"
+ },
+ "GMEUSDT": {
+  "base": "GME",
+  "yahoo": "GME",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "GameStop Corp.",
+  "kind": "same",
+  "err": 0.0088,
+  "label": "주식"
+ },
+ "MRVLUSDT": {
+  "base": "MRVL",
+  "yahoo": "MRVL",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Marvell Technology, Inc.",
+  "kind": "same",
+  "err": 0.0289,
+  "label": "주식"
+ },
+ "MSFTUSDT": {
+  "base": "MSFT",
+  "yahoo": "MSFT",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Microsoft Corporation",
+  "kind": "same",
+  "err": 0.0018,
+  "label": "주식"
+ },
+ "NFLXUSDT": {
+  "base": "NFLX",
+  "yahoo": "NFLX",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Netflix, Inc.",
+  "kind": "same",
+  "err": 0.0015,
+  "label": "주식"
+ },
+ "FUTUUSDT": {
+  "base": "FUTU",
+  "yahoo": "FUTU",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "Futu Holdings Limited",
+  "kind": "same",
+  "err": 0.0189,
+  "label": "주식"
+ },
+ "JDUSDT": {
+  "base": "JD",
+  "yahoo": "JD",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "JD.com, Inc.",
+  "kind": "same",
+  "err": 0.0026,
+  "label": "주식"
+ },
+ "RDDTUSDT": {
+  "base": "RDDT",
+  "yahoo": "RDDT",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Reddit, Inc.",
+  "kind": "same",
+  "err": 0.0158,
+  "label": "주식"
+ },
+ "QQQUSDT": {
+  "base": "QQQ",
+  "yahoo": "QQQ",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "Invesco QQQ Trust",
+  "kind": "same",
+  "err": 0.0111,
+  "label": "ETF"
+ },
+ "CSCOUSDT": {
+  "base": "CSCO",
+  "yahoo": "CSCO",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Cisco Systems, Inc.",
+  "kind": "same",
+  "err": 0.0046,
+  "label": "주식"
+ },
+ "PEPUSDT": {
+  "base": "PEP",
+  "yahoo": "PEP",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "PepsiCo, Inc.",
+  "kind": "same",
+  "err": 0.0027,
+  "label": "주식"
+ },
+ "UNHUSDT": {
+  "base": "UNH",
+  "yahoo": "UNH",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "UnitedHealth Group Incorporated",
+  "kind": "same",
+  "err": 0.0046,
+  "label": "주식"
+ },
+ "LLYUSDT": {
+  "base": "LLY",
+  "yahoo": "LLY",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Eli Lilly and Company",
+  "kind": "same",
+  "err": 0.002,
+  "label": "주식"
+ },
+ "AVGOUSDT": {
+  "base": "AVGO",
+  "yahoo": "AVGO",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Broadcom Inc.",
+  "kind": "same",
+  "err": 0.0171,
+  "label": "주식"
+ },
+ "MUUSDT": {
+  "base": "MU",
+  "yahoo": "MU",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Micron Technology, Inc.",
+  "kind": "same",
+  "err": 0.0247,
+  "label": "주식"
+ },
+ "SPYUSDT": {
+  "base": "SPY",
+  "yahoo": "SPY",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "State Street SPDR S&P 500 ETF Trust",
+  "kind": "same",
+  "err": 0.0073,
+  "label": "ETF"
+ },
+ "COSTUSDT": {
+  "base": "COST",
+  "yahoo": "COST",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Costco Wholesale Corporation",
+  "kind": "same",
+  "err": 0.0005,
+  "label": "주식"
+ },
+ "WMTUSDT": {
+  "base": "WMT",
+  "yahoo": "WMT",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Walmart Inc.",
+  "kind": "same",
+  "err": 0.0008,
+  "label": "주식"
+ },
+ "TSMUSDT": {
+  "base": "TSM",
+  "yahoo": "TSM",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Taiwan Semiconductor Manufacturing Company Limited",
+  "kind": "same",
+  "err": 0.0125,
+  "label": "주식"
+ },
+ "COPUSDT": {
+  "base": "COP",
+  "yahoo": "COP",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "ConocoPhillips",
+  "kind": "same",
+  "err": 0.0072,
+  "label": "주식"
+ },
+ "XOMUSDT": {
+  "base": "XOM",
+  "yahoo": "XOM",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "ExxonMobil Holdings Corporation",
+  "kind": "same",
+  "err": 0.0059,
+  "label": "주식"
+ },
+ "OXYUSDT": {
+  "base": "OXY",
+  "yahoo": "OXY",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Occidental Petroleum Corporation",
+  "kind": "same",
+  "err": 0.0065,
+  "label": "주식"
+ },
+ "EWJUSDT": {
+  "base": "EWJ",
+  "yahoo": "EWJ",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "iShares MSCI Japan ETF",
+  "kind": "same",
+  "err": 0.0062,
+  "label": "ETF"
+ },
+ "EWYUSDT": {
+  "base": "EWY",
+  "yahoo": "EWY",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "iShares MSCI South Korea ETF",
+  "kind": "same",
+  "err": 0.0278,
+  "label": "ETF"
+ },
+ "EWTUSDT": {
+  "base": "EWT",
+  "yahoo": "EWT",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "iShares MSCI Taiwan ETF",
+  "kind": "same",
+  "err": 0.0217,
+  "label": "ETF"
+ },
+ "KWEBUSDT": {
+  "base": "KWEB",
+  "yahoo": "KWEB",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "KraneShares CSI China Internet ETF",
+  "kind": "same",
+  "err": 0.0111,
+  "label": "ETF"
+ },
+ "TQQQUSDT": {
+  "base": "TQQQ",
+  "yahoo": "TQQQ",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "ProShares UltraPro QQQ",
+  "kind": "same",
+  "err": 0.0329,
+  "label": "ETF"
+ },
+ "SQQQUSDT": {
+  "base": "SQQQ",
+  "yahoo": "SQQQ",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "ProShares UltraPro Short QQQ",
+  "kind": "same",
+  "err": 0.033,
+  "label": "ETF"
+ },
+ "RKLBUSDT": {
+  "base": "RKLB",
+  "yahoo": "RKLB",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Rocket Lab Corporation",
+  "kind": "same",
+  "err": 0.019,
+  "label": "주식"
+ },
+ "BAUSDT": {
+  "base": "BA",
+  "yahoo": "BA",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "The Boeing Company",
+  "kind": "same",
+  "err": 0.0099,
+  "label": "주식"
+ },
+ "SOXLUSDT": {
+  "base": "SOXL",
+  "yahoo": "SOXL",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "Direxion Daily Semiconductor Bull 3X Shares",
+  "kind": "same",
+  "err": 0.0735,
+  "label": "ETF"
+ },
+ "SOXSUSDT": {
+  "base": "SOXS",
+  "yahoo": "SOXS",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "Direxion Daily Semiconductor Bear 3X Shares",
+  "kind": "same",
+  "err": 0.0706,
+  "label": "ETF"
+ },
+ "INDAUSDT": {
+  "base": "INDA",
+  "yahoo": "INDA",
+  "cur": "USD",
+  "exch": "BTS",
+  "name": "iShares MSCI India ETF",
+  "kind": "same",
+  "err": 0.0069,
+  "label": "ETF"
+ },
+ "EWHUSDT": {
+  "base": "EWH",
+  "yahoo": "EWH",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "iShares MSCI Hong Kong ETF",
+  "kind": "same",
+  "err": 0.0053,
+  "label": "ETF"
+ },
+ "FLYUSDT": {
+  "base": "FLY",
+  "yahoo": "FLY",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "Firefly Aerospace Inc.",
+  "kind": "same",
+  "err": 0.02,
+  "label": "주식"
+ },
+ "SNDKUSDT": {
+  "base": "SNDK",
+  "yahoo": "SNDK",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Sandisk Corporation",
+  "kind": "same",
+  "err": 0.0153,
+  "label": "주식"
+ },
+ "LITEUSDT": {
+  "base": "LITE",
+  "yahoo": "LITE",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Lumentum Holdings Inc.",
+  "kind": "same",
+  "err": 0.0254,
+  "label": "주식"
+ },
+ "AMDUSDT": {
+  "base": "AMD",
+  "yahoo": "AMD",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Advanced Micro Devices, Inc.",
+  "kind": "same",
+  "err": 0.0334,
+  "label": "주식"
+ },
+ "AMATUSDT": {
+  "base": "AMAT",
+  "yahoo": "AMAT",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Applied Materials, Inc.",
+  "kind": "same",
+  "err": 0.0294,
+  "label": "주식"
+ },
+ "STXSTOCKUSDT": {
+  "base": "STXSTOCK",
+  "yahoo": "STX",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Seagate Technology Holdings plc",
+  "kind": "same",
+  "err": 0.0203,
+  "label": "주식"
+ },
+ "AAOIUSDT": {
+  "base": "AAOI",
+  "yahoo": "AAOI",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "Applied Optoelectronics, Inc.",
+  "kind": "same",
+  "err": 0.0322,
+  "label": "주식"
+ },
+ "COHRUSDT": {
+  "base": "COHR",
+  "yahoo": "COHR",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Coherent Corp.",
+  "kind": "same",
+  "err": 0.0326,
+  "label": "주식"
+ },
+ "BEUSDT": {
+  "base": "BE",
+  "yahoo": "BE",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Bloom Energy Corporation",
+  "kind": "same",
+  "err": 0.0372,
+  "label": "주식"
+ },
+ "NBISUSDT": {
+  "base": "NBIS",
+  "yahoo": "NBIS",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": null,
+  "kind": "same",
+  "err": 0.0211,
+  "label": "주식"
+ },
+ "IONQUSDT": {
+  "base": "IONQ",
+  "yahoo": "IONQ",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "IonQ, Inc.",
+  "kind": "same",
+  "err": 0.025,
+  "label": "주식"
+ },
+ "OKLOUSDT": {
+  "base": "OKLO",
+  "yahoo": "OKLO",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Oklo Inc.",
+  "kind": "same",
+  "err": 0.0289,
+  "label": "주식"
+ },
+ "MPUSDT": {
+  "base": "MP",
+  "yahoo": "MP",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "MP Materials Corp.",
+  "kind": "same",
+  "err": 0.0455,
+  "label": "주식"
+ },
+ "CRDOUSDT": {
+  "base": "CRDO",
+  "yahoo": "CRDO",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Credo Technology Group Holding Ltd",
+  "kind": "same",
+  "err": 0.0391,
+  "label": "주식"
+ },
+ "CRWVUSDT": {
+  "base": "CRWV",
+  "yahoo": "CRWV",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "CoreWeave, Inc.",
+  "kind": "same",
+  "err": 0.0225,
+  "label": "주식"
+ },
+ "APLDUSDT": {
+  "base": "APLD",
+  "yahoo": "APLD",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Applied Digital Corporation",
+  "kind": "same",
+  "err": 0.0288,
+  "label": "주식"
+ },
+ "KLACUSDT": {
+  "base": "KLAC",
+  "yahoo": "KLAC",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "KLA Corporation",
+  "kind": "same",
+  "err": 0.0272,
+  "label": "주식"
+ },
+ "AXTIUSDT": {
+  "base": "AXTI",
+  "yahoo": "AXTI",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "AXT, Inc.",
+  "kind": "same",
+  "err": 0.0505,
+  "label": "주식"
+ },
+ "LWLGUSDT": {
+  "base": "LWLG",
+  "yahoo": "LWLG",
+  "cur": "USD",
+  "exch": "NCM",
+  "name": "Lightwave Logic, Inc.",
+  "kind": "same",
+  "err": 0.0447,
+  "label": "주식"
+ },
+ "KOPNUSDT": {
+  "base": "KOPN",
+  "yahoo": "KOPN",
+  "cur": "USD",
+  "exch": "NCM",
+  "name": "Kopin Corporation",
+  "kind": "same",
+  "err": 0.0049,
+  "label": "주식"
+ },
+ "DRAMUSDT": {
+  "base": "DRAM",
+  "yahoo": "DRAM",
+  "cur": "USD",
+  "exch": "BTS",
+  "name": "Roundhill Memory ETF",
+  "kind": "same",
+  "err": 0.0275,
+  "label": "주식"
+ },
+ "USARUSDT": {
+  "base": "USAR",
+  "yahoo": "USAR",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "USA Rare Earth, Inc.",
+  "kind": "same",
+  "err": 0.0612,
+  "label": "주식"
+ },
+ "NIOUSDT": {
+  "base": "NIO",
+  "yahoo": "NIO",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "NIO Inc.",
+  "kind": "same",
+  "err": 0.0016,
+  "label": "주식"
+ },
+ "CBRSUSDT": {
+  "base": "CBRS",
+  "yahoo": "CBRS",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Cerebras Systems Inc.",
+  "kind": "same",
+  "err": 0.0175,
+  "label": "주식"
+ },
+ "INFQUSDT": {
+  "base": "INFQ",
+  "yahoo": "INFQ",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Infleqtion, Inc.",
+  "kind": "same",
+  "err": 0.0313,
+  "label": "주식"
+ },
+ "VRTUSDT": {
+  "base": "VRT",
+  "yahoo": "VRT",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Vertiv Holdings Co",
+  "kind": "same",
+  "err": 0.0293,
+  "label": "주식"
+ },
+ "ETNUSDT": {
+  "base": "ETN",
+  "yahoo": "ETN",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Eaton Corporation plc",
+  "kind": "same",
+  "err": 0.0072,
+  "label": "주식"
+ },
+ "NOKSTOCKUSDT": {
+  "base": "NOKSTOCK",
+  "yahoo": "NOK",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Nokia Oyj",
+  "kind": "same",
+  "err": 0.0314,
+  "label": "주식"
+ },
+ "OUSTUSDT": {
+  "base": "OUST",
+  "yahoo": "OUST",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Ouster, Inc.",
+  "kind": "same",
+  "err": 0.0368,
+  "label": "주식"
+ },
+ "POETUSDT": {
+  "base": "POET",
+  "yahoo": "POET",
+  "cur": "USD",
+  "exch": "NCM",
+  "name": "POET Technologies Inc.",
+  "kind": "same",
+  "err": 0.0364,
+  "label": "주식"
+ },
+ "ONDSUSDT": {
+  "base": "ONDS",
+  "yahoo": "ONDS",
+  "cur": "USD",
+  "exch": "NCM",
+  "name": "Ondas Inc.",
+  "kind": "same",
+  "err": 0.0123,
+  "label": "주식"
+ },
+ "RDWUSDT": {
+  "base": "RDW",
+  "yahoo": "RDW",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Redwire Corporation",
+  "kind": "same",
+  "err": 0.0234,
+  "label": "주식"
+ },
+ "QCOMUSDT": {
+  "base": "QCOM",
+  "yahoo": "QCOM",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "QUALCOMM Incorporated",
+  "kind": "same",
+  "err": 0.0153,
+  "label": "주식"
+ },
+ "WDCUSDT": {
+  "base": "WDC",
+  "yahoo": "WDC",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Western Digital Corporation",
+  "kind": "same",
+  "err": 0.0269,
+  "label": "주식"
+ },
+ "SMCIUSDT": {
+  "base": "SMCI",
+  "yahoo": "SMCI",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Super Micro Computer, Inc.",
+  "kind": "same",
+  "err": 0.0345,
+  "label": "주식"
+ },
+ "ASTSUSDT": {
+  "base": "ASTS",
+  "yahoo": "ASTS",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "AST SpaceMobile, Inc.",
+  "kind": "same",
+  "err": 0.021,
+  "label": "주식"
+ },
+ "SPCXUSDT": {
+  "base": "SPCX",
+  "yahoo": "SPCX",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Space Exploration Technologies Corp.",
+  "kind": "same",
+  "err": 0.0122,
+  "label": "주식"
+ },
+ "JOBYUSDT": {
+  "base": "JOBY",
+  "yahoo": "JOBY",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Joby Aviation, Inc.",
+  "kind": "same",
+  "err": 0.0208,
+  "label": "주식"
+ },
+ "ACHRUSDT": {
+  "base": "ACHR",
+  "yahoo": "ACHR",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Archer Aviation Inc.",
+  "kind": "same",
+  "err": 0.0217,
+  "label": "주식"
+ },
+ "RGTIUSDT": {
+  "base": "RGTI",
+  "yahoo": "RGTI",
+  "cur": "USD",
+  "exch": "NCM",
+  "name": "Rigetti Computing, Inc.",
+  "kind": "same",
+  "err": 0.0244,
+  "label": "주식"
+ },
+ "QBTSUSDT": {
+  "base": "QBTS",
+  "yahoo": "QBTS",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "D-Wave Quantum Inc.",
+  "kind": "same",
+  "err": 0.0194,
+  "label": "주식"
+ },
+ "QUBTUSDT": {
+  "base": "QUBT",
+  "yahoo": "QUBT",
+  "cur": "USD",
+  "exch": "NCM",
+  "name": "Quantum Computing Inc.",
+  "kind": "same",
+  "err": 0.0169,
+  "label": "주식"
+ },
+ "ARQQUSDT": {
+  "base": "ARQQ",
+  "yahoo": "ARQQ",
+  "cur": "USD",
+  "exch": "NCM",
+  "name": "Arqit Quantum Inc.",
+  "kind": "same",
+  "err": 0.0186,
+  "label": "주식"
+ },
+ "BRKBUSDT": {
+  "base": "BRKB",
+  "yahoo": "BRK-B",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Berkshire Hathaway Inc.",
+  "kind": "same",
+  "err": 0.0018,
+  "label": "주식"
+ },
+ "PANWUSDT": {
+  "base": "PANW",
+  "yahoo": "PANW",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Palo Alto Networks, Inc.",
+  "kind": "same",
+  "err": 0.0032,
+  "label": "주식"
+ },
+ "SNOWUSDT": {
+  "base": "SNOW",
+  "yahoo": "SNOW",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Snowflake Inc.",
+  "kind": "same",
+  "err": 0.0066,
+  "label": "주식"
+ },
+ "DELLUSDT": {
+  "base": "DELL",
+  "yahoo": "DELL",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Dell Technologies Inc.",
+  "kind": "same",
+  "err": 0.0286,
+  "label": "주식"
+ },
+ "QNTSTOCKUSDT": {
+  "base": "QNTSTOCK",
+  "yahoo": "QNT",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "Quantinuum Inc.",
+  "kind": "same",
+  "err": 0.0228,
+  "label": "주식"
+ },
+ "EVEXUSDT": {
+  "base": "EVEX",
+  "yahoo": "EVEX",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Eve Holding, Inc.",
+  "kind": "same",
+  "err": 0.0078,
+  "label": "주식"
+ },
+ "RCATUSDT": {
+  "base": "RCAT",
+  "yahoo": "RCAT",
+  "cur": "USD",
+  "exch": "NCM",
+  "name": "Red Cat Holdings, Inc.",
+  "kind": "same",
+  "err": 0.0338,
+  "label": "주식"
+ },
+ "KTOSUSDT": {
+  "base": "KTOS",
+  "yahoo": "KTOS",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Kratos Defense & Security Solutions, Inc.",
+  "kind": "same",
+  "err": 0.0158,
+  "label": "주식"
+ },
+ "DFENUSDT": {
+  "base": "DFEN",
+  "yahoo": "DFEN",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "Direxion Daily Aerospace & Defense Bull 3X Shares",
+  "kind": "same",
+  "err": 0.0148,
+  "label": "ETF"
+ },
+ "AVAVUSDT": {
+  "base": "AVAV",
+  "yahoo": "AVAV",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "AeroVironment, Inc.",
+  "kind": "same",
+  "err": 0.0202,
+  "label": "주식"
+ },
+ "AXONUSDT": {
+  "base": "AXON",
+  "yahoo": "AXON",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Axon Enterprise, Inc.",
+  "kind": "same",
+  "err": 0.0101,
+  "label": "주식"
+ },
+ "LMTUSDT": {
+  "base": "LMT",
+  "yahoo": "LMT",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Lockheed Martin Corporation",
+  "kind": "same",
+  "err": 0.004,
+  "label": "주식"
+ },
+ "RTXSTOCKUSDT": {
+  "base": "RTXSTOCK",
+  "yahoo": "RTX",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Raytheon Technologies Corp",
+  "kind": "same",
+  "err": 0.0049,
+  "label": "주식"
+ },
+ "NOCUSDT": {
+  "base": "NOC",
+  "yahoo": "NOC",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Northrop Grumman Corporation",
+  "kind": "same",
+  "err": 0.0026,
+  "label": "주식"
+ },
+ "NOWUSDT": {
+  "base": "NOW",
+  "yahoo": "NOW",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "ServiceNow, Inc.",
+  "kind": "same",
+  "err": 0.003,
+  "label": "주식"
+ },
+ "NTAPUSDT": {
+  "base": "NTAP",
+  "yahoo": "NTAP",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "NetApp, Inc.",
+  "kind": "same",
+  "err": 0.0111,
+  "label": "주식"
+ },
+ "SKHYNIXUSDT": {
+  "base": "SKHYNIX",
+  "yahoo": "000660.KS",
+  "cur": "KRW",
+  "exch": "KSC",
+  "name": "SK hynix Inc.",
+  "kind": "usd",
+  "err": 0.0079,
+  "label": "주식"
+ },
+ "SAMSUNGUSDT": {
+  "base": "SAMSUNG",
+  "yahoo": "005930.KS",
+  "cur": "KRW",
+  "exch": "KSC",
+  "name": "Samsung Electronics Co., Ltd.",
+  "kind": "usd",
+  "err": 0.0045,
+  "label": "주식"
+ },
+ "HYUNDAIUSDT": {
+  "base": "HYUNDAI",
+  "yahoo": "307950.KS",
+  "cur": "KRW",
+  "exch": "KSC",
+  "name": "Hyundai Autoever Corporation",
+  "kind": "usd",
+  "err": 0.0001,
+  "label": "주식"
+ },
+ "SITMUSDT": {
+  "base": "SITM",
+  "yahoo": "SITM",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "SiTime Corporation",
+  "kind": "same",
+  "err": 0.0256,
+  "label": "주식"
+ },
+ "SMRUSDT": {
+  "base": "SMR",
+  "yahoo": "SMR",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "NuScale Power Corporation",
+  "kind": "same",
+  "err": 0.027,
+  "label": "주식"
+ },
+ "BBSTOCKUSDT": {
+  "base": "BBSTOCK",
+  "yahoo": "BB",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "BlackBerry Limited",
+  "kind": "same",
+  "err": 0.0154,
+  "label": "주식"
+ },
+ "KIOXIAUSDT": {
+  "base": "KIOXIA",
+  "yahoo": "285A.T",
+  "cur": "JPY",
+  "exch": "JPX",
+  "name": "Kioxia Holdings Corporation",
+  "kind": "usd",
+  "err": 0.0546,
+  "label": "주식"
+ },
+ "TOKYOELUSDT": {
+  "base": "TOKYOEL",
+  "yahoo": "8035.T",
+  "cur": "JPY",
+  "exch": "JPX",
+  "name": "Tokyo Electron Limited",
+  "kind": "usd",
+  "err": 0.004,
+  "label": "주식"
+ },
+ "SUMIELECUSDT": {
+  "base": "SUMIELEC",
+  "yahoo": "5802.T",
+  "cur": "JPY",
+  "exch": "JPX",
+  "name": "Sumitomo Electric Industries, Ltd.",
+  "kind": "usd",
+  "err": 0.0009,
+  "label": "주식"
+ },
+ "ADVANTESTUSDT": {
+  "base": "ADVANTEST",
+  "yahoo": "6857.T",
+  "cur": "JPY",
+  "exch": "JPX",
+  "name": "Advantest Corporation",
+  "kind": "usd",
+  "err": 0.0024,
+  "label": "주식"
+ },
+ "LASERTECUSDT": {
+  "base": "LASERTEC",
+  "yahoo": "6920.T",
+  "cur": "JPY",
+  "exch": "JPX",
+  "name": "Lasertec Corporation",
+  "kind": "usd",
+  "err": 0.0132,
+  "label": "주식"
+ },
+ "DOOSENERUSDT": {
+  "base": "DOOSENER",
+  "yahoo": "034020.KS",
+  "cur": "KRW",
+  "exch": "KSC",
+  "name": "Doosan Enerbility Co., Ltd.",
+  "kind": "usd",
+  "err": 0.0058,
+  "label": "주식"
+ },
+ "DOOSBOTUSDT": {
+  "base": "DOOSBOT",
+  "yahoo": "454910.KS",
+  "cur": "KRW",
+  "exch": "KSC",
+  "name": "Doosan Robotics Inc.",
+  "kind": "usd",
+  "err": 0.0009,
+  "label": "주식"
+ },
+ "PLUSDT": {
+  "base": "PL",
+  "yahoo": "PL",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Planet Labs PBC",
+  "kind": "same",
+  "err": 0.02,
+  "label": "주식"
+ },
+ "CIENUSDT": {
+  "base": "CIEN",
+  "yahoo": "CIEN",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Ciena Corporation",
+  "kind": "same",
+  "err": 0.0272,
+  "label": "주식"
+ },
+ "AMCUSDT": {
+  "base": "AMC",
+  "yahoo": "AMC",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "AMC Entertainment Holdings, Inc.",
+  "kind": "same",
+  "err": 0.0006,
+  "label": "주식"
+ },
+ "MDBUSDT": {
+  "base": "MDB",
+  "yahoo": "MDB",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "MongoDB, Inc.",
+  "kind": "same",
+  "err": 0.0022,
+  "label": "주식"
+ },
+ "TWLOUSDT": {
+  "base": "TWLO",
+  "yahoo": "TWLO",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Twilio Inc.",
+  "kind": "same",
+  "err": 0.0046,
+  "label": "주식"
+ },
+ "DXYZUSDT": {
+  "base": "DXYZ",
+  "yahoo": "DXYZ",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Destiny Tech100 Inc.",
+  "kind": "same",
+  "err": 0.0037,
+  "label": "주식"
+ },
+ "ADBEUSDT": {
+  "base": "ADBE",
+  "yahoo": "ADBE",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Adobe Inc.",
+  "kind": "same",
+  "err": 0.0005,
+  "label": "주식"
+ },
+ "IRENUSDT": {
+  "base": "IREN",
+  "yahoo": "IREN",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "IREN Limited",
+  "kind": "same",
+  "err": 0.0247,
+  "label": "주식"
+ },
+ "SPIRUSDT": {
+  "base": "SPIR",
+  "yahoo": "SPIR",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Spire Global, Inc.",
+  "kind": "same",
+  "err": 0.0047,
+  "label": "주식"
+ },
+ "SATLUSDT": {
+  "base": "SATL",
+  "yahoo": "SATL",
+  "cur": "USD",
+  "exch": "NCM",
+  "name": "Satellogic Inc.",
+  "kind": "same",
+  "err": 0.0356,
+  "label": "주식"
+ },
+ "BXUSDT": {
+  "base": "BX",
+  "yahoo": "BX",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Blackstone Inc.",
+  "kind": "same",
+  "err": 0.0083,
+  "label": "주식"
+ },
+ "HPEUSDT": {
+  "base": "HPE",
+  "yahoo": "HPE",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Hewlett Packard Enterprise Company",
+  "kind": "same",
+  "err": 0.0247,
+  "label": "주식"
+ },
+ "CRWDUSDT": {
+  "base": "CRWD",
+  "yahoo": "CRWD",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "CrowdStrike Holdings, Inc.",
+  "kind": "same",
+  "err": 0.0017,
+  "label": "주식"
+ },
+ "IWMUSDT": {
+  "base": "IWM",
+  "yahoo": "IWM",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "iShares Russell 2000 ETF",
+  "kind": "same",
+  "err": 0.0052,
+  "label": "ETF"
+ },
+ "SIMOUSDT": {
+  "base": "SIMO",
+  "yahoo": "SIMO",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Silicon Motion Technology Corporation",
+  "kind": "same",
+  "err": 0.0189,
+  "label": "주식"
+ },
+ "GLWUSDT": {
+  "base": "GLW",
+  "yahoo": "GLW",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Corning Incorporated",
+  "kind": "same",
+  "err": 0.032,
+  "label": "주식"
+ },
+ "TSEMUSDT": {
+  "base": "TSEM",
+  "yahoo": "TSEM",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Tower Semiconductor Ltd.",
+  "kind": "same",
+  "err": 0.0258,
+  "label": "주식"
+ },
+ "OSSUSDT": {
+  "base": "OSS",
+  "yahoo": "OSS",
+  "cur": "USD",
+  "exch": "NCM",
+  "name": "One Stop Systems, Inc.",
+  "kind": "same",
+  "err": 0.0198,
+  "label": "주식"
+ },
+ "AEHRUSDT": {
+  "base": "AEHR",
+  "yahoo": "AEHR",
+  "cur": "USD",
+  "exch": "NCM",
+  "name": "Aehr Test Systems, Inc.",
+  "kind": "same",
+  "err": 0.0372,
+  "label": "주식"
+ },
+ "VUSDT": {
+  "base": "V",
+  "yahoo": "V",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Visa Inc.",
+  "kind": "same",
+  "err": 0.0032,
+  "label": "주식"
+ },
+ "ABNBUSDT": {
+  "base": "ABNB",
+  "yahoo": "ABNB",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Airbnb, Inc.",
+  "kind": "same",
+  "err": 0.0012,
+  "label": "주식"
+ },
+ "CMCSAUSDT": {
+  "base": "CMCSA",
+  "yahoo": "CMCSA",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Comcast Corporation",
+  "kind": "same",
+  "err": 0.0025,
+  "label": "주식"
+ },
+ "KOUSDT": {
+  "base": "KO",
+  "yahoo": "KO",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "The Coca-Cola Company",
+  "kind": "same",
+  "err": 0.0002,
+  "label": "주식"
+ },
+ "FOXAUSDT": {
+  "base": "FOXA",
+  "yahoo": "FOXA",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Fox Corporation",
+  "kind": "same",
+  "err": 0.0016,
+  "label": "주식"
+ },
+ "MARUSDT": {
+  "base": "MAR",
+  "yahoo": "MAR",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Marriott International, Inc.",
+  "kind": "same",
+  "err": 0.0046,
+  "label": "주식"
+ },
+ "NKEUSDT": {
+  "base": "NKE",
+  "yahoo": "NKE",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "NIKE, Inc.",
+  "kind": "same",
+  "err": 0.0063,
+  "label": "주식"
+ },
+ "BUDUSDT": {
+  "base": "BUD",
+  "yahoo": "BUD",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Anheuser-Busch InBev SA/NV",
+  "kind": "same",
+  "err": 0.0042,
+  "label": "주식"
+ },
+ "CCLUSDT": {
+  "base": "CCL",
+  "yahoo": "CCL",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Carnival Corporation Ltd.",
+  "kind": "same",
+  "err": 0.0168,
+  "label": "주식"
+ },
+ "DKNGUSDT": {
+  "base": "DKNG",
+  "yahoo": "DKNG",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "DraftKings Inc.",
+  "kind": "same",
+  "err": 0.0053,
+  "label": "주식"
+ },
+ "UVXYUSDT": {
+  "base": "UVXY",
+  "yahoo": "UVXY",
+  "cur": "USD",
+  "exch": "BTS",
+  "name": "ProShares Ultra VIX Short-Term Futures ETF",
+  "kind": "same",
+  "err": 0.0235,
+  "label": "ETF"
+ },
+ "BMNRUSDT": {
+  "base": "BMNR",
+  "yahoo": "BMNR",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Bitmine Immersion Technologies, Inc.",
+  "kind": "same",
+  "err": 0.0528,
+  "label": "주식"
+ },
+ "ISRGUSDT": {
+  "base": "ISRG",
+  "yahoo": "ISRG",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Intuitive Surgical, Inc.",
+  "kind": "same",
+  "err": 0.0024,
+  "label": "주식"
+ },
+ "SGOVUSDT": {
+  "base": "SGOV",
+  "yahoo": "SGOV",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "iShares 0-3 Month Treasury Bond ETF",
+  "kind": "same",
+  "err": 0.0004,
+  "label": "ETF"
+ },
+ "XLUUSDT": {
+  "base": "XLU",
+  "yahoo": "XLU",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "State Street Utilities Select Sector SPDR ETF",
+  "kind": "same",
+  "err": 0.0002,
+  "label": "ETF"
+ },
+ "XLKUSDT": {
+  "base": "XLK",
+  "yahoo": "XLK",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "State Street Technology Select Sector SPDR ETF",
+  "kind": "same",
+  "err": 0.0106,
+  "label": "ETF"
+ },
+ "ROKUSDT": {
+  "base": "ROK",
+  "yahoo": "ROK",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Rockwell Automation, Inc.",
+  "kind": "same",
+  "err": 0.0043,
+  "label": "주식"
+ },
+ "SMHUSDT": {
+  "base": "SMH",
+  "yahoo": "SMH",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "VanEck Semiconductor ETF",
+  "kind": "same",
+  "err": 0.0199,
+  "label": "ETF"
+ },
+ "CGNXUSDT": {
+  "base": "CGNX",
+  "yahoo": "CGNX",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Cognex Corporation",
+  "kind": "same",
+  "err": 0.0271,
+  "label": "주식"
+ },
+ "FLNCUSDT": {
+  "base": "FLNC",
+  "yahoo": "FLNC",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Fluence Energy, Inc.",
+  "kind": "same",
+  "err": 0.0133,
+  "label": "주식"
+ },
+ "XNDUUSDT": {
+  "base": "XNDU",
+  "yahoo": "XNDU",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "Xanadu Quantum Technologies Limited",
+  "kind": "same",
+  "err": 0.0179,
+  "label": "주식"
+ },
+ "LRCXUSDT": {
+  "base": "LRCX",
+  "yahoo": "LRCX",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Lam Research Corporation",
+  "kind": "same",
+  "err": 0.0275,
+  "label": "주식"
+ },
+ "ALABUSDT": {
+  "base": "ALAB",
+  "yahoo": "ALAB",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Astera Labs, Inc.",
+  "kind": "same",
+  "err": 0.0331,
+  "label": "주식"
+ },
+ "MUUUSDT": {
+  "base": "MUU",
+  "yahoo": "MUU",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "Direxion Daily MU Bull 2X Shares",
+  "kind": "same",
+  "err": 0.048,
+  "label": "주식"
+ },
+ "TERUSDT": {
+  "base": "TER",
+  "yahoo": "TER",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Teradyne, Inc.",
+  "kind": "same",
+  "err": 0.0229,
+  "label": "주식"
+ },
+ "KORUUSDT": {
+  "base": "KORU",
+  "yahoo": "KORU",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "Direxion Daily South Korea Bull 3X Shares",
+  "kind": "same",
+  "err": 0.0779,
+  "label": "주식"
+ },
+ "APDUSDT": {
+  "base": "APD",
+  "yahoo": "APD",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Air Products and Chemicals, Inc.",
+  "kind": "same",
+  "err": 0.0119,
+  "label": "주식"
+ },
+ "LINUSDT": {
+  "base": "LIN",
+  "yahoo": "LIN",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Linde plc",
+  "kind": "same",
+  "err": 0.0007,
+  "label": "주식"
+ },
+ "FLEXUSDT": {
+  "base": "FLEX",
+  "yahoo": "FLEX",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Flex Ltd.",
+  "kind": "same",
+  "err": 0.0241,
+  "label": "주식"
+ },
+ "ADIUSDT": {
+  "base": "ADI",
+  "yahoo": "ADI",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Analog Devices, Inc.",
+  "kind": "same",
+  "err": 0.0074,
+  "label": "주식"
+ },
+ "GSUSDT": {
+  "base": "GS",
+  "yahoo": "GS",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "The Goldman Sachs Group, Inc.",
+  "kind": "same",
+  "err": 0.0133,
+  "label": "주식"
+ },
+ "CATUSDT": {
+  "base": "CAT",
+  "yahoo": "CAT",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Caterpillar Inc.",
+  "kind": "same",
+  "err": 0.0208,
+  "label": "주식"
+ },
+ "JPMUSDT": {
+  "base": "JPM",
+  "yahoo": "JPM",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "JPMorgan Chase & Co.",
+  "kind": "same",
+  "err": 0.0059,
+  "label": "주식"
+ },
+ "GEVUSDT": {
+  "base": "GEV",
+  "yahoo": "GEV",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "GE Vernova Inc.",
+  "kind": "same",
+  "err": 0.0194,
+  "label": "주식"
+ },
+ "STRCUSDT": {
+  "base": "STRC",
+  "yahoo": "STRC",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Strategy Inc",
+  "kind": "same",
+  "err": 0.0014,
+  "label": "주식"
+ },
+ "MINIMAXUSDT": {
+  "base": "MINIMAX",
+  "yahoo": "0100.HK",
+  "cur": "HKD",
+  "exch": "HKG",
+  "name": "MiniMax Group Inc.",
+  "kind": "usd",
+  "err": 0.0083,
+  "label": "주식"
+ },
+ "ZHIPUUSDT": {
+  "base": "ZHIPU",
+  "yahoo": "2513.HK",
+  "cur": "HKD",
+  "exch": "HKG",
+  "name": "Z.AI Co., Ltd.",
+  "kind": "usd",
+  "err": 0.0064,
+  "label": "주식"
+ },
+ "MVLLUSDT": {
+  "base": "MVLL",
+  "yahoo": "MVLL",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "GraniteShares 2x Long MRVL Daily ETF",
+  "kind": "same",
+  "err": 0.0549,
+  "label": "주식"
+ },
+ "SONYUSDT": {
+  "base": "SONY",
+  "yahoo": "SONY",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Sony Group Corporation",
+  "kind": "same",
+  "err": 0.0066,
+  "label": "주식"
+ },
+ "RAMUSDT": {
+  "base": "RAM",
+  "yahoo": "RAM",
+  "cur": "USD",
+  "exch": "BTS",
+  "name": "Roundhill T-REX 2x Long DRAM Daily Target ETF",
+  "kind": "same",
+  "err": 0.0518,
+  "label": "주식"
+ },
+ "WENUSDT": {
+  "base": "WEN",
+  "yahoo": "WEN",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "The Wendy's Company",
+  "kind": "same",
+  "err": 0.0028,
+  "label": "주식"
+ },
+ "AALUSDT": {
+  "base": "AAL",
+  "yahoo": "AAL",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "American Airlines Group Inc.",
+  "kind": "same",
+  "err": 0.0124,
+  "label": "주식"
+ },
+ "VOOUSDT": {
+  "base": "VOO",
+  "yahoo": "VOO",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "Vanguard S&P 500 ETF",
+  "kind": "same",
+  "err": 0.0078,
+  "label": "ETF"
+ },
+ "SOXXUSDT": {
+  "base": "SOXX",
+  "yahoo": "SOXX",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "iShares Semiconductor ETF",
+  "kind": "same",
+  "err": 0.0244,
+  "label": "ETF"
+ },
+ "TXNUSDT": {
+  "base": "TXN",
+  "yahoo": "TXN",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Texas Instruments Incorporated",
+  "kind": "same",
+  "err": 0.0131,
+  "label": "주식"
+ },
+ "BACUSDT": {
+  "base": "BAC",
+  "yahoo": "BAC",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Bank of America Corporation",
+  "kind": "same",
+  "err": 0.0057,
+  "label": "주식"
+ },
+ "CRMUSDT": {
+  "base": "CRM",
+  "yahoo": "CRM",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Salesforce, Inc.",
+  "kind": "same",
+  "err": 0.0005,
+  "label": "주식"
+ },
+ "AMKRUSDT": {
+  "base": "AMKR",
+  "yahoo": "AMKR",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Amkor Technology, Inc.",
+  "kind": "same",
+  "err": 0.035,
+  "label": "주식"
+ },
+ "PDDUSDT": {
+  "base": "PDD",
+  "yahoo": "PDD",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "PDD Holdings Inc.",
+  "kind": "same",
+  "err": 0.0248,
+  "label": "주식"
+ },
+ "ASXUSDT": {
+  "base": "ASX",
+  "yahoo": "ASX",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "ASE Technology Holding Co., Ltd.",
+  "kind": "same",
+  "err": 0.019,
+  "label": "주식"
+ },
+ "TENCENTUSDT": {
+  "base": "TENCENT",
+  "yahoo": "0700.HK",
+  "cur": "HKD",
+  "exch": "HKG",
+  "name": "Tencent Holdings Limited",
+  "kind": "usd",
+  "err": 0.0013,
+  "label": "주식"
+ },
+ "GIGADEVICEUSDT": {
+  "base": "GIGADEVICE",
+  "yahoo": "3986.HK",
+  "cur": "HKD",
+  "exch": "HKG",
+  "name": "GigaDevice Semiconductor Inc.",
+  "kind": "usd",
+  "err": 0.0027,
+  "label": "주식"
+ },
+ "SMICUSDT": {
+  "base": "SMIC",
+  "yahoo": "0981.HK",
+  "cur": "HKD",
+  "exch": "HKG",
+  "name": "Semiconductor Manufacturing International Corporation",
+  "kind": "usd",
+  "err": 0.0021,
+  "label": "주식"
+ },
+ "POPMARTUSDT": {
+  "base": "POPMART",
+  "yahoo": "9992.HK",
+  "cur": "HKD",
+  "exch": "HKG",
+  "name": "Pop Mart International Group Limited",
+  "kind": "usd",
+  "err": 0.0054,
+  "label": "주식"
+ },
+ "XIAOMIUSDT": {
+  "base": "XIAOMI",
+  "yahoo": "1810.HK",
+  "cur": "HKD",
+  "exch": "HKG",
+  "name": "Xiaomi Corporation",
+  "kind": "usd",
+  "err": 0.0041,
+  "label": "주식"
+ },
+ "MEITUANUSDT": {
+  "base": "MEITUAN",
+  "yahoo": "3690.HK",
+  "cur": "HKD",
+  "exch": "HKG",
+  "name": "Meituan",
+  "kind": "usd",
+  "err": 0.0044,
+  "label": "주식"
+ },
+ "NETEASEUSDT": {
+  "base": "NETEASE",
+  "yahoo": "9999.HK",
+  "cur": "HKD",
+  "exch": "HKG",
+  "name": "NetEase, Inc.",
+  "kind": "usd",
+  "err": 0.0007,
+  "label": "주식"
+ },
+ "SKHYUSDT": {
+  "base": "SKHY",
+  "yahoo": "SKHY",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "SK hynix Inc.",
+  "kind": "same",
+  "err": 0.0191,
+  "label": "주식"
+ },
+ "DIASTOCKUSDT": {
+  "base": "DIASTOCK",
+  "yahoo": "DIA",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "State Street SPDR Dow Jones Industrial Average ETF Trust",
+  "kind": "same",
+  "err": 0.007,
+  "label": "주식"
+ },
+ "TTWOUSDT": {
+  "base": "TTWO",
+  "yahoo": "TTWO",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Take-Two Interactive Software, Inc.",
+  "kind": "same",
+  "err": 0.0073,
+  "label": "주식"
+ },
+ "ECHOUSDT": {
+  "base": "ECHO",
+  "yahoo": "ECHO",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "EchoStar Corporation",
+  "kind": "same",
+  "err": 0.011,
+  "label": "주식"
+ },
+ "DISKUSDT": {
+  "base": "DISK",
+  "yahoo": "DISK",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "Tema Memory ETF",
+  "kind": "same",
+  "err": 0.0106,
+  "label": "주식"
+ },
+ "CONLUSDT": {
+  "base": "CONL",
+  "yahoo": "CONL",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "GraniteShares 2x Long COIN Daily ETF",
+  "kind": "same",
+  "err": 0.1021,
+  "label": "주식"
+ },
+ "KSTRUSDT": {
+  "base": "KSTR",
+  "yahoo": "KSTR",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "KraneShares China Technology & Semiconductor STAR 50 Index ETF",
+  "kind": "same",
+  "err": 0.0077,
+  "label": "주식"
+ },
+ "BSPUSDT": {
+  "base": "BSP",
+  "yahoo": "BSP",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Bending Spoons S.p.A.",
+  "kind": "same",
+  "err": 0.0169,
+  "label": "주식"
+ },
+ "EUVUSDT": {
+  "base": "EUV",
+  "yahoo": "EUV",
+  "cur": "USD",
+  "exch": "BTS",
+  "name": "Corgi Lithography & Semiconductor Photonics ETF",
+  "kind": "same",
+  "err": 0.0223,
+  "label": "주식"
+ },
+ "FWDIUSDT": {
+  "base": "FWDI",
+  "yahoo": "FWDI",
+  "cur": "USD",
+  "exch": "NCM",
+  "name": "Forward Industries, Inc.",
+  "kind": "same",
+  "err": 0.0699,
+  "label": "주식"
+ },
+ "MSTUUSDT": {
+  "base": "MSTU",
+  "yahoo": "MSTU",
+  "cur": "USD",
+  "exch": "BTS",
+  "name": "T-Rex 2X Long MSTR Daily Target ETF",
+  "kind": "same",
+  "err": 0.1454,
+  "label": "주식"
+ },
+ "BNCUSDT": {
+  "base": "BNC",
+  "yahoo": "BNC",
+  "cur": "USD",
+  "exch": "NCM",
+  "name": "CEA Industries Inc.",
+  "kind": "same",
+  "err": 0.0937,
+  "label": "주식"
+ },
+ "KUAISHOUUSDT": {
+  "base": "KUAISHOU",
+  "yahoo": "1024.HK",
+  "cur": "HKD",
+  "exch": "HKG",
+  "name": "Kuaishou Technology",
+  "kind": "usd",
+  "err": 0.0001,
+  "label": "주식"
+ },
+ "INTWUSDT": {
+  "base": "INTW",
+  "yahoo": "INTW",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "GraniteShares 2x Long INTC Daily ETF",
+  "kind": "same",
+  "err": 0.1197,
+  "label": "주식"
+ },
+ "SNXXUSDT": {
+  "base": "SNXX",
+  "yahoo": "SNXX",
+  "cur": "USD",
+  "exch": "BTS",
+  "name": "Tradr 2X Long Sndk Daily ETF",
+  "kind": "same",
+  "err": 0.034,
+  "label": "주식"
+ },
+ "BOTUSDT": {
+  "base": "BOT",
+  "yahoo": "BOT",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "Robostrategy, Inc.",
+  "kind": "same",
+  "err": 0.0264,
+  "label": "주식"
+ },
+ "XBIUSDT": {
+  "base": "XBI",
+  "yahoo": "XBI",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "State Street SPDR S&P Biotech ETF",
+  "kind": "same",
+  "err": 0.007,
+  "label": "ETF"
+ },
+ "TMUSDT": {
+  "base": "TM",
+  "yahoo": "TM",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Toyota Motor Corporation",
+  "kind": "same",
+  "err": 0.0007,
+  "label": "주식"
+ },
+ "MUFGUSDT": {
+  "base": "MUFG",
+  "yahoo": "MUFG",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Mitsubishi UFJ Financial Group, Inc.",
+  "kind": "same",
+  "err": 0.0008,
+  "label": "주식"
+ },
+ "CPNGUSDT": {
+  "base": "CPNG",
+  "yahoo": "CPNG",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Coupang, Inc.",
+  "kind": "same",
+  "err": 0.0173,
+  "label": "주식"
+ },
+ "NVDLUSDT": {
+  "base": "NVDL",
+  "yahoo": "NVDL",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "GraniteShares 2x Long NVDA Daily ETF",
+  "kind": "same",
+  "err": 0.016,
+  "label": "ETF"
+ },
+ "TSLLUSDT": {
+  "base": "TSLL",
+  "yahoo": "TSLL",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "Direxion Daily TSLA Bull 2X Shares",
+  "kind": "same",
+  "err": 0.0295,
+  "label": "ETF"
+ },
+ "GGLLUSDT": {
+  "base": "GGLL",
+  "yahoo": "GGLL",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "Direxion Daily GOOGL Bull 2X Shares",
+  "kind": "same",
+  "err": 0.024,
+  "label": "ETF"
+ },
+ "AMZUUSDT": {
+  "base": "AMZU",
+  "yahoo": "AMZU",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "Direxion Daily AMZN Bull 2X Shares",
+  "kind": "same",
+  "err": 0.0166,
+  "label": "ETF"
+ },
+ "METUUSDT": {
+  "base": "METU",
+  "yahoo": "METU",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "Direxion Daily META Bull 2X ETF",
+  "kind": "same",
+  "err": 0.0484,
+  "label": "ETF"
+ },
+ "AAPUUSDT": {
+  "base": "AAPU",
+  "yahoo": "AAPU",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "Direxion Daily AAPL Bull 2X Shares",
+  "kind": "same",
+  "err": 0.0024,
+  "label": "ETF"
+ },
+ "MSFUUSDT": {
+  "base": "MSFU",
+  "yahoo": "MSFU",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "Direxion Daily MSFT Bull 2X Shares",
+  "kind": "same",
+  "err": 0.0053,
+  "label": "ETF"
+ },
+ "TZAUSDT": {
+  "base": "TZA",
+  "yahoo": "TZA",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "Direxion Daily Small Cap Bear 3X Shares",
+  "kind": "same",
+  "err": 0.0131,
+  "label": "ETF"
+ },
+ "MINIMAXHKDUSDT": {
+  "base": "MINIMAXHKD",
+  "yahoo": "0100.HK",
+  "cur": "HKD",
+  "exch": "HKG",
+  "name": "MiniMax Group Inc.",
+  "kind": "same",
+  "err": 0.0087,
+  "label": "주식"
+ },
+ "XIAOMIHKDUSDT": {
+  "base": "XIAOMIHKD",
+  "yahoo": "1810.HK",
+  "cur": "HKD",
+  "exch": "HKG",
+  "name": "Xiaomi Corporation",
+  "kind": "same",
+  "err": 0.005,
+  "label": "주식"
+ },
+ "TENCENTHKDUSDT": {
+  "base": "TENCENTHKD",
+  "yahoo": "0700.HK",
+  "cur": "HKD",
+  "exch": "HKG",
+  "name": "Tencent Holdings Limited",
+  "kind": "same",
+  "err": 0.0029,
+  "label": "주식"
+ },
+ "ZHIPUHKDUSDT": {
+  "base": "ZHIPUHKD",
+  "yahoo": "2513.HK",
+  "cur": "HKD",
+  "exch": "HKG",
+  "name": "Z.AI Co., Ltd.",
+  "kind": "same",
+  "err": 0.0039,
+  "label": "주식"
+ },
+ "SHAZUSDT": {
+  "base": "SHAZ",
+  "yahoo": "SHAZ",
+  "cur": "USD",
+  "exch": "NCM",
+  "name": "SharonAI Holdings Inc.",
+  "kind": "same",
+  "err": 0.0125,
+  "label": "주식"
+ },
+ "SOFIUSDT": {
+  "base": "SOFI",
+  "yahoo": "SOFI",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "SoFi Technologies, Inc.",
+  "kind": "same",
+  "err": 0.0218,
+  "label": "주식"
+ },
+ "PENGUSDT": {
+  "base": "PENG",
+  "yahoo": "PENG",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Penguin Solutions, Inc.",
+  "kind": "same",
+  "err": 0.0278,
+  "label": "주식"
+ },
+ "TMFUSDT": {
+  "base": "TMF",
+  "yahoo": "TMF",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "Direxion Daily 20+ Year Treasury Bull 3X Shares",
+  "kind": "same",
+  "err": 0.0182,
+  "label": "ETF"
+ },
+ "TBTUSDT": {
+  "base": "TBT",
+  "yahoo": "TBT",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "ProShares UltraShort 20+ Year Treasury",
+  "kind": "same",
+  "err": 0.0089,
+  "label": "ETF"
+ },
+ "BITOUSDT": {
+  "base": "BITO",
+  "yahoo": "BITO",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "ProShares Bitcoin ETF",
+  "kind": "same",
+  "err": 0.0395,
+  "label": "ETF"
+ },
+ "XLVUSDT": {
+  "base": "XLV",
+  "yahoo": "XLV",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "State Street Health Care Select Sector SPDR ETF",
+  "kind": "same",
+  "err": 0.0027,
+  "label": "ETF"
+ },
+ "IBBUSDT": {
+  "base": "IBB",
+  "yahoo": "IBB",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "iShares Biotechnology ETF",
+  "kind": "same",
+  "err": 0.0116,
+  "label": "ETF"
+ },
+ "GILDUSDT": {
+  "base": "GILD",
+  "yahoo": "GILD",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Gilead Sciences, Inc.",
+  "kind": "same",
+  "err": 0.0093,
+  "label": "주식"
+ },
+ "BOTZUSDT": {
+  "base": "BOTZ",
+  "yahoo": "BOTZ",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "Global X Robotics & Artificial Intelligence ETF",
+  "kind": "same",
+  "err": 0.0027,
+  "label": "ETF"
+ },
+ "SKDDUSDT": {
+  "base": "SKDD",
+  "yahoo": "SKDD",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "GraniteShares 2x Short SK Hynix Daily ETF",
+  "kind": "same",
+  "err": 0.0334,
+  "label": "주식"
+ },
+ "SKUUUSDT": {
+  "base": "SKUU",
+  "yahoo": "SKUU",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "Graniteshares 2x Long SK Hynix Daily ETF",
+  "kind": "same",
+  "err": 0.0371,
+  "label": "주식"
+ },
+ "JMKEUSDT": {
+  "base": "JMKE",
+  "yahoo": "JMKE",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Jersey Mike's Subs Inc.",
+  "kind": "same",
+  "err": 0.0076,
+  "label": "주식"
+ },
+ "GFSUSDT": {
+  "base": "GFS",
+  "yahoo": "GFS",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "GLOBALFOUNDRIES Inc.",
+  "kind": "same",
+  "err": 0.0266,
+  "label": "주식"
+ },
+ "SPCHUSDT": {
+  "base": "SPCH",
+  "yahoo": "SPCH",
+  "cur": "USD",
+  "exch": "BTS",
+  "name": "Leverage Shares 2X Long SPCX Daily ETF",
+  "kind": "same",
+  "err": 0.0234,
+  "label": "주식"
+ },
+ "SSPCUSDT": {
+  "base": "SSPC",
+  "yahoo": "SSPC",
+  "cur": "USD",
+  "exch": "BTS",
+  "name": "Leverage Shares 2X Short SPCX Daily ETF",
+  "kind": "same",
+  "err": 0.0258,
+  "label": "주식"
+ },
+ "BKNGUSDT": {
+  "base": "BKNG",
+  "yahoo": "BKNG",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Booking Holdings Inc.",
+  "kind": "same",
+  "err": 0.0038,
+  "label": "주식"
+ },
+ "ZMUSDT": {
+  "base": "ZM",
+  "yahoo": "ZM",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Zoom Communications, Inc.",
+  "kind": "same",
+  "err": 0.0086,
+  "label": "주식"
+ },
+ "AMGNUSDT": {
+  "base": "AMGN",
+  "yahoo": "AMGN",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Amgen Inc.",
+  "kind": "same",
+  "err": 0.0033,
+  "label": "주식"
+ },
+ "PYPLUSDT": {
+  "base": "PYPL",
+  "yahoo": "PYPL",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "PayPal Holdings, Inc.",
+  "kind": "same",
+  "err": 0.004,
+  "label": "주식"
+ },
+ "SHOPUSDT": {
+  "base": "SHOP",
+  "yahoo": "SHOP",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Shopify Inc.",
+  "kind": "same",
+  "err": 0.0048,
+  "label": "주식"
+ },
+ "EWZUSDT": {
+  "base": "EWZ",
+  "yahoo": "EWZ",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "iShares MSCI Brazil ETF",
+  "kind": "same",
+  "err": 0.01,
+  "label": "ETF"
+ },
+ "VSTUSDT": {
+  "base": "VST",
+  "yahoo": "VST",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Vistra Corp.",
+  "kind": "same",
+  "err": 0.0143,
+  "label": "주식"
+ },
+ "XLEUSDT": {
+  "base": "XLE",
+  "yahoo": "XLE",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "State Street Energy Select Sector SPDR ETF",
+  "kind": "same",
+  "err": 0.012,
+  "label": "ETF"
+ },
+ "DDOGUSDT": {
+  "base": "DDOG",
+  "yahoo": "DDOG",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Datadog, Inc.",
+  "kind": "same",
+  "err": 0.0016,
+  "label": "주식"
+ },
+ "UBERUSDT": {
+  "base": "UBER",
+  "yahoo": "UBER",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Uber Technologies, Inc.",
+  "kind": "same",
+  "err": 0.0096,
+  "label": "주식"
+ },
+ "MELIUSDT": {
+  "base": "MELI",
+  "yahoo": "MELI",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "MercadoLibre, Inc.",
+  "kind": "same",
+  "err": 0.0063,
+  "label": "주식"
+ },
+ "CSOPSK2LHKDUSDT": {
+  "base": "CSOPSK2LHKD",
+  "yahoo": "7709.HK",
+  "cur": "HKD",
+  "exch": "HKG",
+  "name": "CSOP SK HYNIX DAILY (2X) LEVERAGED PRODUCT",
+  "kind": "same",
+  "err": 0.0158,
+  "label": "주식"
+ },
+ "CSOPSS2LHKDUSDT": {
+  "base": "CSOPSS2LHKD",
+  "yahoo": "7747.HK",
+  "cur": "HKD",
+  "exch": "HKG",
+  "name": "CSOP Samsung Electronics Daily (2x) Leveraged Product",
+  "kind": "same",
+  "err": 0.0177,
+  "label": "주식"
+ },
+ "ANETUSDT": {
+  "base": "ANET",
+  "yahoo": "ANET",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Arista Networks, Inc.",
+  "kind": "same",
+  "err": 0.0214,
+  "label": "주식"
+ },
+ "LENOVOHKDUSDT": {
+  "base": "LENOVOHKD",
+  "yahoo": "0992.HK",
+  "cur": "HKD",
+  "exch": "HKG",
+  "name": "Lenovo Group Limited",
+  "kind": "same",
+  "err": 0.0024,
+  "label": "주식"
+ },
+ "NAVERUSDT": {
+  "base": "NAVER",
+  "yahoo": "035420.KS",
+  "cur": "KRW",
+  "exch": "KSC",
+  "name": "NAVER Corporation",
+  "kind": "usd",
+  "err": 0.0043,
+  "label": "주식"
+ },
+ "LGELECTRONICSUSDT": {
+  "base": "LGELECTRONICS",
+  "yahoo": "066570.KS",
+  "cur": "KRW",
+  "exch": "KSC",
+  "name": "LG Electronics Inc.",
+  "kind": "usd",
+  "err": 0.0085,
+  "label": "주식"
+ },
+ "HANMIUSDT": {
+  "base": "HANMI",
+  "yahoo": "042700.KS",
+  "cur": "KRW",
+  "exch": "KSC",
+  "name": "HANMI Semiconductor Co., Ltd.",
+  "kind": "usd",
+  "err": 0.0046,
+  "label": "주식"
+ },
+ "SAMSUNGEMUSDT": {
+  "base": "SAMSUNGEM",
+  "yahoo": "009150.KS",
+  "cur": "KRW",
+  "exch": "KSC",
+  "name": "Samsung Electro-Mechanics Co., Ltd.",
+  "kind": "usd",
+  "err": 0.0027,
+  "label": "주식"
+ },
+ "ZHONGJIUSDT": {
+  "base": "ZHONGJI",
+  "yahoo": "3308.HK",
+  "cur": "HKD",
+  "exch": "HKG",
+  "name": "Zhongji Innolight Co., Ltd.",
+  "kind": "usd",
+  "err": 0.0057,
+  "label": "주식"
+ },
+ "CXMTUSDT": {
+  "base": "CXMT",
+  "yahoo": "688825.SS",
+  "cur": "CNY",
+  "exch": "SHH",
+  "name": "CXMT Corporation",
+  "kind": "usd",
+  "err": 0.0016,
+  "label": "주식"
+ },
+ "GDXUSDT": {
+  "base": "GDX",
+  "yahoo": "GDX",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "VanEck Gold Miners ETF",
+  "kind": "same",
+  "err": 0.0012,
+  "label": "ETF"
+ },
+ "LYTEUSDT": {
+  "base": "LYTE",
+  "yahoo": "LYTE",
+  "cur": "USD",
+  "exch": "BTS",
+  "name": "Roundhill Photonics & Optics ETF",
+  "kind": "same",
+  "err": 0.0171,
+  "label": "주식"
+ },
+ "NETUSDT": {
+  "base": "NET",
+  "yahoo": "NET",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Cloudflare, Inc.",
+  "kind": "same",
+  "err": 0.0109,
+  "label": "주식"
+ },
+ "MRNAUSDT": {
+  "base": "MRNA",
+  "yahoo": "MRNA",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Moderna, Inc.",
+  "kind": "same",
+  "err": 0.0256,
+  "label": "주식"
+ },
+ "TEMUSDT": {
+  "base": "TEM",
+  "yahoo": "TEM",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Tempus AI, Inc.",
+  "kind": "same",
+  "err": 0.0104,
+  "label": "주식"
+ },
+ "MRKUSDT": {
+  "base": "MRK",
+  "yahoo": "MRK",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Merck & Co., Inc.",
+  "kind": "same",
+  "err": 0.0035,
+  "label": "주식"
+ },
+ "DEUSDT": {
+  "base": "DE",
+  "yahoo": "DE",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Deere & Company",
+  "kind": "same",
+  "err": 0.0044,
+  "label": "주식"
+ },
+ "DJTUSDT": {
+  "base": "DJT",
+  "yahoo": "DJT",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "Trump Media & Technology Group Corp.",
+  "kind": "same",
+  "err": 0.0133,
+  "label": "주식"
+ },
+ "MARAUSDT": {
+  "base": "MARA",
+  "yahoo": "MARA",
+  "cur": "USD",
+  "exch": "NCM",
+  "name": "MARA Holdings, Inc.",
+  "kind": "same",
+  "err": 0.0481,
+  "label": "주식"
+ },
+ "PURRUSDT": {
+  "base": "PURR",
+  "yahoo": "PURR",
+  "cur": "USD",
+  "exch": "NCM",
+  "name": "Hyperliquid Strategies Inc.",
+  "kind": "same",
+  "err": 0.0487,
+  "label": "주식"
+ },
+ "HPQUSDT": {
+  "base": "HPQ",
+  "yahoo": "HPQ",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "HP Inc.",
+  "kind": "same",
+  "err": 0.002,
+  "label": "주식"
+ },
+ "SHEINUSDT": {
+  "base": "SHEIN",
+  "yahoo": "0625.HK",
+  "cur": "HKD",
+  "exch": "HKG",
+  "name": "SHEIN Global Holdings Limited",
+  "kind": "usd",
+  "err": 0.009,
+  "label": "주식"
+ },
+ "OKTAUSDT": {
+  "base": "OKTA",
+  "yahoo": "OKTA",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Okta, Inc.",
+  "kind": "same",
+  "err": 0.007,
+  "label": "주식"
+ },
+ "VEEVUSDT": {
+  "base": "VEEV",
+  "yahoo": "VEEV",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Veeva Systems Inc.",
+  "kind": "same",
+  "err": 0.0004,
+  "label": "주식"
+ },
+ "SHEINHKDUSDT": {
+  "base": "SHEINHKD",
+  "yahoo": "0625.HK",
+  "cur": "HKD",
+  "exch": "HKG",
+  "name": "SHEIN Global Holdings Limited",
+  "kind": "same",
+  "err": 0.0113,
+  "label": "주식"
+ },
+ "NVSUSDT": {
+  "base": "NVS",
+  "yahoo": "NVS",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Novartis AG",
+  "kind": "same",
+  "err": 0.0035,
+  "label": "주식"
+ },
+ "GTLBUSDT": {
+  "base": "GTLB",
+  "yahoo": "GTLB",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "GitLab Inc.",
+  "kind": "same",
+  "err": 0.0075,
+  "label": "주식"
+ },
+ "ZSUSDT": {
+  "base": "ZS",
+  "yahoo": "ZS",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Zscaler, Inc.",
+  "kind": "same",
+  "err": 0.0059,
+  "label": "주식"
+ },
+ "TEAMUSDT": {
+  "base": "TEAM",
+  "yahoo": "TEAM",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Atlassian Corporation",
+  "kind": "same",
+  "err": 0.007,
+  "label": "주식"
+ },
+ "GPROUSDT": {
+  "base": "GPRO",
+  "yahoo": "GPRO",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "GoPro, Inc.",
+  "kind": "same",
+  "err": 0.0042,
+  "label": "주식"
+ },
+ "BYDUSDT": {
+  "base": "BYD",
+  "yahoo": "1211.HK",
+  "cur": "HKD",
+  "exch": "HKG",
+  "name": "BYD Company Limited",
+  "kind": "usd",
+  "err": 0.0004,
+  "label": "주식"
+ },
+ "SOFTBANKUSDT": {
+  "base": "SOFTBANK",
+  "yahoo": "9984.T",
+  "cur": "JPY",
+  "exch": "JPX",
+  "name": "SoftBank Group Corp.",
+  "kind": "usd",
+  "err": 0.0174,
+  "label": "주식"
+ },
+ "FCXUSDT": {
+  "base": "FCX",
+  "yahoo": "FCX",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Freeport-McMoRan Inc.",
+  "kind": "same",
+  "err": 0.0122,
+  "label": "주식"
+ },
+ "BHPUSDT": {
+  "base": "BHP",
+  "yahoo": "BHP",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "BHP Group Limited",
+  "kind": "same",
+  "err": 0.0099,
+  "label": "주식"
+ },
+ "RIOUSDT": {
+  "base": "RIO",
+  "yahoo": "RIO",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Rio Tinto Group",
+  "kind": "same",
+  "err": 0.0092,
+  "label": "주식"
+ },
+ "VALEUSDT": {
+  "base": "VALE",
+  "yahoo": "VALE",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Vale S.A.",
+  "kind": "same",
+  "err": 0.0028,
+  "label": "주식"
+ },
+ "CVXSTOCKUSDT": {
+  "base": "CVXSTOCK",
+  "yahoo": "CVX",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Chevron Corporation",
+  "kind": "same",
+  "err": 0.0056,
+  "label": "주식"
+ },
+ "QLDUSDT": {
+  "base": "QLD",
+  "yahoo": "QLD",
+  "cur": "USD",
+  "exch": "PCX",
+  "name": "ProShares Ultra QQQ",
+  "kind": "same",
+  "err": 0.0223,
+  "label": "ETF"
+ },
+ "IBITUSDT": {
+  "base": "IBIT",
+  "yahoo": "IBIT",
+  "cur": "USD",
+  "exch": "NGM",
+  "name": "iShares Bitcoin Trust ETF",
+  "kind": "same",
+  "err": 0.0381,
+  "label": "주식"
+ },
+ "CLSKUSDT": {
+  "base": "CLSK",
+  "yahoo": "CLSK",
+  "cur": "USD",
+  "exch": "NCM",
+  "name": "CleanSpark, Inc.",
+  "kind": "same",
+  "err": 0.0417,
+  "label": "주식"
+ },
+ "SDGRUSDT": {
+  "base": "SDGR",
+  "yahoo": "SDGR",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Schrödinger, Inc.",
+  "kind": "same",
+  "err": 0.0033,
+  "label": "주식"
+ },
+ "GNRCUSDT": {
+  "base": "GNRC",
+  "yahoo": "GNRC",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "Generac Holdings Inc.",
+  "kind": "same",
+  "err": 0.0213,
+  "label": "주식"
+ },
+ "PATHUSDT": {
+  "base": "PATH",
+  "yahoo": "PATH",
+  "cur": "USD",
+  "exch": "NYQ",
+  "name": "UiPath, Inc.",
+  "kind": "same",
+  "err": 0.004,
+  "label": "주식"
+ },
+ "CYPHUSDT": {
+  "base": "CYPH",
+  "yahoo": "CYPH",
+  "cur": "USD",
+  "exch": "NCM",
+  "name": "Cypherpunk Technologies Inc.",
+  "kind": "same",
+  "err": 0.0934,
+  "label": "주식"
+ },
+ "HUTUSDT": {
+  "base": "HUT",
+  "yahoo": "HUT",
+  "cur": "USD",
+  "exch": "NMS",
+  "name": "Hut 8 Corp.",
+  "kind": "same",
+  "err": 0.046,
+  "label": "주식"
+ },
+ "AGPUUSDT": {
+  "base": "AGPU",
+  "yahoo": "AGPU",
+  "cur": "USD",
+  "exch": "NCM",
+  "name": "Axe Compute Inc.",
+  "kind": "same",
+  "err": 0.0146,
+  "label": "주식"
+ }
+}

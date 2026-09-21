@@ -427,6 +427,13 @@ def main():
         for found in ex.map(work, universe):
             all_alerts.extend(found)
 
+    try:  # 본주가 있는 주식/ETF 토큰은 본주 차트 기준 알림(zzin_stock_alert.py)으로 대체 -> 여기서는 텔레그램 안 보냄
+        import zzin_stock_alert as _zs
+        stock_syms = _zs.mapped_symbols()
+    except Exception as e:
+        print(f"[경고] 본주 매핑 로드 실패, Bitget 기준 알림 그대로 전송: {e}")
+        stock_syms = set()
+
     for a in all_alerts:
         arrow = "숏 🔻" if a["dir"] == "short" else "롱 🔺"
         kst = datetime.fromtimestamp(a["ts"] / 1000, timezone.utc) + timedelta(hours=9)
@@ -437,8 +444,9 @@ def main():
             f"신호 캔들(UTC+9): {kst.strftime('%m-%d %H:%M')}\n"
             f"지표가 뜬 시점 가격: {a['close']:.6g}"
         )
-        print(msg)
-        send_telegram(msg)
+        if a["symbol"] not in stock_syms:
+            print(msg)
+            send_telegram(msg)
         try:  # 주문 봇(zzin_trader.py)이 읽는 신호 파일
             with open(SIGNALS_PATH, "a", encoding="utf-8") as sf:
                 sf.write(json.dumps({
