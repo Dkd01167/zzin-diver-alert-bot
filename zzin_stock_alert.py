@@ -1,7 +1,10 @@
 """주식 토큰 종목의 찐다이버전스를 '본주 차트'(Yahoo Finance 데이터) 기준으로 감지해서 텔레그램으로 보낸다.
 - 대상: stock_map.json 에 매핑된 Bitget 주식/ETF 토큰 (본주 없는 종목은 기존 Bitget 기준 알림 유지)
 - 타임프레임: 15분, 30분, 1시간, 일봉, 주봉 (본주 데이터에 4시간/6시간봉 없음)
-- 미국 종목은 프리/애프터마켓 봉 포함(트레이딩뷰 ETH 켠 상태), 그 외는 정규장만
+- 정규장 시간만 사용한다(프리/애프터마켓 제외). Yahoo가 확장시간 거래량을 항상 0으로 주는 등
+  정규장 밖 데이터 신뢰도가 낮아, 트레이딩뷰(정규장)와 어긋나는 신호가 나온 사례(2026-09-22, DDOG)가
+  확인돼서 뺐다. 정규장이 아닌 시간의 신호는 zzin_diver_alert.py 가 Bitget 자체 가격으로 대신 보낸다
+  (in_regular_hours 로 두 알림봇이 겹치지 않게 시간대를 나눔).
 - 판정 로직(RSI 14 Wilder, 70/30, 50선 초기화, 에피소드 극값)은 zzin_diver_alert.py 와 동일
 """
 import json
@@ -11,6 +14,7 @@ import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 
 import zzin_diver_alert as za
 
@@ -26,6 +30,29 @@ INC_RANGE = {"15m": "5d", "30m": "5d", "1H": "5d", "1D": "3mo", "1W": "1y"}
 BACKOFF_MS = {"15m": 10 * 60_000, "30m": 20 * 60_000, "1H": 40 * 60_000, "1D": 3 * 3_600_000, "1W": 6 * 3_600_000}
 US_EXCH = {"NMS", "NYQ", "NGM", "PCX", "NCM", "BTS", "ASE", "NYS"}
 HEADERS = {"User-Agent": "Mozilla/5.0"}
+
+# 거래소별 정규장 시간(현지시간, 월~금). 공휴일은 반영 안 함(그날은 Bitget 쪽이 대신 알림을 보냄 -> 무해).
+EXCH_SESSION = {
+    "US": (ZoneInfo("America/New_York"), (9, 30), (16, 0)),
+    "KSC": (ZoneInfo("Asia/Seoul"), (9, 0), (15, 30)),
+    "JPX": (ZoneInfo("Asia/Tokyo"), (9, 0), (15, 0)),
+    "HKG": (ZoneInfo("Asia/Hong_Kong"), (9, 30), (16, 0)),
+    "SHH": (ZoneInfo("Asia/Shanghai"), (9, 30), (15, 0)),
+}
+
+
+def in_regular_hours(exch, now_ms=None):
+    """이 거래소가 지금 정규장 시간(월~금, 장중)인지. 모르는 거래소는 보수적으로 False(정규장 아님)."""
+    key = "US" if exch in US_EXCH else exch
+    sess = EXCH_SESSION.get(key)
+    if not sess:
+        return False
+    tz, (sh, sm), (eh, em) = sess
+    now = datetime.fromtimestamp((now_ms or int(time.time() * 1000)) / 1000, tz)
+    if now.weekday() >= 5:
+        return False
+    t = now.hour * 60 + now.minute
+    return sh * 60 + sm <= t < eh * 60 + em
 
 
 def load_map():
@@ -95,16 +122,15 @@ def merge_closing_auction(bars, meta):
 
 
 def fetch_bars(ticker, gran, exch, seed, now_ms):
-    """완성된 봉만 [시작ms, o, h, l, c] 로 돌려준다."""
-    ext = (exch in US_EXCH) and gran in ("15m", "30m", "1H")
-    res = yahoo_get(ticker, gran, (SEED_RANGE if seed else INC_RANGE)[gran], ext)
+    """완성된 봉만 [시작ms, o, h, l, c] 로 돌려준다. 정규장만 쓴다(프리/애프터마켓 제외 — 위 모듈 설명 참고)."""
+    res = yahoo_get(ticker, gran, (SEED_RANGE if seed else INC_RANGE)[gran], False)
     if not res or not res.get("timestamp"):
         return []
     q = res["indicators"]["quote"][0]
     bars = [[int(t) * 1000, o, h, l, c] for t, o, h, l, c in zip(res["timestamp"], q["open"], q["high"], q["low"], q["close"])
             if None not in (o, h, l, c)]
     meta = res.get("meta", {})
-    if gran in ("15m", "30m", "1H") and not ext:
+    if gran in ("15m", "30m", "1H"):
         bars = merge_closing_auction(bars, meta)
     # 진행 중인 마지막 봉 제외
     done = []

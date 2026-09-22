@@ -431,12 +431,15 @@ def main():
         for found in ex.map(work, universe):
             all_alerts.extend(found)
 
-    try:  # 본주가 있는 주식/ETF 토큰은 본주 차트 기준 알림(zzin_stock_alert.py)으로 대체 -> 여기서는 텔레그램 안 보냄
+    try:  # 본주가 있는 주식/ETF 토큰은, 그 거래소 정규장 시간에는 본주 차트 기준 알림(zzin_stock_alert.py)이 대신
+        # 보내므로 여기서는 텔레그램을 안 보낸다. 정규장이 아닌 시간(프리/애프터마켓, 장 마감)에는 본주 데이터를
+        # 못 믿을 수 있어서 Bitget 자체 가격 기준으로 그대로 보낸다.
         import zzin_stock_alert as _zs
-        stock_syms = _zs.mapped_symbols()
+        stock_map = _zs.load_map()
     except Exception as e:
         print(f"[경고] 본주 매핑 로드 실패, Bitget 기준 알림 그대로 전송: {e}")
-        stock_syms = set()
+        _zs = None
+        stock_map = {}
 
     for a in all_alerts:
         arrow = "숏 🔻" if a["dir"] == "short" else "롱 🔺"
@@ -448,7 +451,9 @@ def main():
             f"신호 캔들(UTC+9): {kst.strftime('%m-%d %H:%M')}\n"
             f"지표가 뜬 시점 가격: {a['close']:.6g}"
         )
-        if a["symbol"] not in stock_syms:
+        info = stock_map.get(a["symbol"])
+        covered = info is not None and _zs is not None and _zs.in_regular_hours(info["exch"], now_ms)
+        if not covered:
             print(msg)
             send_telegram(msg)
         try:  # 주문 봇(zzin_trader.py)이 읽는 신호 파일
