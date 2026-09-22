@@ -222,8 +222,8 @@ def crossing_price(prev_close, prev_ag, prev_al, level, expect):
 
 def fresh_ep_state():
     return {
-        "inOB": False, "epHiPrice": None, "epHiRSI": None, "epHiTs": None,
-        "inOS": False, "epLoPrice": None, "epLoRSI": None, "epLoTs": None,
+        "inOB": False, "epHiPrice": None, "epHiRSI": None, "epHiTs": None, "hiNotified": False,
+        "inOS": False, "epLoPrice": None, "epLoRSI": None, "epLoTs": None, "loNotified": False,
         "lastHiRSI": None, "lastHiPrice": None, "lastHiTs": None,
         "lastLoRSI": None, "lastLoPrice": None, "lastLoTs": None,
         "prevRsi": None,
@@ -231,6 +231,9 @@ def fresh_ep_state():
 
 
 def process_bar(st, ts, high, low, close, rsi, prev_close, prev_ag, prev_al, emit_alerts, alerts, ctx):
+    """찐다이버 판정. 알림은 'RSI가 70(30) 아래로 내려오는 걸 기다리지 않고', 두 번째 과매수(과매도)
+    구간에서 가격 신고점(신저점) + RSI 저점(고점) 조건이 처음 성립하는 그 봉의 마감 시점에 바로 낸다
+    (트레이딩뷰에 라벨이 찍히는 피벗 봉 = 그 봉 마감 시점에 이미 확정)."""
     prevRsi = st["prevRsi"]
     if prevRsi is not None:
         if prevRsi < 50 <= rsi:
@@ -243,21 +246,20 @@ def process_bar(st, ts, high, low, close, rsi, prev_close, prev_ag, prev_al, emi
         if not st["inOB"]:
             st["inOB"] = True
             st["epHiPrice"], st["epHiRSI"], st["epHiTs"] = high, rsi, ts
+            st["hiNotified"] = False
         elif rsi > st["epHiRSI"]:
             st["epHiPrice"], st["epHiRSI"], st["epHiTs"] = high, rsi, ts
+        if not st.get("hiNotified") and st["lastHiRSI"] is not None \
+                and st["epHiPrice"] > st["lastHiPrice"] and st["epHiRSI"] < st["lastHiRSI"]:
+            st["hiNotified"] = True
+            if emit_alerts:
+                alerts.append({
+                    "dir": "short", "ts": st["epHiTs"], "close": close, "entry": close, "stop": st["epHiPrice"],
+                    "pivot_rsi": st["epHiRSI"], "prev_pivot_rsi": st["lastHiRSI"], **ctx,
+                })
     else:
         if st["inOB"]:
             st["inOB"] = False
-            if st["lastHiRSI"] is not None and st["epHiPrice"] > st["lastHiPrice"] and st["epHiRSI"] < st["lastHiRSI"]:
-                cp = crossing_price(prev_close, prev_ag, prev_al, OB, "loss")
-                if cp is None or not (low <= cp <= high):
-                    cp = close
-                if cp <= st["epHiPrice"]:
-                    if emit_alerts:
-                        alerts.append({
-                            "dir": "short", "ts": ts, "close": close, "entry": cp, "stop": st["epHiPrice"],
-                            "pivot_rsi": st["epHiRSI"], "prev_pivot_rsi": st["lastHiRSI"], **ctx,
-                        })
             st["lastHiRSI"], st["lastHiPrice"], st["lastHiTs"] = st["epHiRSI"], st["epHiPrice"], st["epHiTs"]
 
     # oversold side
@@ -265,21 +267,20 @@ def process_bar(st, ts, high, low, close, rsi, prev_close, prev_ag, prev_al, emi
         if not st["inOS"]:
             st["inOS"] = True
             st["epLoPrice"], st["epLoRSI"], st["epLoTs"] = low, rsi, ts
+            st["loNotified"] = False
         elif rsi < st["epLoRSI"]:
             st["epLoPrice"], st["epLoRSI"], st["epLoTs"] = low, rsi, ts
+        if not st.get("loNotified") and st["lastLoRSI"] is not None \
+                and st["epLoPrice"] < st["lastLoPrice"] and st["epLoRSI"] > st["lastLoRSI"]:
+            st["loNotified"] = True
+            if emit_alerts:
+                alerts.append({
+                    "dir": "long", "ts": st["epLoTs"], "close": close, "entry": close, "stop": st["epLoPrice"],
+                    "pivot_rsi": st["epLoRSI"], "prev_pivot_rsi": st["lastLoRSI"], **ctx,
+                })
     else:
         if st["inOS"]:
             st["inOS"] = False
-            if st["lastLoRSI"] is not None and st["epLoPrice"] < st["lastLoPrice"] and st["epLoRSI"] > st["lastLoRSI"]:
-                cp = crossing_price(prev_close, prev_ag, prev_al, OS, "gain")
-                if cp is None or not (low <= cp <= high):
-                    cp = close
-                if cp >= st["epLoPrice"]:
-                    if emit_alerts:
-                        alerts.append({
-                            "dir": "long", "ts": ts, "close": close, "entry": cp, "stop": st["epLoPrice"],
-                            "pivot_rsi": st["epLoRSI"], "prev_pivot_rsi": st["lastLoRSI"], **ctx,
-                        })
             st["lastLoRSI"], st["lastLoPrice"], st["lastLoTs"] = st["epLoRSI"], st["epLoPrice"], st["epLoTs"]
 
     st["prevRsi"] = rsi
